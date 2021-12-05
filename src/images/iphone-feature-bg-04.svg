@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="581.416" height="465.323" viewBox="0 0 581.416 465.323">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#268df7"/>
+      <stop offset="1" stop-color="#268df7" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.333" cy="0.566" r="0.587" gradientTransform="matrix(0.245, 0.953, 0.765, -0.304, -0.185, 0.408)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff6c50" stop-opacity="0"/>
+      <stop offset="0.517" stop-color="#ff6c50" stop-opacity="0.639"/>
+      <stop offset="1" stop-color="#ff6c50" stop-opacity="0.239"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.333" cy="0.434" r="0.578" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff6c50" stop-opacity="0.463"/>
+      <stop offset="1" stop-color="#ff6c50" stop-opacity="0.173"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0.333" cy="0.434" r="0.578" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff6c50" stop-opacity="0.306"/>
+      <stop offset="1" stop-color="#ff6c50" stop-opacity="0.114"/>
+    </radialGradient>
+  </defs>
+  <g id="iphone-feature-bg-04" transform="translate(-242.417)">
+    <path id="Path_1930" data-name="Path 1930" d="M346.533-74.72C83.02,7.9,268.99,64.137,173.286,64.137S0-34.639,0-156.488,610.047-157.34,346.533-74.72Z" transform="translate(655 257.137) rotate(180)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <g id="Group_2027" data-name="Group 2027" transform="translate(432)">
+      <path id="Path_1931" data-name="Path 1931" d="M219.833-343a172,172,0,0,1,172,172c0,94.993-87.6,167.172-172,135.18s-27-113.2-172-135.18,77.007-172,172-172Z" transform="translate(391.833) rotate(180)" fill-rule="evenodd" fill="url(#radial-gradient)"/>
+      <circle id="Ellipse_347" data-name="Ellipse 347" cx="40" cy="40" r="40" transform="translate(143)" fill="url(#radial-gradient-2)"/>
+      <circle id="Ellipse_348" data-name="Ellipse 348" cx="16" cy="16" r="16" transform="translate(282 71)" fill="url(#radial-gradient-3)"/>
+    </g>
+    <path id="Path_1933" data-name="Path 1933" d="M697.608,50l-3.624,1.667L693,55.2l1.158,3.36L697.608,60l3.249-1.639L703,55.2l-1.62-3.674Z" fill="#c1c3da" fill-rule="evenodd"/>
+    <path id="Path_1934" data-name="Path 1934" d="M683.3,72l-1.812.833L681,74.6l.579,1.68L683.3,77l1.624-.82L686,74.6l-.81-1.837Z" fill="rgba(255,108,80,0.64)" fill-rule="evenodd"/>
+    <path id="Path_1935" data-name="Path 1935" d="M729.686,119l-2.9,1.334L726,123.157l.926,2.688,2.76,1.155,2.6-1.31L734,123.157l-1.295-2.94Z" fill="rgba(66,52,248,0.64)" fill-rule="evenodd"/>
+  </g>
+</svg>

@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1234</integer>
+		<key>name</key>
+		<string>Tâm Lý Học Tội Phạm Tập 1</string>
+		<key>author</key>
+		<string>Stanton E. Samenow</string>
+		<key>number_page</key>
+		<integer>1832</integer>
+		<key>desc</key>
+		<string>&quot;Tâm lý học tội phạm&quot; là bộ sách gồm 2 tập đề cập đến quyền lựa chọn, ý chí tự do, cái thiện và cái ác, phản ứng trước cám dỗ và sự thể hiện lòng dũng cảm hay hèn nhát khi đối mặt với nghịch cảnh của con người. Những cuốn sách thiêng liêng của các tôn giáo đều khuyên loài người không nên lừa dối, giận dữ và kiêu ngạo. Chúng ta nghĩ bản thân thế nào thì sẽ là như thế. Chúng ta không thể giúp một người từ bỏ tội ác và sống có trách nhiệm nếu không thể khiến anh ta thay đổi nhân tính, đó chính là &quot;&quot;suy nghĩ&quot;&quot;.
+Ấn bản đầu tiên của cuốn sách “Tâm lý học tội phạm” được xuất bản năm 1984, và ấn bản thứ hai xuất bản năm 2004. Sau một thập kỷ, và đã đến lúc bổ sung thêm các thông tin cho cuốn sách này. Trong ấn bản này, bạn sẽ hiểu chi tiết về các quá trình tư duy và chiến thuật phổ biến đối với những kẻ phạm tội, bất kể lý lịch hay tội ác của chúng.
+Giờ đây, với cái nhìn sâu sắc hơn tác giả Stanton E.Samenow đã cung cấp cho độc giả một ấn bản cập nhật hoàn toàn về tác phẩm kinh điển của mình, bao gồm những sự nhận thức mới mẻ về tội ác đang được chú ý ngày nay, từ sự rình rập và bạo lực gia đình đến tội phạm cổ cồn và chính trị khủng bố. Ông đã từng có ba thập kỷ làm việc với tội phạm khẳng định lại lập luận của mình rằng các yếu tố như nghèo đói, ly hôn và bạo lực trên phương tiện truyền thông không gây ra tội phạm. Đúng hơn, như các tài liệu của Samenow ở đây, tất cả tội phạm đều có chung một suy nghĩ đặc biệt - thường thấy rõ trong thời thơ ấu - khác hẳn với suy nghĩ của một công dân có trách nhiệm.
+Trong khi các loại tội phạm mới ngày càng phổ biến hơn, hoặc ít nhất là dễ nhìn thấy hơn với công chúng - từ lạm dụng vợ chồng đến các vụ xả súng ở trường học - có rất ít thay đổi về cách tiếp cận của chúng ta đối với tội phạm. Các chương trình phục hồi dựa trên giả định rằng xã hội đổ lỗi cho tội phạm nhiều hơn là tội phạm, một giả định mà mối liên hệ nhân quả vẫn chưa được thiết lập, đã được chứng minh là không đầy đủ. Tội phạm tiếp tục xâm chiếm mọi khía cạnh của cuộc sống chúng ta, các tòa án hình sự và nhà tù luôn quá tải, và tỷ lệ tái phạm tiếp tục leo thang.
+Tiến sĩ Samenow, một nhà tâm lý học lâm sàng đã bác bỏ một cách hợp pháp những lời giải thích về hành vi tội phạm đổ lỗi cho hoàn cảnh, môi trường (xã hội, gia đình, truyền hình bạo lực,). Ông thường xuyên đưa ra những lời khái quát sâu rộng và không cung cấp gì khác ngoài những trường hợp có thật ủng hộ quan điểm của ông rằng tất cả tội phạm đều vi phạm pháp luật một cách có ý thức và cố ý.
+Hiểu biết thông thường về nguyên nhân phạm tội hiện vẫn là kim chỉ nam cho nhiều người vạch ra các chính sách phòng chống tội phạm. Các nhà hoạch định chính sách lãng phí hàng tỷ đô la khi họ ngây thơ tìm cách chống lại hành vi tội phạm bằng cách loại bỏ cái gọi là “nguyên nhân gốc rễ” về môi trường xung quanh.
+Điều quan trọng là chúng ta phải biết kẻ phạm tội là ai và làm thế nào và tại sao hắn lại hành động khác với những công dân có trách nhiệm. Từ sự hiểu biết đó có thể đưa ra những giải pháp hợp lý, nhân ái và hiệu quả.
+    </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1235</integer>
+		<key>name</key>
+		<string>Tâm Lý Học Tội Phạm Tập 2</string>
+		<key>author</key>
+		<string>Stanton E. Samenow</string>
+		<key>number_page</key>
+		<integer>1832</integer>
+		<key>desc</key>
+		<string>
+&quot;Tâm lý học tội phạm&quot; là bộ sách gồm 2 tập đề cập đến quyền lựa chọn, ý chí tự do, cái thiện và cái ác, phản ứng trước cám dỗ và sự thể hiện lòng dũng cảm hay hèn nhát khi đối mặt với nghịch cảnh của con người. Những cuốn sách thiêng liêng của các tôn giáo đều khuyên loài người không nên lừa dối, giận dữ và kiêu ngạo. Chúng ta nghĩ bản thân thế nào thì sẽ là như thế. Chúng ta không thể giúp một người từ bỏ tội ác và sống có trách nhiệm nếu không thể khiến anh ta thay đổi nhân tính, đó chính là &quot;&quot;suy nghĩ&quot;&quot;.
+Ấn bản đầu tiên của cuốn sách “Tâm lý học tội phạm” được xuất bản năm 1984, và ấn bản thứ hai xuất bản năm 2004. Sau một thập kỷ, và đã đến lúc bổ sung thêm các thông tin cho cuốn sách này. Trong ấn bản này, bạn sẽ hiểu chi tiết về các quá trình tư duy và chiến thuật phổ biến đối với những kẻ phạm tội, bất kể lý lịch hay tội ác của chúng.
+Giờ đây, với cái nhìn sâu sắc hơn tác giả Stanton E.Samenow đã cung cấp cho độc giả một ấn bản cập nhật hoàn toàn về tác phẩm kinh điển của mình, bao gồm những sự nhận thức mới mẻ về tội ác đang được chú ý ngày nay, từ sự rình rập và bạo lực gia đình đến tội phạm cổ cồn và chính trị khủng bố. Ông đã từng có ba thập kỷ làm việc với tội phạm khẳng định lại lập luận của mình rằng các yếu tố như nghèo đói, ly hôn và bạo lực trên phương tiện truyền thông không gây ra tội phạm. Đúng hơn, như các tài liệu của Samenow ở đây, tất cả tội phạm đều có chung một suy nghĩ đặc biệt - thường thấy rõ trong thời thơ ấu - khác hẳn với suy nghĩ của một công dân có trách nhiệm.
+Trong khi các loại tội phạm mới ngày càng phổ biến hơn, hoặc ít nhất là dễ nhìn thấy hơn với công chúng - từ lạm dụng vợ chồng đến các vụ xả súng ở trường học - có rất ít thay đổi về cách tiếp cận của chúng ta đối với tội phạm. Các chương trình phục hồi dựa trên giả định rằng xã hội đổ lỗi cho tội phạm nhiều hơn là tội phạm, một giả định mà mối liên hệ nhân quả vẫn chưa được thiết lập, đã được chứng minh là không đầy đủ. Tội phạm tiếp tục xâm chiếm mọi khía cạnh của cuộc sống chúng ta, các tòa án hình sự và nhà tù luôn quá tải, và tỷ lệ tái phạm tiếp tục leo thang.
+Tiến sĩ Samenow, một nhà tâm lý học lâm sàng đã bác bỏ một cách hợp pháp những lời giải thích về hành vi tội phạm đổ lỗi cho hoàn cảnh, môi trường (xã hội, gia đình, truyền hình bạo lực,). Ông thường xuyên đưa ra những lời khái quát sâu rộng và không cung cấp gì khác ngoài những trường hợp có thật ủng hộ quan điểm của ông rằng tất cả tội phạm đều vi phạm pháp luật một cách có ý thức và cố ý.
+Hiểu biết thông thường về nguyên nhân phạm tội hiện vẫn là kim chỉ nam cho nhiều người vạch ra các chính sách phòng chống tội phạm. Các nhà hoạch định chính sách lãng phí hàng tỷ đô la khi họ ngây thơ tìm cách chống lại hành vi tội phạm bằng cách loại bỏ cái gọi là “nguyên nhân gốc rễ” về môi trường xung quanh.
+Điều quan trọng là chúng ta phải biết kẻ phạm tội là ai và làm thế nào và tại sao hắn lại hành động khác với những công dân có trách nhiệm. Từ sự hiểu biết đó có thể đưa ra những giải pháp hợp lý, nhân ái và hiệu quả.
+    </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1231</integer>
+		<key>name</key>
+		<string>Thay Đổi Cuộc Sống Với Nhân Số Học</string>
+		<key>author</key>
+		<string>Lê Đỗ Quỳnh Hương</string>
+		<key>number_page</key>
+		<integer>1832</integer>
+		<key>desc</key>
+		<string>
+Cuốn sách Thay đổi cuộc sống với Nhân số học là tác phẩm được chị Lê Đỗ Quỳnh Hương phát triển từ tác phẩm gốc “The Complete Book of Numerology” của tiến sỹ David A. Phillips, khiến bộ môn Nhân số học khởi nguồn từ nhà toán học Pythagoras trở nên gần gũi, dễ hiểu hơn với độc giả Việt Nam.
+Đầu năm 2020, chuỗi chương trình “Thay đổi cuộc sống với Nhân số học” của biên tập viên, người dẫn chương trình quen thuộc tại Việt Nam Lê Đỗ Quỳnh Hương ra đời trên Youtube, với mục đích chia sẻ kiến thức, giúp mọi người tìm hiểu và phát triển, hoàn thiện bản thân, các mối quan hệ xã hội thông qua bộ môn Nhân số học. Chương trình đã nhận được sự yêu mến và phản hồi tích cực của rất nhiều khán giả và độc giả sau mỗi tập phát sóng.
+Nhân số học là một môn nghiên cứu sự tương quan giữa những con số trong ngày sinh, cái tên với cuộc sống, vận mệnh, đường đời và tính cách của mỗi người. Bộ môn này đã được nhà toán học Pythagoras khởi xướng cách đây 2.600 năm và sau này được nhiều thế hệ học trò liên tục kế thừa, phát triển.
+Có thể xem, Nhân số học là một bộ môn Khám phá Bản thân (Self-Discovery), đọc vị về số. Bộ môn này giúp giải mã những tín hiệu mà cuộc sống đã gửi đến từng cá thể con người trong đời sống, tương tự như Nhân tướng học hay Nhân trắc học… Khi nghiêm túc nghiên cứu sự tồn tại và mối tương quan giữa các con số xuất hiện trong ngày, tháng, năm sinh của mỗi người qua Nhân số học, ta có thể hiểu được khá nhiều về bản thân mình, cũng như mối quan hệ của mình với người khác. Nếu hiểu những &quot;&quot;mật mã&quot;&quot; nằm ẩn dưới những con số, chúng ta có thể kiểm soát cuộc sống của mình, điều chỉnh chúng theo hướng ngày càng tốt đẹp hơn, phù hợp với năng lực, tính cách của mình hơn.
+Trong quyển sách “Thay đổi cuộc sống với Nhân số học”, Lê Đỗ Quỳnh Hương đã sử dụng khoảng 60% nền tảng tri thức từ quyển sách “The Complete Book of Numerology” (tạm dịch: Một quyển sách toàn diện về Nhân số học) của Tiến sĩ David A. Phillips (1934 – 1993) và 40% kết quả nghiên cứu của chị sau khi phân tích hơn 500 trường hợp cụ thể của những người Việt Nam sinh ra trong thế kỷ 21.
+Cuốn sách “Thay đổi cuộc sống với Nhân số học”mang lại đầy đủ những kiến thức quan trọng nhất mà người hứng thú với Nhân số học cần tìm hiểu. Sách bao gồm các kiến thức về ba thể trong một con người, con số chủ đạo, biểu đồ ngày sinh, các mũi tên chỉ đặc điểm, con số ngày sinh, chu kỳ 9 năm, ba giai đoạn và bốn đỉnh cao của đời người cùng ý nghĩa, sức mạnh của cái tên của mỗi người. Các kiến thức này được diễn giải, phân tích và đi kèm các ví dụ cụ thể.
+Với mục đích đem Nhân số học trở nên gần gũi, dễ ứng dụng và mang lại những giá trị tích cực cho mỗi người trong đời sống, chị Lê Đỗ Quỳnh Hương mong rằng trong hành trình khám phá bản thân qua những con số, người đọc có thể hiểu về mình - hiểu được những thuận lợi và bất lợi mà mình gặp phải, từ đó tìm được động lực lớn để thay đổi cuộc sống. Giá trị của cuốn sách “Thay đổi cuộc sống với Nhân số học” nằm ở kiến thức tổng quan về Nhân số học và những lời khuyên sâu sắc để mỗi người có thể chuyển mình theo những hướng tích cực hơn như sống có lý tưởng, mở lòng, chăm chỉ, biết lắng nghe người khác, luyện tập thiền định, tập trung, sống có trách nhiệm, biết ơn và yêu thương…
+Trong cuộc đời của mỗi con người, chúng ta thường phải mày mò, tìm kiếm con đường riêng cho mình mà không biết chắc con đường đó có phù hợp với mình hay không. Đôi lúc, chúng ta phải phải trầy trật, vấp ngã thậm chí lạc lối mới rút ra được kinh nghiệm, bài học. Nếu hiểu về Nhân số học, và thông qua những kiến thức nhất định về ý nghĩa và sự kết hợp của các con số, chúng ta có thể tự vạch ra cho mình một hướng đi tương đối cụ thể, giảm thiểu được các lần “thử và sai”, từ đó tìm được nhiều niềm vui, hạnh phúc, ý nghĩa trong cuộc sống.
+Đó chính là thông điệp và mục đích lớn nhất mà tiến sỹ David A. Phillips và tác giả Lê Đỗ Quỳnh Hương mong muốn gửi gắm cho đông đảo bạn đọc.
+Nguồn: Trương Định
+    </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1236</integer>
+		<key>name</key>
+		<string>Du Học Nhật Bản</string>
+		<key>author</key>
+		<string>Phi Hoa</string>
+		<key>number_page</key>
+		<integer>1832</integer>
+		<key>desc</key>
+		<string>Năm 2008, Phi Hoa nhận được học bổng của chính phủ Nhật, bắt đầu quãng thời gian du học vừa “vui vẻ hạnh phúc, nhưng cũng có những nỗi cô đơn, vất vả khi ném mình vào cuộc sống” ở một xứ sở xa lạ. “Tôi đã từng khóc lớn một mình, đã từng tự gọi cấp cứu nhập viện, lặng lẽ đi bộ trong những đêm đông buốt giá sau khi đã mệt nhoài vì công việc. Chính những khoảnh khắc vất vả đó đã từng bước dạy tôi phải tự lập và cứng rắn. Tính đến tháng Tư năm 2016 là tròn tám năm tôi ở Nhật. Đó thực sự là những năm tháng vô giá trong cuộc đời.”
+Du học Nhật Bản chính là những ghi chép chân thực những trải nghiệm và suy ngẫm của tác giả từ những ngày đầu tiên đặt chân lên nước Nhật, đến những ngày đầu tiên đi làm. Bạn đọc sẽ cùng trải nghiệm quãng thời gian tám năm sống, học tập và làm việc tại Nhật cùng Phi Hoa. Đọc cuốn sách, bạn cũng nhận thêm được những thông tin hữu ích và cái nhìn chân thực về:
+- Học bổng du học của chính phủ Nhật, môi trường học tập bậc đại học ở Nhật;
+- Cuộc sống của sinh viên và người Việt Nam ở Nhật; Kinh nghiệm làm thêm và tham gia hoạt động xã hội;
+- Kinh nghiệm tìm việc ở những công ty hàng đầu thế giới, cũng như biết thêm về con người, cách sống, cách làm việc của người Nhật.&quot;
+</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1232</integer>
+		<key>name</key>
+		<string>Sức Khỏe Trong Tay Bạn</string>
+		<key>author</key>
+		<string>Trần Bích Hà</string>
+		<key>number_page</key>
+		<integer>1832</integer>
+		<key>desc</key>
+		<string>
+&quot;Một cuốn sách với rất nhiều phương pháp chăm sóc sức khỏe, phòng chữa bệnh theo cách tự nhiên, mà tác giả cuốn sách đã tự mình tìm tòi, trải nghiệm, áp dụng cho bản thân, gia đình, bạn bè trong suốt hơn 15 năm qua.
+“Nhưng thông điệp quan trọng nhất của cuốn sách này có lẽ không phải là những công thức hay phương pháp cụ thể, bởi mỗi phương pháp có thể có tác dụng tốt với một số người, nhưng chưa chắc đã phù hợp với người khác. Điều thu nhận quý giá từ những trang sách của tác giả là niềm tin vào khả năng của mỗi con người làm chủ sức khỏe của mình. Nếu ta có lòng tin và quyết tâm tìm tòi thì những bệnh mãn tính sẽ được chế ngự ở mức độ này hay mức độ khác. Ưu điểm tuyệt đối của những biện pháp tự nhiên là nếu không lạm dụng thì chúng không gây hại thêm cho cơ thể bạn. Nếu muốn cải thiện tình trạng sức khỏe của mình, bạn hãy lên đường thử nghiệm y học thay thế. Cuốn sách sẽ khơi gợi ý tưởng và tạo động lực, hãy dùng nó như hướng dẫn khởi hành. Nhưng để đến đích hay không hoàn toàn phụ thuộc vào độ kiên trì của ý chí và sức dẻo dai của đôi chân bạn. Và như tôi vẫn thường làm – nếu băn khoăn hay thắc mắc, hãy hỏi tác giả Trần Bích Hà.”
+ </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1032</integer>
+		<key>name</key>
+		<string>Lối Sống Tối Giản Của Người Nhật</string>
+		<key>author</key>
+		<string>Sasaki Fumio</string>
+		<key>number_page</key>
+		<integer>1732</integer>
+		<key>desc</key>
+		<string>Lối sống tối giản là cách sống cắt giảm vật dụng xuống còn mức tối thiểu. Và cùng với cuộc sống ít đồ đạc, ta có thể để tâm nhiều hơn tới hạnh phúc, đó chính là chủ đề của cuốn sách này.
+Chẳng có ai từ khi sinh ra đã có tài sản, đồ đạc gì trong tay. Vậy nên bất cứ ai khi mới chào đời đều là những người sống tối giản. Cứ mỗi lần bạn sở hữu trong tay những đồ dùng hơn mức cần thiết là một lần bạn lấy mất tự do của chính mình. Giá trị bản thân chúng ta không đo bằng những đồ dùng mà chúng ta sở hữu. Những đồ dùng này chỉ cho chúng ta một chút cảm giác hạnh phúc nhất thời mà thôi. Mang theo những đồ dùng hơn mức cần thiết sẽ lấy hết thời gian, năng lượng của bạn. Khi nhận ra được điều đó, tức là bạn đã bắt đầu trở thành một người sống tối giản.
+Những người sống tối giản luôn cảm thấy vui vẻ, mới lạ mỗi ngày. Cái cảm giác này, tôi nghĩ bất cứ ai cũng có thể cảm nhận được, dù bạn có phải là một người sống tối giản hay không, bởi bất cứ ai.
+Nguồn : waka.vn
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1016</integer>
+		<key>name</key>
+		<string>Muôn Kiếp Nhân Sinh 1</string>
+		<key>author</key>
+		<string>Nguyên Phong</string>
+		<key>number_page</key>
+		<integer>1143</integer>
+		<key>desc</key>
+		<string>Muôn Kiếp Nhân Sinh cung cấp cho bạn đọc kho kiến thức mới mẻ, vô tận của nhân loại lần đầu được hé mở, cùng những phân tích uyên bác, tiên đoán bất ngờ về hiện tại và tương lai thế giới của những bậc hiền triết thông thái. 
+Thông điệp quan trọng xuyên suốt của tác phẩm thức tỉnh con người chính là nguồn gốc và cách thức vận hành luật Nhân quả và Luân hồi của vũ trụ. Đời người tưởng chừng rất dài nhưng lại trôi qua rất nhanh, sinh vượng suy tử, mong manh như sóng nước. Luật Nhân quả cực kỳ chính xác, chi tiết, phức tạp, được thu thập qua nhiều đời, nhiều kiếp, liên hệ tương hỗ đan xen chặt chẽ lẫn nhau, không ai có thể tính được tích đức này có thể trừ được nghiệp kia, không ai có thể biết được khi nào nhân sẽ trổ quả. Nhưng, một khi đã gây ra nhân thì chắc chắn sẽ gặt quả - luật Nhân quả trước giờ không bao giờ sai.
+Nguồn : epub.vn
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1065</integer>
+		<key>name</key>
+		<string>Muôn Kiếp Nhân Sinh 2</string>
+		<key>author</key>
+		<string>Nguyên Phong</string>
+		<key>number_page</key>
+		<integer>1143</integer>
+		<key>desc</key>
+		<string>Muôn Kiếp Nhân Sinh là một bức tranh lớn với vô vàn mảnh ghép cuộc đời, là một cuốn phim đồ sộ, sống động về những kiếp sống huyền bí, trải dài từ nền văn minh Atlantis hùng mạnh đến vương quốc Ai Cập cổ đại của các Pharaoh quyền uy, đến Hợp Chủng Quốc Hoa Kỳ ngày nay - nơi nhân vật chính Thomas, người bạn tâm giao lâu năm của tác giả Nguyên Phong - đang sống.
+Muôn Kiếp Nhân Sinh cung cấp cho bạn đọc kho kiến thức mới mẻ, vô tận của nhân loại lần đầu được hé mở, cùng những phân tích uyên bác, tiên đoán bất ngờ về hiện tại và tương lai thế giới của những bậc hiền triết thông thái. Thông điệp quan trọng xuyên suốt của tác phẩm thức tỉnh con người chính là nguồn gốc và cách thức vận hành luật Nhân quả và Luân hồi của vũ trụ. Đời người tưởng chừng rất dài nhưng lại trôi qua rất nhanh, sinh vượng suy tử, mong manh như sóng nước. Luật Nhân quả cực kỳ chính xác, chi tiết, phức tạp, được thu thập qua nhiều đời, nhiều kiếp, liên hệ tương hỗ đan xen chặt chẽ lẫn nhau, không ai có thể tính được tích đức này có thể trừ được nghiệp kia, không ai có thể biết được khi nào nhân sẽ trổ quả. Nhưng, một khi đã gây ra nhân thì chắc chắn sẽ gặt quả - luật Nhân quả trước giờ không bao giờ sai.
+Nguồn : epub.vn
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1063</integer>
+		<key>name</key>
+		<string>Thế Giới Cho Đến Ngày Hôm Qua</string>
+		<key>author</key>
+		<string> Jared Diamond</string>
+		<key>number_page</key>
+		<integer>1692</integer>
+		<key>desc</key>
+		<string>“Thế giới cho đến ngày hôm qua là một cái nhìn đầy mê hoặc, có giá trị về việc chúng ta cần học điều gì và có lẽ đó cũng là lời đề nghị học hỏi từ truyền thống loài người nhiều hơn.” Báo Christian Science Monitor (Mỹ) đã đánh giá như vậy về cuốn sách “Thế giới cho đến ngày hôm qua” của Jared Diamond.
+Tác giả cuốn sách cho rằng, các xã hội truyền thống nói chung là hình ảnh của hàng ngàn thử nghiệm tự nhiên về cách thức tạo dựng xã hội loài người, hàng loạt giải pháp cho các vấn đề của con người.
+Chúng hoàn toàn khác biệt với những giải pháp ở xã hội hiện đại khi đặt trong tương quan so sánh quá khứ-hiện tại. Cụ thể, đó là các giải pháp về việc duy trì sức khỏe, cách thức bảo vệ ngôn ngữ, phương pháp nuôi dạy trẻ em…
+Bên cạnh đó, ông cũng chỉ ra những con đường mà nhân loại dần loại bỏ được những hủ tục (như lấy trẻ em làm đồ hiến tế, bỏ rơi người già…) hay cách thức để hạn chế rủi ro của nạn đói định kỳ, các hiểm họa từ thiên nhiên…
+Những kết quả trên được đưa ra dựa trên những nghiên cứu, phân tích của tác giả về các đặc điểm đặc hữu của một số xã hội truyền thống tại New Guinea (hòn đảo lớn thứ hai thế giới sau Greenland) và các đảo Thái Bình dương lân cận.
+Nguồn : downloadsach.com
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1111</integer>
+		<key>name</key>
+		<string>21 Bài Học Cho Thế Kỷ 21</string>
+		<key>author</key>
+		<string> Yuval Noah Harari</string>
+		<key>number_page</key>
+		<integer>1692</integer>
+		<key>desc</key>
+		<string>Sau khi tìm hiểu quá khứ và tương lai của nhân loại qua hai cuốn sách gây tiếng vang là Sapiens và Homo deus, Yuval Noah Harari đi sâu vào các vấn đề “ngay tại đây” và “ngay lúc này”, tức các sự kiện hiện tại và tương lai gần nhất của xã hội loài người.
+Những triển vọng đầy hứa hẹn của công nghệ sẽ được đưa ra bàn luận bên cạnh những hiểm họa như “đứt gãy” do công nghệ gây ra, việc kiểm soát thế giới bên trong dẫn tới sự sụp đổ của hệ thần kinh hay “tự do trong khuôn khổ”. Chính trị và tôn giáo có còn bắt tay nhau như trong quá khứ hay sẽ thao túng con người theo những cách riêng rẽ, mới mẻ hơn? Và những vấn đề toàn cầu ấy liên quan mật thiết tới hành vi và đạo đức của từng cá nhân riêng lẻ như thế nào? Xét cho cùng, những thách thức lớn nhất và những lựa chọn quan trọng nhất của ngày nay là gì? Ta cần chú ý đến điều gì? Ta nên dạy con cái ta những gì?
+“Cuộc khủng hoảng sinh thái đang lấp ló, mối đe dọa của các loại vũ khí hủy diệt hàng loạt [...] và sự trỗi dậy của các công nghệ đột phá mới” là những nỗi lo không của riêng ai; và Harari sẽ đồng hành cùng bạn trên con đường bóc tách từng vấn đề một cách thấu đáo.
+Nguồn : dtv-ebook.com
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1112</integer>
+		<key>name</key>
+		<string>Homo Deus: Lược Sử Tương Lai</string>
+		<key>author</key>
+		<string> Yuval Noah Harari</string>
+		<key>number_page</key>
+		<integer>1692</integer>
+		<key>desc</key>
+		<string>Homo sapiens có phải là một dạng sống siêu đẳng, hay chỉ là một tay đầu gấu địa phương? Làm thế nào con người lại tin rằng họ không chỉ đã kiểm soát thế giới, mà còn mang lại ý nghĩa cho nó? Công nghệ sinh học và trí thông minh nhân tạo đe dọa loài nguôi ra sao? Sinh vật nào có thể kế thừa loài người, và tôn giáo mới nào sẽ đuợc sản sinh?
+Với giọng kể cuốn hút và mới lạ, Harari sẽ dần gợi mở và trả lời những câu hỏi trên, nhờ phân tích chi tiết những luận điểm gây nhiều tranh cãi: chủ nghĩa nhân đạo là một dạng tôn giáo, thứ tôn giáo tôn thờ con người thay vì thần thánh; sinh vật là thuật toán..., ông vẽ ra một viễn cảnh tương lai khi Sapiens thất thế và Dữ liệu giáo trở thành một hình mẫu. HOMO DEUS còn bàn sâu hơn về các năng lực mà con người đã tự trang bị để sinh tồn và tiến hóa trở thành một giống loài ngự trị trên trái đất, để rồi chính trong tiến trình hoàn thiện và nâng cấp các năng lực ấy chúng ta sẽ bị truất quyền kiểm soát bởi một sinh vật mới, mang tên Homo Deus.
+Nguồn : tve-4u.org
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1058</integer>
+		<key>name</key>
+		<string>Sapiens: Lược Sử Loài Người</string>
+		<key>author</key>
+		<string> Yuval Noah Harari</string>
+		<key>number_page</key>
+		<integer>1692</integer>
+		<key>desc</key>
+		<string>Sapiens, đưa chúng ta vào một chuyến đi kinh ngạc qua toàn bộ lịch sử loài người, từ những gốc rễ tiến hóa của nó đến thời đại của chủ nghĩa tư bản và kỹ thuật di truyền, để khám phá tại sao chúng ta đang trong những điều kiện sinh sống hiện tại.
+Sapiens tập trung vào các quá trình quan trọng đã định hình loài người và thế giới quanh nó, chẳng hạn như sự ra đời của sản xuất nông nghiệp, việc tạo ra tiền, sự lan truyền của những tôn giáo, và sự nổi lên của những nhà nước quốc gia. Không giống như những quyển sách khác cùng loại, Sapiens đã có một lối tiếp cận liên ngành học, bắc cầu qua những khoảng cách giữa lịch sử, sinh học, triết học và kinh tế theo một lối trước đây chưa từng có. Hơn nữa, lấy cả quan điểm vĩ mô và vi mô, Sapiens không chỉ đề cập đến những gì đã xảy ra và tại sao, mà còn đi sâu vào việc những cá nhân trong lịch sử đó đã cảm nhận nó như thế nào.
+Tôi khuyến khích tất cả chúng ta, dẫu có những tin tưởng tín ngưỡng nào, để đặt câu hỏi về những thuật kể cơ bản về thế giới chúng ta, để nối những phát triển ngày xưa với những quan tâm ngày nay, và để không sợ hãi những vấn đề tranh luận” (Yuval Noah Harari).
+Nguồn : tve-4u.org
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1084</integer>
+		<key>name</key>
+		<string>Đặc Quyền Của Gái Hư</string>
+		<key>author</key>
+		<string>Kara King</string>
+		<key>number_page</key>
+		<integer>1232</integer>
+		<key>desc</key>
+		<string>“ĐẶC QUYỀN CỦA GÁI HƯ” – CUỐN SÁCH MÀ TẤT CẢ CÁC CÔ GÁI NÊN ĐỌC
+Cuốn sách giúp bạn nhận ra đã đến lúc bạn không còn phải lựa chọn giữa tình yêu, sự tôn trọng hay một chiếc nhẫn. Bởi bạn xứng đáng có được tất cả những điều đó!
+Bằng những chia sẻ thẳng thắn và lối suy nghĩ cởi mở về những vấn đề nhạy cảm trong đời sống của phái đẹp, tác giả Kira King sẽ giúp bạn phá vỡ mọi rào cản mà trước giờ bạn vẫn hằng e sợ.
+Quan hệ tình dục trước hôn nhân liệu có phải là xấu?
+Làm tình với người mình yêu có bị coi là dễ dãi?
+Là phụ nữ thì không nên chủ động trong chuyện “giường chiếu”?
+Với “ĐẶC QUYỀN CỦA GÁI HƯ”, bạn sẽ tìm được đáp án của riêng bạn cho tất cả những câu hỏi còn bỏ ngỏ đó. Nhưng dù câu trả lời bạn chọn có là gì, thì khi khám phá hết 12 sức mạnh tiềm ẩn của phái đẹp (tương đương với 12 chương sách), bạn cũng sẽ hiểu ra rằng: Bạn có thể lấy mọi thứ bạn muốn từ đàn ông mà không còn cần phải lo sợ việc sẽ bị tổn thương, bị lừa, hay bị đá.
+Bởi khi đã hiểu rõ nội lực và giá trị của chính bản thân mình, bạn luôn có thể thay đổi và có được mọi thứ bạn khao khát.
+Đôi khi bạn cũng cần tham lam, và thật nhẫn tâm để nắm mọi thứ trong tay, xoay mọi thứ quanh mình. Thế giới này cần những người phụ nữ như vậy để bớt đi khổ đau, vơi đi nước mắt.
+Và hãy đọc cuốn sách này với một trái tim vững vàng, một cái đầu thật rộng mở. Sau cùng, bạn sẽ có được lời cam kết, chiếc nhẫn và cả người đàn ông trong mơ của bạn.
+Nguồn : khosachonline.com
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1105</integer>
+		<key>name</key>
+		<string>Ăn, Cầu Nguyện, Yêu</string>
+		<key>author</key>
+		<string>Elizabeth Gilbert</string>
+		<key>number_page</key>
+		<integer>692</integer>
+		<key>desc</key>
+		<string>Nói sự thật. Chỉ nói sự thật. Elizabeth Gilbert đã tuyên ngôn vậy, khi cô kể lại câu chuyện cuộc đời mình trong Ăn, cầu nguyện, yêu. Những đau khổ rất nhân bản nhưng vẫn quá ngỡ ngàng đã xuất hiện giữa tuổi ba mưoi đầy xáo động của cô. Vượt qua tuyệt vọng, Liz tự mình thực hiện một hành trình dũng cảm để tìm kiếm thanh thản. Chính vì sự thật mà chuyện kể của một con người đã đủ sức mở lối cho hàng triệu người khác nhau trên khắp thế giới tìm được con đường thoát khỏi trầm cảm, thấy lại niềm vui và sự cân bằng, đồng thời sẵn sàng yêu nhau lần nữa.
+Ăn, cầu nguyện, yêu – cuốn hồi ký xuất sắc của Elizabeth Gilbert, một bestseller của The New York Times, được đánh giá là một trong những cuốn sách có ảnh hưởng lớn tới đời sống tâm lý Mỹ hiện đại. Tác phẩm đã bán hơn 5 triệu bản và được dịch ra hàng chục thứ tiếng trên toàn cầu. Thành công rực rỡ của Ăn, cầu nguyện, yêu cũng chính là bước ngoặt đưa Elizabeth Gilbert trở thành một trong bốn nhà văn được tạp chí Time bình chọn vào danh sách 100 nhân vật có ảnh hưởng nhất thế giới năm 2008.
+Nguồn : dtv-ebook.com
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1036</integer>
+		<key>name</key>
+		<string>12 Chòm Sao Và Đời Người</string>
+		<key>author</key>
+		<string>Đan Thiên</string>
+		<key>number_page</key>
+		<integer>1732</integer>
+		<key>desc</key>
+		<string>Trong vũ trụ bao la vô cùng có rất nhiều điều con người chưa biết, nhưng chúng ta có thể thảo luận nghiên cứu về những điều chưa biết trong vũ trụ thông qua một số điều đã biết, để tìm hiểu về sự huyền bí của đời người.
+Quyển sách này phân tích và giới thiệu về vận thế và tương lai của đời người ứng với các chòm sao khác nhau, các bạn không nên coi như thần minh, là định luật nhân sinh bất biến. Thực ra, quyển sách này chỉ là lấy chòm sao đối xứng khách quan với con người làm căn cứ để phân tích tính cách và vận trình của một người. Bạn phải biết vận dụng phương pháp thống kê học một cách chính xác, tuy nhiên, kết quả tính ra đôi khi cũng sẽ có hiện tượng không chính xác; vả lại, mọi sự vật đều luôn phát triển biến hóa từng giờ từng phút, cho nên nội dung quyển sách này không thể miêu tả chân thực cụ thể về cuộc đời của mỗi một người. Sách này chỉ có tính chất tham khảo, giúp đời người có một hệ tham chiếu. Hi vọng cuốn sách này là chiếc chìa khóa mở ra bí mật về nhẵn tính và vận mệnh, củng mong rằng cuốn sách này có thể giúp các bạn có sự hiểu biết nhất định về vận trình của mình, nắm được vận mệnh của mình - đây cũng chính là nội dung của quyển sách.
+Nguồn : tve-4u.org
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1052</integer>
+		<key>name</key>
+		<string>Bên Rặng Tuyết Sơn</string>
+		<key>author</key>
+		<string>Swami Amar Jyoti</string>
+		<key>number_page</key>
+		<integer>1143</integer>
+		<key>desc</key>
+		<string>Bên Rặng Tuyết Sơn là quyển sách mới trong bộ sách khoa học tâm linh nổi tiếng của dịch giả Nguyên Phong. Khơi nguồn từ vùng núi Himalaya xa xôi và vùng đồng bằng Ấn Độ, Bên Rặng Tuyết Sơn mang đến cho bạn đọc những sự thật vĩ đại về tâm linh và vai trò của việc làm chủ tâm linh cũng như làm chủ số phận. Tác phẩm còn khơi dậy những giá trị cao đẹp như: Tính trung thực, trái tim bao dung, lòng trắc ẩn, sự thông thái, lòng tín ngưỡng và tình yêu bao la.
+Nguồn : sachvui.vn
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1022</integer>
+		<key>name</key>
+		<string>Hành Trình Phương Đông</string>
+		<key>author</key>
+		<string>Baird T. Spalding</string>
+		<key>number_page</key>
+		<integer>1592</integer>
+		<key>desc</key>
+		<string>Hành trình về phương Đông - thông qua ngòi bút của dịch giả Nguyên phong - giúp người đọc đến gần với những nét văn hoá của phương Đông, khám phá các giá trị vĩnh hằng của cuộc sống. Tác phẩm luôn nằm trong top 10 cuốn sách bán chạy nhất của First News, được đánh giá là một trong những cuốn sách đương đại độc đáo, khác biệt nhất về phương Đông.
+Hành trình về phương Đông kể về những trải nghiệm của một đoàn khoa học gồm các chuyên gia hàng đầu của Hội Khoa Học Hoàng Gia Anh được cử sang Ấn Độ nghiên cứu về huyền học và những khả năng siêu nhiên của con người. Suốt hai năm trời rong ruổi khắp các đền chùa Ấn Độ, chứng kiến nhiều pháp luật, nhiều cảnh mê tín dị đoan, thậm chí lừa đảo nhiều pháp sư, đạo sĩ được tiếp xúc với những vị thế, họ được chứng kiến, trải nghiệm, hiểu biết sâu sắc về các khoa học cổ xưa và bí truyền của văn hóa Ấn Độ như Yoga, thiền định, thuật chiêm duyên, nghiệp báo, luật nhân quả, cõi sống và cõi chết
+Đúng lúc một cuộc đối thoại cởi mở và chân thành đang sắp diễn ra với các đạo sĩ bậc thầy, thì đoàn nhận được tối hậu thư từ chính quyền Anh Quốc là phải ngừng ngay việc nghiên cứu, tức khắc hồi hương và bị buộc phải im lặng, không được phát ngôn về bất cứ điều gì mà họ đã chứng nghiệm. Sau cùng ba nhà khoa học trong đoàn đã chấp nhận bỏ lại tất cả sau lưng, ở lại Ấn Độ tiếp tục nghiên cứu và cuối cùng trở thành tu sĩ. Trong số đó có giáo sư Spalding - tác giả hồi ký đặc biệt này.
+Nguồn : ebookfull.net
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1106</integer>
+		<key>name</key>
+		<string>Tâm Lý Người An Nam</string>
+		<key>author</key>
+		<string>Paul Giran</string>
+		<key>number_page</key>
+		<integer>1102</integer>
+		<key>desc</key>
+		<string>“Trên hết, người An Nam giữ mối hằn thù thâm sâu đối với bất cứ kẻ ngoại bang nào có thể tới để đánh bật họ ra khỏi tín ngưỡng, tập tục và định chế của họ. Dù cho người Trung Quốc hay người châu Âu đến xâm lăng xứ sở, sai khiến họ nhân danh một người chủ này hay người chủ kia, điều đó chẳng mấy quan trọng đối với họ, chừng nào người ta còn tôn trọng tôn giáo, luật lệ và tập quán của họ.”
+Paul Giran, một quan chức của chính quyền Đông Dương thuộc địa, có tham vọng tường giải tâm lý dân tộc An Nam, bằng một cuộc truy nguyên về cội nguồn dân tộc đó ở đại gia đình dòng giống Mông Cổ chiếm cứ vùng trung tâm châu Á, đánh giá những nhân tố tác động thuộc về môi trường tự nhiên và nhân văn, để rồi đúc kết nên cá tính và tâm hồn bản địa trải qua cuộc tiến hóa dài lâu của lịch sử. Với kiến văn sắc sảo và sự hiểu biết khá phong phú của Paul Giran về lịch sử, ngôn ngữ, tôn giáo và văn hóa Việt Nam, Tâm lý người An nam là một tư liệu có giá trị lịch sử, chí ít là khi đối sánh với tâm lý thực dân cai trị.
+Nguồn : tve-4u.org
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1101</integer>
+		<key>name</key>
+		<string>Sự Trỗi Dậy Và Suy Tàn Của Đế Chế Thứ Ba</string>
+		<key>author</key>
+		<string>William Lawrence Shirer</string>
+		<key>number_page</key>
+		<integer>1102</integer>
+		<key>desc</key>
+		<string>W. Shirer là phóng viên, ông đã quan sát và tường thuật cuộc sống của Đức Quốc xã từ năm 1925, tiếp cận các nhà lãnh đạo Đức Quốc xã hàng đầu, và sau chiến tranh ông có cơ hội khi tham dự các phiên tòa xử tội phạm chiến tranh. Ông đã bỏ ra 5 năm ruỡi để rà soát từng đống tài liệu. Từ những nguồn này và cũng từ thông tin tự thu thập ở Đức và Châu Âu trong hơn bốn thập kỷ, ông đã tổng hợp nên một thiên sử liệu của một trong những thời kỳ hãi hùng nhất trong lịch sử nhân loại. Từ khi được xuất bản năm 1960, nghiên cứu bất hủ của W.Sherer về đế chế của Hitler đã được ca ngợi rộng khắp như một hồ sơ cuối cùng về những thời khắc đen tối của thế kỷ XX. Cùng với hàng triệu bản in được phát hành trên toàn cầu, nó thực sự là một công trình đầy sức sống và có giá trị bền lâu.
+Nguồn : tve-4u.org
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<real>1102</real>
+		<key>name</key>
+		<string>Nửa Kia của Hitler</string>
+		<key>author</key>
+		<string>Éric - Emmanuel Schmitt</string>
+		<key>number_page</key>
+		<integer>1232</integer>
+		<key>desc</key>
+		<string>Vai rũ xuống, Hitler lê từng bước rời trường Mỹ thuật và chìm vào dòng người ở thành Viên. Có lúc hắn đã thấy thành phố này đẹp, trữ tình, uy nghiêm, đượm màu ba-rốc, nơi gửi gắm biết bao hy vọng; nay nó đã thu hẹp lại chật chội, vừa đủ đóng khung lấy thất bại của Hitler. Hắn có còn yêu thành Viên nữa không? Hắn có còn yêu hắn nữa không?”    
+Và điều gì sẽ xảy ra nếu như ngày 8.10.1908 đó, ban giám khảo thay vì đánh trượt, đã nhận Adolf Hitler vào Học viện Mỹ thuật Viên? Sẽ ra sao nếu cậu thanh niên nhút nhát thành Viên, thay vì trở thành “gã độc tài đồng trinh&quot;, lại thành họa sĩ siêu thực thuộc trường phái Paris lừng tiếng? Eric-Emmanuel Schmitt đã chọn lấy chính cái ngày định mệnh đó để bắt đầu cuốn sách của mình, bắt đầu hai cuộc đời song hành của hai con người rất giống mà cũng rất khác nhau: Hitler lịch sử và Adolf H. hư cấu - và như vậy cũng bắt đầu cả nửa kia của nhân loại.
+Nguồn : dtv-ebook.com
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1100</integer>
+		<key>name</key>
+		<string>Săn Lùng Hitler</string>
+		<key>author</key>
+		<string>Jerome R. Corsi</string>
+		<key>number_page</key>
+		<integer>1232</integer>
+		<key>desc</key>
+		<string>Bằng chứng gây sửng sốt toàn thế giới khi cho rằng Adolf Hitler không tự sát mà tìm cách rời khỏi Đức vào cuối Thế Chiến II! Năm 2009, ba vị giáo sư Hoa Kỳ khi tiếp cận phần hài cốt được Nga khẳng định là của Hitler đã khiến thế giới sửng sốt với chứng cớ DNA cho thấy nó thực sự thuộc về một phụ nữ 40 tuổi.
+Sự thật thì không ai tận mắt thấy cũng như không có chứng cớ xác đáng nào chứng tỏ Hitler và Eva Braun đã tự sát trong hầm trú ngày 30/04/1945. Có phải khi người Nga tiến vào hầm trú ở Berlin, Adolf Hitler và Eva Braun đã chạy thoát? Săn lùng Hitler sẽ trả lời nghi vấn trên!
+Nguồn : tve-4u.org
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1103</integer>
+		<key>name</key>
+		<string>Adolf Hitler - Chân Dung Một Trùm Phát Xít</string>
+		<key>author</key>
+		<string>John Toland</string>
+		<key>number_page</key>
+		<integer>1232</integer>
+		<key>desc</key>
+		<string>Đây là một cuốn tiểu sử đồ sộ chi tiết, với 31 chương kể về cuộc đời của một con người đã làm rung chuyển lịch sử thế giới thế kỷ XX - Adolf Hitler. Với những phân tích chi tiết, nghiên cứu suy xét kĩ lưỡng (tham khảo các nguồn tài liệu chưa công bố, phỏng vấn 200 người từng là đồng sự hoặc từng tiếp xúc với Hitler) cùng với cách kể chuyện dễ hiểu, John Toland tái hiện lại khá hoàn hảo, sinh động chân dung trùm phát xít Đức Quốc xã.
+Nguồn : tve-4u.org
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1070</integer>
+		<key>name</key>
+		<string>Cửa Tiệm Của Những Lá Thư</string>
+		<key>author</key>
+		<string>Yasushi Kitagawa</string>
+		<key>number_page</key>
+		<integer>1143</integer>
+		<key>desc</key>
+		<string>Con người không hề sống và cho rằng bản thân thế đã là hoàn hảo. Mọi người đều mang theo nhiều nỗi lo lắng và vấn đề riêng, va chạm với những người khác, tổn thương và làm kẻ khác bị tổn thương rồi mới trở nên trưởng thành hơn.
+Những người không bao giờ ngã không có nghĩa là họ mạnh, những người ngã nhưng vẫn đứng lên mới thực sự mạnh mẽ.
+Bây giờ, điều diễn ra với mình là may mắn hay bất hạnh, ta không thể phán đoán ngay lập tức. Có thể lúc đó ta coi là điều may mắn, nó lại có thể trở thành xiềng xích ràng lại cuộc đời mình. Nhưng có thể điều ta xem là không may lại giúp rất nhiều người nắm được thành công cũng là sự thật.
+Mặt khác, biến &quot;khủng hoảng&quot; thành &quot;cơ hội&quot; là điều cần thiết đối với rất nhiều người thành công.
+Tất cả mọi người đều nhờ một cơ hội nào đó mà bắt đầu bước trên con đường thành công.
+Cuốn sách này không chỉ dừng lại ở những câu chuyện đời thường, ẩn chứa bên trong là một nội lực to lớn thúc đẩy con người sống hết mình hơn, có trách nhiệm hơn với bản thân và nhất là phải đặt niềm tin tuyệt đối vào những điều mình đang theo đuổi. Rồi một ngày bạn sẽ trở thành một người tốt đẹp như trong chính những giấc mơ của mình và giúp những người khác có một cuộc đời tốt đẹp hơn.
+Nguồn : fb/ebookngontinhmienphi
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1086</integer>
+		<key>name</key>
+		<string>Nghệ Thuật Bài Trí Của Người Nhật</string>
+		<key>author</key>
+		<string>Marie Kondo</string>
+		<key>number_page</key>
+		<integer>1732</integer>
+		<key>desc</key>
+		<string>Hãy biến ngôi nhà của bạn thành một không gian luôn ngăn nắp và sạch sẽ với phương pháp KonMari kỳ diệu. Chuyên gia sắp xếp và dọn dẹp người Nhật, Marie Kondo, sẽ giúp bạn dọn sạch các căn phòng một lần cho mãi mãi với các phương pháp truyền cảm hứng được thực hiện theo từng bước.
+Điểm mấu chốt để thành công trong việc dọn dẹp nhà cửa là bạn phải thực hiện theo thứ tự đúng, chỉ giữ lại những thứ bạn thật sự yêu thích và làm tất cả cùng lúc - và thật nhanh. Sau đó, trong suốt phần đời còn lại, bạn chỉ cần lựa chọn giữ lại thứ gì và bỏ đi thứ gì.
+Phương pháp KonMari sẽ không chỉ biến đổi không gian của bạn. Khi bạn giữ được trật tự cho ngôi nhà của mình, toàn bộ cuộc sống của bạn cũng sẽ thay đổi. Bạn có thể cảm thấy tự tin hơn, trở nên thành công hơn, và có thể có năng lượng và động lực để tạo ra cuộc sống mà bạn mong muốn.
+Sau khi đọc cuốn sách “Nghệ thuật bài trí của người Nhật: Phép màu thay đổi cuộc sống”, bạn sẽ có can đảm để bứt ra khỏi những khía cạnh tiêu cực trong cuộc sống: Bạn có thể nhận ra và chấm dứt một mối quan hệ chẳng ra gì; bạn có thể không cảm thấy lo lắng nữa, và cuối cùng bạn có thể giảm cân như ý.
+Phương pháp của Marie Kondo dựa trên tôn chỉ cận &quot;đã sạch sẽ một lần thì sẽ không bao giờ bừa bộn nữa&quot;. Nếu bạn nghĩ điều đó thật không tưởng, chắc chắn là bạn nên đọc cuốn sách hấp dẫn này.
+Cuốn sách đã được xuất bản sang 33 thứ tiếng. Đã bán được 1,5 triệu bản tiếng Nhật và hơn 2 triệu bản tiếng Anh. Và liên tục đứng đầu trên các bảng xếp hạng của: Amazon, New York Times, Brazilian Newspaper, German Newspaper….
+Nguồn : ebookvie.com
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1107</integer>
+		<key>name</key>
+		<string>Cát Bụi Chân Ai</string>
+		<key>author</key>
+		<string>Tô Hoài</string>
+		<key>number_page</key>
+		<integer>692</integer>
+		<key>desc</key>
+		<string>Mở đầu bằng mối giao tình giữa Tô Hoài và Nguyễn Tuân. Kết thúc bằng cái chết của Nguyễn Tuân. Giữa hai nhà văn đó là những kiếp nhân sinh chập chờn như những bóng ma trơi. Giữa hai nhà văn đó là không khí ngột ngạt của văn nghệ, kháng chiến, cách mạng và chính trị. Giữa hai nhà văn đó, cho tới khi có một người nằm xuống, đã một nửa thế kỷ trôi qua...
+Nguồn : tve-4u.org
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1048</integer>
+		<key>name</key>
+		<string>Steve Jobs - Hành Trình Từ Gã Nhà Giàu Khinh Suất Đến Nhà Lãnh Đạo Kiệt Xuất</string>
+		<key>author</key>
+		<string>Brent Schlender, Rick Tetzeli</string>
+		<key>number_page</key>
+		<integer>1732</integer>
+		<key>desc</key>
+		<string>Steve Jobs - Hành trình từ gã nhà giàu khinh suất đến nhà lãnh đạo kiệt xuất mang đến câu trả lời cho thắc mắc lớn nhất của cả thế giới về cuộc đời, sự nghiệp của CEO và nhà đồng sáng lập Apple: Làm thế nào một gã trai trẻ kiêu căng, ngạo mạn và đầy khinh suất, bị tống cổ ra khỏi chính công ty mà mình sáng lập ra, lại có thể trở thành một nhà lãnh đạo có tầm nhìn kiệt suất nhất thời đại, và làm thay đổi cuộc sống thường ngày của hàng tỉ con người trên hành tinh này? Schlender và Tetzeli đã kể một câu chuyện hoàn toàn khác về một con người có thực đã biết vượt qua những thất bại của bản thân và học cách tối đa hóa điểm mạnh của chính mình, dựa trên những câu chuyện chưa từng được tiết lộ từ những người thân thuộc nhất với Jobs, bao gồm các thành viên trong gia đình Jobs, các cựu lãnh đạo hàng đầu và những nhân vật quan trọng nhất là Apple, Pixar và Disney, như Tim Cook, Jony Ive, Eddy Cue, Ad Catmull, John Lasserter, Robert Iger.
+Nguồn : dtv-ebook.com
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1050</integer>
+		<key>name</key>
+		<string>Steve Jobs - Sức Mạnh Của Sự Khác Biệt</string>
+		<key>author</key>
+		<string>GS-TS Huỳnh Ngọc Phiên</string>
+		<key>number_page</key>
+		<integer>1732</integer>
+		<key>desc</key>
+		<string>Cuốn sách “Steve Jobs – Sức mạnh của sự khác biệt” được lấy ý tưởng từ chiếc Ipad, trang bìa ấn tượng của cuốn sách có đầy đủ các Icon thú vị. Từ cột sóng 3G mà ngày nay đã quá phổ biến với tín đồ công nghệ đến nút nhấn duy nhất đã làm thay đổi cả nền thông tin di động trên thế giới, slide trượt quen thuộc mời độc giả “mở để đọc”. Các con số đều ẩn chứa thông điệp đặc biệt, 19h:30 Wednesday, 5 October đúng là giờ phút định mệnh thế giới mất đi thiên tài công nghệ thông tin. Cột pin dừng lại ở 56% - số tuổi tung hoành trên trần thế của “chàng lãng tử” ngang ngược Steve Jobs.
+Bìa bốn của cuốn sách đặc biệt tưởng nhớ Steve Jobs được thiết kế sáng tạo và tràn đầy cảm hứng với người đọc, dưới dạng một trang tìm kiếm của Google search, có cụm từ khóa “Steve Jobs – Sức mạnh của sự khác biệt” và những trang kết quả. “Steve Jobs – Sức mạnh của sự khác biệt” sẽ không chỉ là cuốn sách đặc biệt tưởng nhớ người hùng vĩ đại của công nghệ thông tin mà còn là những góc nhìn, phân tích sắc nét về bí mật của những khác biệt tạo nên thành công của Steve, cùng nỗi đồng cảm với bạn đọc trong cuộc chiêm nghiệm sâu sắc những thông điệp cuộc sống. Cuốn sách này do GS-TS Huỳnh Ngọc Phiên làm chủ biên.
+Nguồn : ebookvie.com
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1049</integer>
+		<key>name</key>
+		<string>Thư Gửi Steve Jobs</string>
+		<key>author</key>
+		<string>Mark Milian</string>
+		<key>number_page</key>
+		<integer>1732</integer>
+		<key>desc</key>
+		<string>Steve Jobs cứ như một con người không có thật đối với tôi. Dĩ nhiên, nhà đồng sáng lập và tổng giám đốc điểu hành của Apple là gương mặt quen thuộc nhất và cái tên nổi bật nhất trong ngành công nghệ, lĩnh vực mà tôi đã đưa tin suốt bảy năm qua. Thế nhưng lúc nào ông cũng ở “ngoài vùng phủ sóng,” hầu như chẳng bao giờ muốn tham dự bất kỳ một cuộc phỏng vấn chính thức nào với các phóng viên hoặc tham dự các hội nghị mà những doanh nhân khác thường có mặt.
+Ngay cả trong đời sống, và có lẽ còn rõ nét hơn nữa trong cái chết, Steve luôn là một nhân vật huyẽn bí. Nhiều người trong ngành công nghệ này khi nhắc đến ông đều dùng tên riêng một cách thân mật, và ngày nay người ta vẫn có thói quen đó - chỉ gọi tên riêng của ông, mặc dù chưa bao giờ gặp con người này. Các nhà kinh doanh Internet trẻ tuổi nối đuôi nhau đi theo cách của Steve, mặc dù nhiều người trong số họ chưa bao giờ được gặp trực tiếp danh nhân này. Những người ủng hộ ông thì tán tụng, còn đối thủ thì công kích ông trong những cuộc trò chuyện công khai hoặc riêng tư. Apple đã phát triển thành một công ty hùng mạnh trên thế giới, nhưng ít có công ty nào lại được định hình và chi phối bởi một thủ lĩnh đơn thương độc mã như vậy.
+Điểu bí ẩn này chính là động lực khiến mọi người tìm mọi cách liên lạc với ông, và người ta đã nghĩ đến hộp thư của ông. Nếu nỗ lực tìm kiếm trên web, ta có thể tìm thấy địa chỉ email và số điện thoại của một số người, nhưng thông tin của Steve thì luôn được lưu hành rộng rãi vì ông là một người nổi tiếng và, đáng ngạc nhiên hơn nữa, đôi khi ông quả thật có viết thư trả lời. Nói một cách khác, chính ông là người đã khơi mào câu chuyện.
+Nguồn : waka.vn
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1042</integer>
+		<key>name</key>
+		<string>Sự Thật Về Donald Trump</string>
+		<key>author</key>
+		<string>David Cay Johnston</string>
+		<key>number_page</key>
+		<integer>1392</integer>
+		<key>desc</key>
+		<string>Sự Thật Về Donald Trump là cuốn sách New York Times Bestseller đầu tiên tiết lộ mối liên hệ giữa Donald Trump với Liên Bang Nga - thứ đã làm tốn không ít giấy mực của giới truyền thông toàn cầu.
+Trong &quot;Sự thật về Donald Trump&quot;, những khía cạnh gay cấn và riêng tư nhất của nhân vật thời đại này sẽ được tiết lộ một cách cẩn trọng, dựa trên những tài liệu vững chắc. Thông qua hàng chục năm nghiên cứu các bài phỏng vấn, báo cáo tài chính, văn kiện tòa án... liên quan đến Donald Trump; tác giả - nhà báo David Cay Johnston cung cấp cho độc giả cái nhìn sâu sắc nhất về người đàn ông khiến cả thế giới phải dõi theo.
+Đúng như tiêu đề của nó, tất cả những sự thật về Donald Trump, như lịch sử gia đình phức tạp của ông, các câu chuyện hôn nhân đầy toan tính, sự nghiệp kinh doanh lắm thăng trầm, đế chế Trump hùng mạnh nhưng tai tiếng... đều sẽ được phơi bày trong tác phẩm. Và đương nhiên, chúng ta không thể không bàn tới việc Trump đã lôi kéo rất nhiều cá nhân quyền lực vào quỹ đạo của bản thân như thế nào. Johnston tâp trung phân tích hành vi ứng xử của Trump, để người đọc có thể phần nào hiểu được tính cách của con người kỳ lạ này.
+Nguồn : waka.vn
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1051</integer>
+		<key>name</key>
+		<string>Donald Trump: Đã Đến Lúc Phải Cứng Rắn Để Khôi Phục Sự Vĩ Đại Của Nước Mỹ</string>
+		<key>author</key>
+		<string>Donald J.Trump</string>
+		<key>number_page</key>
+		<integer>296</integer>
+		<key>desc</key>
+		<string>Tân Tổng thống Mỹ năm 2016 thiết lập một đại kế hoạch giúp nước Mỹ vĩ đại trở lại. Bởi theo Trump, người tiền nhiệm Obama là một thảm họa đối với đất nước này. Ông ta đã phá tung nền kinh tế, mở cửa biên giới cho những tên tội phạm bạo lực bước vào, thòng lên vai con cháu chúng ta gánh nặng nợ nần và đi khắp thế giới xin lỗi cho nước Mỹ như thể đất nước vĩ đại nhất thế giới này cần xin lỗi vì là mảnh đất của cơ hội và tự do như trước khi Obama trở thành Tổng thống. Giờ đây, nước Mỹ trông như một đất nước kiệt quệ.
+Trong cuốn sách bestseller của New York Times, Trump đưa ra những câu trả lời mà nước Mỹ đang tìm kiếm như:
+• Làm sao để đảm bảo an ninh biên giới và chặn dòng người nhập cư ồ ạt vào Mỹ.
+• Làm sao để tạo ra việc làm cho người Mỹ bằng cách buộc Trung Quốc phải tiến hành hoạt động mậu dịch thật sự công bằng.
+• Làm sao để trả dứt nợ mà không đe dọa các chương trình lâu đời như An sinh Xã hội, Chăm sóc Y tế và Trợ giúp Y tế mà hàng triệu người Mỹ đang phải sống dựa vào.
+Thẳng thắn, gay gắt và hấp dẫn từ đầu đến cuối, cuốn sách vạch ra một nghị trình dựa trên hiểu biết thông thường để khôi phục sự thịnh vượng của nước Mỹ và khiến đất nước này trở lại với vị trí dẫn đầu thế giới.
+Nguồn : ebookvie.com
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1011</integer>
+		<key>name</key>
+		<string>Xách Ba Lô Lên Và Đi - Tập 1</string>
+		<key>author</key>
+		<string>Huyền Chíp</string>
+		<key>number_page</key>
+		<integer>296</integer>
+		<key>desc</key>
+		<string>“Xách balo lên và đi” chắc hẳn không phải là cái tên quá xa lạ đối với giới trẻ hiện nay. Cuốn sách kể về chuyến phiêu lưu của Huyền – một cô bé 19 tuổi đến những vùng đất xa xôi.
+“... Mọi người hay hỏi tôi quyết định đi &quot;vòng quanh thế giới&quot; như thế nào. Tôi chẳng quyết định. Khi bắt đầu đi, tôi mới chỉ là một con bé 19 tuổi không một xu dính túi, nói đi &quot;vòng quanh thế giới&quot; chỉ như một đứa trẻ con 5 tuổi nói với mẹ &quot;lớn lên con muốn làm nhà du hành vũ trụ&quot;. Chuyến đi dài ngày này của tôi bắt đầu từ một chuyến đi ba ngày sang Brunei. Một giây phút nông nổi đã làm thay đổi cả cuộc đời tôi từ khi đó... “
+Cuốn sách là những dòng tâm sự, những kỹ năng để sống sót qua những chuyến du lịch bụi mà Huyền muốn chia sẻ đến các đọc giả của mình. Bước chân của Huyền khởi đầu cho trào lưu mới trong giới trẻ Việt: Khát khao vươn ra thế giới, đi và trải nghiệm.
+Với tập 1 - Châu Á là nhà, đừng khóc, Huyền đã tái hiện lại một cách chi tiết, cụ thể những mảng màu kinh tế - chính trị - tôn giáo dưới cái nhìn khách quan của mình - cái nhìn của một người trẻ về văn hóa của nhiều đất nước khác nhau. Đây là chuyến phiêu lưu đầu tiên của Huyền đến Brunei, du lịch các nước Malaysia, Myanmar và cả Ấn Độ.
+Ở nơi đất khách quê người, Huyền cũng đã được gặp những người đồng hương của mình, nghe họ chia sẻ về cuộc sống làm lũng để kiếm sống và có thể gặp những rủi ro ngoài ý muốn. Đó chắc hẳn cũng là lý do vì sao mà Huyền đặt tên cho chuyến đi đầu tiên của mình là “Châu Á là nhà, đừng khóc”.
+Nguồn : dtv-ebook.com
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1012</integer>
+		<key>name</key>
+		<string>Xách Ba Lô Lên Và Đi - Tập 2</string>
+		<key>author</key>
+		<string>Huyền Chíp</string>
+		<key>number_page</key>
+		<integer>296</integer>
+		<key>desc</key>
+		<string>Tập 2 của cuốn sách “Xách ba lô lên và đi” được Huyền đặt tên là “Đừng chết ở Châu Phi” như một cách để khẳng định sự khắc nghiệt của môi trường, khí hậu và địa hình nơi đây.
+Chắc hẳn đọc giả yêu mến Huyền Chíp bởi sự can đảm, đầy nhiệt huyết, dám nghĩ dám làm và máu phiêu lưu của cô gái nhỏ bé này. Mạo hiểm xách ba lô lên và đi ngược về Châu Phi, Huyền bỏ ngoài tai những lời cảnh báo từ anh bạn thân của mình - Asher để băng qua những con đường nguy hiểm nhất và trải qua những ngày vô cùng cực khổ, thậm tệ, đối mặt với đói khát, bệnh tật và những hủ tục, văn hóa lạc hậu nơi đây.
+Huyền nói: “... Chưa bao giờ tôi thấy yếu đuối như ở châu Phi: cô đơn đến cùng cực, thể chất suy sụp, bị đói, bị bỏ rơi, ám ảnh với căn bệnh thế kỷ. Chưa bao giờ tôi thấy đơn độc như khi bị sáu thanh niên cầm dao dí vào cổ cướp hết đồ đạc mà xung quanh mọi người chỉ giương mắt nhìn… ”.
+Ấy vậy mà cô gái bé nhỏ này vẫn không chịu khuất phục trước hoàn cảnh của mình. Huyền cảm nhận được trái tim ấm áp của con người nơi vùng đất này, họ sống cuộc sống đơn giản và hoang giã, khác hẳn so với các nền văn minh hiện đại ở các nước khác trên thế giới. Châu Phi để lại trong tâm trí Huyền ấn tượng đến khác thường, nơi đây cũng mang đến cho cô nhiều bài học quý giá về cuộc sống này.
+Nguồn : dtv-ebook.com
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1030</integer>
+		<key>name</key>
+		<string>Đường Mây Qua Xứ Tuyết</string>
+		<key>author</key>
+		<string>Anagarika Govinda</string>
+		<key>number_page</key>
+		<integer>1592</integer>
+		<key>desc</key>
+		<string>“Đường mây qua xứ tuyết” là một trong những cuốn sách tâm linh bán chạy nhất, cuốn sách nói về Giáo Lý Tây Tạng, người đọc sẽ cảm nhận rõ nét hơn về khái niệm tự do, sự uyên thâm và tính nguyên thủy của Phật giáo Tây Tạng.
+Tây Tạng được biết đến như một nơi huyền bí, bí ẩn,  biệt lập với thế giới bên ngoài, nhờ thế nó duy trì được một nền văn minh cổ khác với những nền văn minh mà chúng ta được biết đến và có sức hấp dẫn mãnh liệt đối với thế giới. Những bí ẩn về Tây Tạng, về huyền học hay Phật giáo Mật Tông sẽ được Anagarika Govinda tiết lộ thông qua “Đường mây qua xứ tuyết”.
+Nguồn : tve-4u.org
+        </string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1118</integer>
+		<key>name</key>
+		<string>Nghệ Thuật Ẩn Mình</string>
+		<key>author</key>
+		<string>Kevin Mitnick</string>
+		<key>number_page</key>
+		<integer>1832</integer>
+		<key>desc</key>
+		<string>Trong cuốn sách này, Kevin Mitnick, hacker nổi tiếng nhất thế giới, sẽ hướng dẫn các biện pháp dễ thực hiện và ít tốn kém giúp bạn - trên cương vị một người bình thường và một người tiêu dùng - có thể giấu thông tin nhận dạng cá nhân của mình trong kỷ nguyên của &quot;dữ liệu lớn&quot;, vốn không thiếu scandal quy mô quốc tế về những vụ vi phạm dữ liệu người dùng thường xuyên xuất hiện trên mặt báo. Mitnick bàn đến nhiều phương tiện mà chúng ta sử dụng hằng ngày - từ điện thoại, email, cho đến tin nhắn… - chỉ ra những lỗ hổng mà người khác có thể lợi dụng để giành quyền kiểm soát các dữ liệu này. Đồng thời, đưa ra giải pháp phòng chống cụ thể và hữu hiệu mà bất kỳ ai cũng đều thực hiện được nhằm tự bảo vệ mình.
+Nhưng có lẽ một trong những giá trị quan trọng nhất của cuốn sách là qua đó, tác giả đã giải ảo niềm tin thơ ngây của đại đa số chúng ta rằng, những hoạt động của mình trên mạng là đàng hoàng và lành mạnh nên có thể công khai, rằng chỉ những người có ý đồ xấu mới phải tìm cách che giấu các dữ liệu cá nhân. Hay nói như Mikko Hypponen, nhà nghiên cứu trưởng của hãng bảo mật F-Secure: &quot;Có thể bạn không có gì phải giấu giếm. Nhưng bạn có rất nhiều thứ phải bảo vệ đấy&quot;.
+Nguồn: Epub.vn</string>
+	</dict>
+</array>
+</plist>

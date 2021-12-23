@@ -6,6 +6,49 @@
 		<key>isShow</key>
 		<true/>
 		<key>id</key>
+		<real>1247</real>
+		<key>name</key>
+		<string>Sức Mạnh Tiềm Thức</string>
+		<key>author</key>
+		<string>Joseph Murphy</string>
+		<key>number_page</key>
+		<integer>1832</integer>
+		<key>desc</key>
+		<string>Là một trong những quyển sách về nghệ thuật sống nhận được nhiều lời ngợi khen và bán chạy nhất mọi thời đại, Sức mạnh tiềm thức đã giúp hàng triệu độc giả trên thế giới đạt được những mục tiêu quan trọng trong đời chỉ bằng một cách đơn giản là thay đổi tư duy.
+Sức mạnh tiềm thức giới thiệu và giải thích các phương pháp tập trung tâm thức nhằm xóa bỏ những rào cản tiềm thức đã ngăn chúng ta đạt được những điều mình mong muốn.
+Sức mạnh tiềm thức không những có khả năng truyền cảm hứng cho người đọc, mà nó còn rất thực tế vì được minh họa bằng những ví dụ sinh động trong cuộc sống hằng ngày. Từ đó, Sức mạnh tiềm thức giúp độc giả vận dụng năng lực trí tuệ phi thường tiềm ẩn trong mỗi người để tạo dựng sự tự tin, xây dựng các mối quan hệ hòa hợp, đạt được thành công trong sự nghiệp, vượt qua những nỗi sợ hãi và ám ảnh, xua đi những thói quen tiêu cực, và thậm chí còn hướng dẫn chúng ta cách chữa lành vết thương về thể chất cũng như tâm hồn để có được sự bình an, hạnh phúc trọn vẹn trong cuộc sống.
+Nguồn : dtv-ebook.com</string>
+		<key>read_count</key>
+		<string>900</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1246</integer>
+		<key>name</key>
+		<string>Rèn Luyện Tư Duy Phản Biện</string>
+		<key>author</key>
+		<string>Albert Rutherford</string>
+		<key>number_page</key>
+		<integer>1832</integer>
+		<key>desc</key>
+		<string>Như bạn có thể thấy, chìa khóa để trở thành một người có tư duy phản biện tốt chính là sự tự nhận thức. Bạn cần phải đánh giá trung thực những điều trước đây bạn nghĩ là đúng, cũng như quá trình suy nghĩ đã dẫn bạn tới những kết luận đó. Nếu bạn không có những lý lẽ hợp lý, hoặc nếu suy nghĩ của bạn bị ảnh hưởng bởi những kinh nghiệm và cảm xúc, thì lúc đó hãy cân nhắc sử dụng tư duy phản biện! Bạn cần phải nhận ra được rằng con người, kể từ khi sinh ra, rất giỏi việc đưa ra những lý do lý giải cho những suy nghĩ khiếm khuyết của mình. Nếu bạn đang có những kết luận sai lệch này thì có một sự thật là những đức tin của bạn thường mâu thuẫn với nhau và đó thường là kết quả của thiên kiến xác nhận, nhưng nếu bạn biết điều này, thì bạn đã tiến gần hơn tới sự thật rồi!
+
+Những người tư duy phản biện cũng biết rằng họ cần thu thập những ý tưởng và đức tin của mọi người. Tư duy phản biện không thể tự nhiên mà có.
+
+Những người khác có thể đưa ra những góc nhìn khác mà bạn có thể chưa bao giờ nghĩ tới, và họ có thể chỉ ra những lỗ hổng trong logic của bạn mà bạn đã hoàn toàn bỏ qua. Bạn không cần phải hoàn toàn đồng ý với ý kiến của những người khác, bởi vì điều này cũng có thể dẫn tới những vấn đề liên quan đến thiên kiến, nhưng một cuộc thảo luận phản biện là một bài tập tư duy cực kỳ hiệu quả.
+
+Việc lắng nghe những ý kiến của người khác cũng có thể giúp bạn nhận ra rằng phạm vi tri thức của bạn không phải là vô hạn. Không ai có thể biết hết tất cả mọi thứ. Nhưng với việc chia sẻ và đánh giá phê bình kiến thức, chúng ta có thể mở rộng tâm trí. Nếu điều này khiến bạn cảm thấy không thoải mái, không sao cả. Trên thực tế, bước ra ngoài vùng an toàn là một điều quan trọng để mở rộng niềm tin và suy nghĩ của bạn. Tư duy phản biện không phải là chỉ biết vài thứ, và chắc chắn không phải việc xác 
+nhận những điều bạn đã biết. Thay vào đó, nó xoay quanh việc tìm kiếm sự thật – và biến chúng trở thành thứ bạn biết.
+Nguồn: epub.vn</string>
+		<key>read_count</key>
+		<string>900</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
 		<integer>1121</integer>
 		<key>name</key>
 		<string>Bài Học Kỳ Diệu Từ Chiếc Xe Rác</string>

@@ -945,20 +945,6 @@ Về phần Hannibal Lecter, bằng trí óc siêu phàm và thủ đoạn tàn 
 		<key>isShow</key>
 		<true/>
 		<key>id</key>
-		<integer>10</integer>
-		<key>name</key>
-		<string>Đi tìm lẽ sống </string>
-		<key>author</key>
-		<string>Viktor Frankl</string>
-		<key>number_page</key>
-		<integer>220</integer>
-		<key>desc</key>
-		<string>Man&apos;s Search for Meaning - Đi tìm lẽ sống được viết bởi Viktor Frankl từ chính kinh nghiệm của mình là tù nhân trong trại tập trung Auschwitz trong Thế chiến II . Với sự hiểu biết phong phú và trải nghiệm tâm lý của người tù, Frankl ngẫm lại những ý nghĩa của cuộc sống, và cách làm thế nào mà xã hội lại có những người đứng đắn và không đứng đắn.</string>
-	</dict>
-	<dict>
-		<key>isShow</key>
-		<true/>
-		<key>id</key>
 		<integer>11</integer>
 		<key>name</key>
 		<string>Kafka bên bờ biển </string>

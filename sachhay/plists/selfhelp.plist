@@ -6,6 +6,40 @@
 		<key>isShow</key>
 		<true/>
 		<key>id</key>
+		<integer>10</integer>
+		<key>name</key>
+		<string>Đi tìm lẽ sống </string>
+		<key>author</key>
+		<string>Viktor Frankl</string>
+		<key>number_page</key>
+		<integer>220</integer>
+		<key>desc</key>
+		<string>Man&apos;s Search for Meaning - Đi tìm lẽ sống được viết bởi Viktor Frankl từ chính kinh nghiệm của mình là tù nhân trong trại tập trung Auschwitz trong Thế chiến II . Với sự hiểu biết phong phú và trải nghiệm tâm lý của người tù, Frankl ngẫm lại những ý nghĩa của cuộc sống, và cách làm thế nào mà xã hội lại có những người đứng đắn và không đứng đắn.</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1257</integer>
+		<key>name</key>
+		<string>Trí Tuệ Do Thái</string>
+		<key>author</key>
+		<string>Eran Katz</string>
+		<key>number_page</key>
+		<integer>1732</integer>
+		<key>desc</key>
+		<string>Trí tuệ Do Thái là một cuốn sách tư duy đầy tham vọng trong việc nâng cao khả năng tự học tập, ghi nhớ và phân tích - những điều đã khiến người Do Thái vượt trội lên, chiếm lĩnh những vị trí quan trọng trong ngành truyền thông, ngân hàng và những giải thưởng sáng tạo trên thế giới.
+Tuy là một cuốn sách nhỏ nhưng Trí Tuệ Do Thái lại mang trong mình tri thức về một dân tộc có thể nhỏ về số lượng nhưng vĩ đại về trí tuệ và tài năng. Cuốn sách không chỉ lý giải lý do vì sao những người Do Thái trên thế giới lại thông minh và giàu có, mà còn đặc tả con đường thành công của một người Do Thái - Jerome cùng những triết lý được đúc kết đầy giá trị.
+Trí Tuệ Do Thái không dừng lại ở giới hạn của một cuốn sách triết lý hay kỹ năng. Thông qua Jerome, một kẻ lông bông thích la cà, tác giả đưa người đọc vào một chuyến khám phá về trí tuệ của người Do Thái, từ đó khơi ra những giới hạn để người đọc có thể tự khai phá trí tuệ bản thân với &quot;Năm nguyên tắc&quot; và &quot;Mười lăm gợi ý&quot;. Đây sẽ là những bài học quý giá dành cho những ai muốn tồn tại và phát triển mạnh mẽ, không chỉ với con đường thành công của riêng mình.
+Không được viết như một cuốn sách kỹ năng khô khan, Trí Tuệ Do Thái được dựng lên bằng một câu chuyện và rồi cũng khép lại với một cái kết mở, nơi những người Do Thái đang không ngừng đối mặt với cuộc sống và chinh phục nó.
+Nguồn : epub.vn</string>
+		<key>read_count</key>
+		<string>1116</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
 		<integer>1054</integer>
 		<key>name</key>
 		<string>Dám Bị Ghét</string>

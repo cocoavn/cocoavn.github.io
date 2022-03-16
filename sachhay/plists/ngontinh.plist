@@ -6,6 +6,26 @@
 		<key>isShow</key>
 		<true/>
 		<key>id</key>
+		<real>2053</real>
+		<key>name</key>
+		<string>Công Tắc Tình Yêu</string>
+		<key>author</key>
+		<string>Phỉ Ngã Như Tồn</string>
+		<key>number_page</key>
+		<integer>1592</integer>
+		<key>desc</key>
+		<string>Thể loại: Hiện đại
+             “Em chỉ muốn lắp trong tim một cái công tắc, như vậy khi nào em muốn yêu anh thì yêu, không muốn yêu anh, thì sẽ không yêu nữa.”
+             Chu Diễn Chiếu từng khắc cho Chu Tiểu Manh một đôi giày gỗ, dưới đế ghi bốn chữ “trọn đời bên nhau”.
+             Anh đã ở bên cô suốt những năm tháng tuổi thơ, cùng cô trèo cây chuồn ra ngoài chơi, đèo cô phóng xe như bay trên những con đường ở thành Nam Duyệt, thậm chí, còn định theo cô trốn ra nước ngoài, thoát khỏi vòng kiềm tỏa của cha mẹ để `trọn đời bên nhau`.
+             Anh cũng đã giữ cô bên mình, để cô giương mắt nhìn anh quen biết, yêu đương, chung sống, rồi đính hôn với người con gái khác.
+             Là yêu thương hay căm hận, là che chở hay giày vò, là không nỡ rời xa hay là sống không bằng chết, có lẽ chính hai người cũng không phân rõ được. Tình cảm ấy vô vọng mà cố chấp, điên cuồng mà yếu đuối như đóa hoa bừng nở giữa đêm đen, sẽ tan tác theo gió, hay sẽ kết thành trái độc?</string>
+	</dict>
+
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
 		<real>3031</real>
 		<key>name</key>
 		<string>Boss Hung Dữ - Ông Xã Kết Hôn Đi</string>

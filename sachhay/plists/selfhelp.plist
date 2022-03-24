@@ -2,76 +2,92 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-    <dict>
-        <key>isShow</key>
-        <true/>
-        <key>id</key>
-        <integer>1000</integer>
-        <key>name</key>
-        <string>Đắc Nhân Tâm</string>
-        <key>author</key>
-        <string>Dale Carnegie</string>
-        <key>number_page</key>
-        <integer>692</integer>
-        <key>desc</key>
-        <string>How to Win Friends and Influence People - Đắc nhân tâm được viết vào những năm 1930, nhưng hầu hết các lời khuyên của Carnegie vẫn đúng với ngày hôm nay. Cuốn sách phát triển bản thân này cũng nằm trong nhiều Top sách gây ảnh hưởng và làm thay đổi cuộc sống của nhiều tờ báo, trang web uy tín. Cuốn sách thậm chí cũng nằm trong nhiều Top sách quản trị kinh doanh hay nhất mọi thời đại.
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1264</integer>
+		<key>name</key>
+		<string>Dám Khác Biệt Hay Là Chết</string>
+		<key>author</key>
+		<string>Jack Trout &amp; Steve Rivkin</string>
+		<key>number_page</key>
+		<integer>692</integer>
+		<key>desc</key>
+		<string>Khác biệt hóa” là một trong những vấn đề mà bất kỳ doanh nghiệp nào đều cũng muốn thực hiện được trong cuộc chiến gay gắt trên thị trường hiện nay. Nhưng liệu mọi quan điểm về sự khác biệt hóa như thế nào là đúng và được bắt nguồn từ đâu? Quyển sách “Khác biệt hay là chết” có chứa đựng đáp án cho câu hỏi này. Và đồng thời, đây cũng chính là “cội nguồn” của thuật ngữ khác biệt hóa được áp dụng rộng rãi ngày nay. Muốn bắt đầu với sự khác biệt, hãy đọc quyển sách này đầu tiên!</string>
+		<key>read_count</key>
+		<string>15663</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1000</integer>
+		<key>name</key>
+		<string>Đắc Nhân Tâm</string>
+		<key>author</key>
+		<string>Dale Carnegie</string>
+		<key>number_page</key>
+		<integer>692</integer>
+		<key>desc</key>
+		<string>How to Win Friends and Influence People - Đắc nhân tâm được viết vào những năm 1930, nhưng hầu hết các lời khuyên của Carnegie vẫn đúng với ngày hôm nay. Cuốn sách phát triển bản thân này cũng nằm trong nhiều Top sách gây ảnh hưởng và làm thay đổi cuộc sống của nhiều tờ báo, trang web uy tín. Cuốn sách thậm chí cũng nằm trong nhiều Top sách quản trị kinh doanh hay nhất mọi thời đại.
 Nguồn : epub.vn
         </string>
-        <key>read_count</key>
-        <string>15663</string>
-    </dict>
-    <dict>
-        <key>isShow</key>
-        <true/>
-        <key>id</key>
-        <integer>1019</integer>
-        <key>name</key>
-        <string>999 Lá Thư Gửi Cho Chính Mình</string>
-        <key>author</key>
-        <string>Miêu Công Tử</string>
-        <key>number_page</key>
-        <integer>1232</integer>
-        <key>desc</key>
-        <string>&quot;999 lá thư gửi cho chính mình” là một tác phẩm đặc biệt đầy cảm hứng đến từ tác giả văn học mạng nổi tiếng Miêu Công Tử, mang một màu sắc riêng biệt qua những lời thư nhỏ nhắn nhủ đến người đọc về giá trị cuộc sống, tình yêu, tuổi trẻ, tương lai… đã làm lay động trái tim của hàng vạn độc giả trẻ.
+		<key>read_count</key>
+		<string>15663</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1019</integer>
+		<key>name</key>
+		<string>999 Lá Thư Gửi Cho Chính Mình</string>
+		<key>author</key>
+		<string>Miêu Công Tử</string>
+		<key>number_page</key>
+		<integer>1232</integer>
+		<key>desc</key>
+		<string>&quot;999 lá thư gửi cho chính mình” là một tác phẩm đặc biệt đầy cảm hứng đến từ tác giả văn học mạng nổi tiếng Miêu Công Tử, mang một màu sắc riêng biệt qua những lời thư nhỏ nhắn nhủ đến người đọc về giá trị cuộc sống, tình yêu, tuổi trẻ, tương lai… đã làm lay động trái tim của hàng vạn độc giả trẻ.
 Cầm trên tay cuốn sách “999 lá thư gửi cho chính mình” – bạn sẽ hiểu rằng: tuổi trẻ của chúng ta dù có mong manh đến đâu thì cũng sẽ thành công vượt qua mọi khó khăn một cách mạnh mẽ ngoài sức tưởng tượng. Một ngày nào đó, bạn sẽ cảm nhận được hạnh phúc, tự tin của chính bản thân và học được cách mỉm cười trước những nỗi đau của quá khứ.
 Nguồn : dtv-ebook.com
         </string>
-        <key>read_count</key>
-        <string>10405</string>
-    </dict>
-    <dict>
-        <key>isShow</key>
-        <true/>
-        <key>id</key>
-        <integer>1116</integer>
-        <key>name</key>
-        <string>Bạn Đắt Giá Bao Nhiêu?</string>
-        <key>author</key>
-        <string>Vãn Tình</string>
-        <key>number_page</key>
-        <integer>1832</integer>
-        <key>desc</key>
-        <string>“Nếu một người phụ nữ đánh mất chính mình thì cô ấy sẽ mất đi tất cả”
+		<key>read_count</key>
+		<string>10405</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1116</integer>
+		<key>name</key>
+		<string>Bạn Đắt Giá Bao Nhiêu?</string>
+		<key>author</key>
+		<string>Vãn Tình</string>
+		<key>number_page</key>
+		<integer>1832</integer>
+		<key>desc</key>
+		<string>“Nếu một người phụ nữ đánh mất chính mình thì cô ấy sẽ mất đi tất cả”
 Bạn đắt giá bao nhiêu đã thay đổi tư duy của hàng triệu người phụ nữ. Nếu bạn đang tìm kiếm giá trị của bản thân thì hãy đọc cuốn sách này, Vãn Tình sẽ cho bạn một câu trả lời mà bạn cất công tìm kiếm bấy lâu nay.
 Cuốn sách bao gồm 43 câu chuyện xung quanh các vấn đề chúng ta thường gặp trong cuộc sống như tình yêu, hôn nhân, sự nghiệp,… thật dễ dàng để mỗi người áp dụng vào chính cuộc sống của mình. Cuốn sách hướng bạn đọc đến những điều tích cực, giá trị của bản thân bạn phải do bạn “định giá”, nếu không thể khẳng định được giá trị của bản thân thì bạn khó có thể lấy được sự tin tưởng cũng như tôn trọng của mọi người.
 Nguồn : dtv-ebook.com
     </string>
-        <key>read_count</key>
-        <string>11860</string>
-    </dict>
-    <dict>
-        <key>isShow</key>
-        <true/>
-        <key>id</key>
-        <integer>1002</integer>
-        <key>name</key>
-        <string>Cha Giàu, Cha Nghèo</string>
-        <key>author</key>
-        <string>Robert Kiyosaki</string>
-        <key>number_page</key>
-        <integer>1125</integer>
-        <key>desc</key>
-        <string>Cuốn sách dạy con: Cách suy nghĩ về đồng tiền sẽ quyết định tương lai và sự giàu có của bạn.
+		<key>read_count</key>
+		<string>11860</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1002</integer>
+		<key>name</key>
+		<string>Cha Giàu, Cha Nghèo</string>
+		<key>author</key>
+		<string>Robert Kiyosaki</string>
+		<key>number_page</key>
+		<integer>1125</integer>
+		<key>desc</key>
+		<string>Cuốn sách dạy con: Cách suy nghĩ về đồng tiền sẽ quyết định tương lai và sự giàu có của bạn.
 Có rất nhiều phương pháp để tôi và bạn cải thiện cuộc sống và thu nhập, nhưng với &quot;cha giàu, cha nghèo&quot; của Robert Kiyosaki, bạn sẽ biết được chìa khóa nền tảng để trở nên giàu có hơn.
 Nếu như bạn muốn có thật nhiều tiền, tiêu pha vô tư thì bạn hãy đọc Cha giàu, cha nghèo vì cuốn sách này giới thiệu vô vàn kiến thức bổ ích về thị trường marketing và tình hình tài chính sau này của bạn.
 Nếu như bạn muốn học hỏi được cách giúp mình trở thành giàu có và luôn trong tình trạng duy trì được mức sống giàu sang lâu bền thì bạn chớ bỏ qua cuốn sách Cha Giàu Cha Nghèo (Rich Dad Poor Dad) này. Bởi không những phải bạn mà hãy cho con cái sau này của bạn cũng đọc nữa, một cuốn sách Dạy con làm giàu.
@@ -82,67 +98,67 @@ Hai quan điểm khác nhau đó là: Tham tiền là một tội ác, còn ngư
 Cuốn Cha giàu, cha nghèo không chỉ đơn giản là 1 cuốn sách nói đến đồng tiền, với cách trình bày đơn giản, dễ hiểu, nhằm đem đến cho bạn thông tin chủ yếu biết cách tập trung sức lực bản thân vào đâu để mình trở thành giàu có, đồng thời khích lệ tinh thần của bạn phải luôn giữ lập trường và mạnh mẽ xông xáo trên thương trường.
 Nguồn : epub.vn
         </string>
-        <key>read_count</key>
-        <string>5172</string>
-    </dict>
-    <dict>
-        <key>isShow</key>
-        <true/>
-        <key>id</key>
-        <integer>1054</integer>
-        <key>name</key>
-        <string>Dám Bị Ghét</string>
-        <key>author</key>
-        <string> Koga Fumitake, Kishimi Ichiro</string>
-        <key>number_page</key>
-        <integer>1732</integer>
-        <key>desc</key>
-        <string>Các bạn thường than vãn về các mối quan hệ làm các bạn trở nên mệt mỏi. Người ngoài thì thấy các bạn nhạt nhẽo và vô nghĩa. Bản thân các bạn thì thấy bản thân mình kém cỏi so với mọi người. Quá khứ của bạn cũng chẳng mấy tốt đẹp, đầy những điều buồn đau và nhìn về một tương lai không mấy tươi sáng. Bạn lại sống trong một môi trường đòi hỏi những yêu cầu đầy khắc nghiệt và thậm chí những quy chuẩn hết sức phi lý. Bạn trở nên bế tắc bởi các thứ bao quanh và càng tồi tệ khi phải sống theo khuôn mẫu của người khác. Và cách giải thoát cho bạn là bạn dám sống với cá tính, với nhu cầu của mình. Và Dám bị ghét của hai tác giả Nhật Bản Kishimi Ichiro và Koga Fumitake sẽ là cánh cửa giúp bạn giải quyết những vấn đề trên.
+		<key>read_count</key>
+		<string>5172</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1054</integer>
+		<key>name</key>
+		<string>Dám Bị Ghét</string>
+		<key>author</key>
+		<string> Koga Fumitake, Kishimi Ichiro</string>
+		<key>number_page</key>
+		<integer>1732</integer>
+		<key>desc</key>
+		<string>Các bạn thường than vãn về các mối quan hệ làm các bạn trở nên mệt mỏi. Người ngoài thì thấy các bạn nhạt nhẽo và vô nghĩa. Bản thân các bạn thì thấy bản thân mình kém cỏi so với mọi người. Quá khứ của bạn cũng chẳng mấy tốt đẹp, đầy những điều buồn đau và nhìn về một tương lai không mấy tươi sáng. Bạn lại sống trong một môi trường đòi hỏi những yêu cầu đầy khắc nghiệt và thậm chí những quy chuẩn hết sức phi lý. Bạn trở nên bế tắc bởi các thứ bao quanh và càng tồi tệ khi phải sống theo khuôn mẫu của người khác. Và cách giải thoát cho bạn là bạn dám sống với cá tính, với nhu cầu của mình. Và Dám bị ghét của hai tác giả Nhật Bản Kishimi Ichiro và Koga Fumitake sẽ là cánh cửa giúp bạn giải quyết những vấn đề trên.
 Nguồn : waka.vn
         </string>
-        <key>read_count</key>
-        <string>1116</string>
-    </dict>
-    <dict>
-        <key>isShow</key>
-        <true/>
-        <key>id</key>
-        <integer>999</integer>
-        <key>name</key>
-        <string>Khéo Ăn Nói Sẽ Có Được Thiên Hạ</string>
-        <key>author</key>
-        <string>Trác Nhã</string>
-        <key>number_page</key>
-        <integer>692</integer>
-        <key>desc</key>
-        <string>Trong xã hội thông tin hiện đại, sự im lặng không còn là vàng nữa, nếu không biết cách giao tiếp thì dù là vàng cũng sẽ bị chôn vùi. Trong cuộc đời một con người, từ xin việc đến thăng tiến, từ tình yêu đến hôn nhân, từ tiếp thị cho đến đàm phán, từ xã giao đến làm việc... không thể không cần đến kĩ năng và khả năng giao tiếp. Khéo ăn khéo nói thì đi đâu, làm gì cũng gặp thuận lợi. Không khéo ăn nói, bốn bề đều là trở ngại, khó khăn. Trong thời đại thông tin và liên lạc phát triển nhanh chóng, tin tức được cập nhật liên tục, các công cụ thông tin và kĩ thuật truyền thông được ứng dụng rộng rãi như ngày nay thì việc khéo ăn nói đã trở thành “cái tài số một thiên hạ”. Trong khoảng thời gian ngắn nhất, nếu ai có thể nêu bật được khả năng, thực lực của mình cho đối phương biết thì đó sẽ là người chiến thắng. Chính vì vậy mà câu nói “Khéo ăn nói sẽ có được thiên hạ” rất có ý nghĩa. Vậy, như thế nào mới gọi là biết cách ăn nói? Nói năng lưu loát, không ấp úng có được gọi là biết cách nói chuyện không? Nói ngắn gọn, nói ít nhưng ý nghĩa thâm sâu có được gọi là biết cách nói chuyện không? Hay nhất định phải nói nhiều mới là biết nói chuyện?
+		<key>read_count</key>
+		<string>1116</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>999</integer>
+		<key>name</key>
+		<string>Khéo Ăn Nói Sẽ Có Được Thiên Hạ</string>
+		<key>author</key>
+		<string>Trác Nhã</string>
+		<key>number_page</key>
+		<integer>692</integer>
+		<key>desc</key>
+		<string>Trong xã hội thông tin hiện đại, sự im lặng không còn là vàng nữa, nếu không biết cách giao tiếp thì dù là vàng cũng sẽ bị chôn vùi. Trong cuộc đời một con người, từ xin việc đến thăng tiến, từ tình yêu đến hôn nhân, từ tiếp thị cho đến đàm phán, từ xã giao đến làm việc... không thể không cần đến kĩ năng và khả năng giao tiếp. Khéo ăn khéo nói thì đi đâu, làm gì cũng gặp thuận lợi. Không khéo ăn nói, bốn bề đều là trở ngại, khó khăn. Trong thời đại thông tin và liên lạc phát triển nhanh chóng, tin tức được cập nhật liên tục, các công cụ thông tin và kĩ thuật truyền thông được ứng dụng rộng rãi như ngày nay thì việc khéo ăn nói đã trở thành “cái tài số một thiên hạ”. Trong khoảng thời gian ngắn nhất, nếu ai có thể nêu bật được khả năng, thực lực của mình cho đối phương biết thì đó sẽ là người chiến thắng. Chính vì vậy mà câu nói “Khéo ăn nói sẽ có được thiên hạ” rất có ý nghĩa. Vậy, như thế nào mới gọi là biết cách ăn nói? Nói năng lưu loát, không ấp úng có được gọi là biết cách nói chuyện không? Nói ngắn gọn, nói ít nhưng ý nghĩa thâm sâu có được gọi là biết cách nói chuyện không? Hay nhất định phải nói nhiều mới là biết nói chuyện?
 Trong cuộc sống thường ngày, chúng ta thấy rằng: Biết cách nói chuyện không nhất định là phải nói nhiều, quan trọng là phải nói đúng trọng tâm, đúng nội dung. Và điều quan trọng là phải nắm được vấn đề mình đang nói đến. Chắc chắn rất nhiều người đã gặp phải tình huống như thế này: Có những nhân viên tiếp thị khi gặp khách hàng thì giống như một cái máy, nói không ngừng nghỉ, không để ý tới phản ứng và cảm nhận của khách hàng, không cần biết vị khách đó có đang nghe lời giới thiệu về sản phẩm hay không. Nếu làm việc như vậy thì người đó nắm chắc phần thất bại. Trong cuộc sống và trong công việc, chúng ta cũng rất hay gặp phải hiện tượng như sau: Nhiều người khi nói chuyện với người quen thì nói rất hay, không bị mất bình tĩnh hay ấp úng.
 Thế nhưng khi gặp người lạ hoặc phải nói chuyện trong một đám đông, thì người đó dường như bị mất sự chủ động với ngôn ngữ, có lúc còn không biết mình đã nói gì. Vậy làm thế nào để cải thiện và tránh gặp phải những tình huống như trên? Làm thế nào để ăn nói khéo léo? Có phương pháp và quy luật nào được áp dụng khi giao tiếp không? Có nguyên tắc và bí quyết nào cho các cuộc nói chuyện không? Trong những tình huống khác nhau, với những người khác nhau thì phải nói chuyện như thế nào, và làm sao để trình bày những điều khó nói? Cuốn sách “Khéo ăn nói sẽ có được thiên hạ” này sẽ giải đáp những câu hỏi đó. Cuốn sách với ngôn từ rõ ràng, gần gũi với cuộc sống sẽ mang đến những kĩ năng và phương pháp giao tiếp thực dụng, chắc chắn sẽ giúp ích cho quý độc giả. Nếu như những quy tắc và phương pháp chỉ giúp một số ít người nắm được và ứng dụng, thì giá trị của nĩ là có hạn. Chỉ cần những quy tắc và phương pháp cuốn sách đưa ra giúp được nhiều người, thì giá trị của nó là vơ hạn. Tác giả của “Khéo ăn nói sẽ có được thiên hạ” đã dốc hết tâm sức nghiên cứu về các kĩ năng và quy tắc giao tiếp, đây cũng chính là giá trị lớn nhất của cuốn sách.
 Nguồn : waka.vn
         </string>
-        <key>read_count</key>
-        <string>4496</string>
-    </dict>
-    <dict>
-        <key>isShow</key>
-        <true/>
-        <key>id</key>
-        <integer>1245</integer>
-        <key>name</key>
-        <string>Sức Mạnh Của Thói Quen</string>
-        <key>author</key>
-        <string>Charles Duhigg</string>
-        <key>number_page</key>
-        <integer>1832</integer>
-        <key>desc</key>
-        <string>Về cơ bản, người lớn và trẻ em không khác nhau là mấy. Bởi hầu hết những hành động hàng ngày của chúng ta đều là sản phẩm của thói quen vô thức. Thế nhưng không phải cá nhân, tổ chức nào cũng có được thành công. Đó  là vì mỗi người có những thói quen riêng. Vậy thói quen nào mới giúp bạn thành công? Trong cuốn sách “Sức mạnh của thói quen”, Charles Duhigg sẽ giải đáp thắc mắc ấy.
+		<key>read_count</key>
+		<string>4496</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1245</integer>
+		<key>name</key>
+		<string>Sức Mạnh Của Thói Quen</string>
+		<key>author</key>
+		<string>Charles Duhigg</string>
+		<key>number_page</key>
+		<integer>1832</integer>
+		<key>desc</key>
+		<string>Về cơ bản, người lớn và trẻ em không khác nhau là mấy. Bởi hầu hết những hành động hàng ngày của chúng ta đều là sản phẩm của thói quen vô thức. Thế nhưng không phải cá nhân, tổ chức nào cũng có được thành công. Đó  là vì mỗi người có những thói quen riêng. Vậy thói quen nào mới giúp bạn thành công? Trong cuốn sách “Sức mạnh của thói quen”, Charles Duhigg sẽ giải đáp thắc mắc ấy.
 Chìa khoá quan trọng nhất để mở cánh cửa thành công chính là sự kết hợp nhuần nhuyễn những thói quen tốt với nhau. Câu hỏi đặt ra là làm thế nào để phân biệt thói quen tốt và thói quen xấu? Thói quen có nằm trong tầm kiểm soát của chúng ta hay không? Với ba phần khá đầy đặn, “Sức mạnh của thói quen” cho bạn cái nhìn toàn diện không chỉ về thói quen cá nhân, của tổ chức mà còn là của toàn xã hội, cùng với lời khuyên để vận dụng các thói quen đó. Muốn thay đổi thói quen, bạn phải phá vỡ những việc làm tuỳ hứng hàng ngày – câu “thần chú” này chỉ đường cho bạn tới thành công.
 Sức mạnh của thói quen sẽ làm bạn say mê bởi những ý tưởng thú vị, những nghiên cứu ấn tượng, những phân tích thông minh và những lời khuyên thiết thực. Những độc giả đưa cuốn sách này vào danh sách bestseller của Thời báo New York suốt 40 tuần đã kiểm chứng điều đó.
 “Một thăm dò thú vụ về những thói quen bệnh hoạn của chúng ta – chúng ta hút thuốc, chúng ta không ngừng kiểm tra điện thoại, liên tục chọn lựa người tình tồi, chúng ta thường xuyên (hoặc không bao giờ) thu dọn phòng ốc. Duhigg đào sâu vào tìm ra nguyên do tại sao chúng ta làm như vậy, và chúng ta có thể thay đổi chúng ra sao, với cả cá nhân và tổ chức”
 Nguồn :  www.Sachvui.Com</string>
-        <key>read_count</key>
-        <string>3106</string>
-    </dict>
+		<key>read_count</key>
+		<string>3106</string>
+	</dict>
 	<dict>
 		<key>isShow</key>
 		<true/>

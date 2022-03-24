@@ -6,6 +6,20 @@
 		<key>isShow</key>
 		<true/>
 		<key>id</key>
+		<integer>1263</integer>
+		<key>name</key>
+		<string>Chứng Khoán - Các Sai Lầm Hay Mắc Phải Của Nhà Đầu Tư Nhỏ</string>
+		<key>author</key>
+		<string>Khuyết danh</string>
+		<key>number_page</key>
+		<integer>1832</integer>
+		<key>desc</key>
+		<string>Tổng kết cũng sai làm trong chứng khoán qua trải nghiệm của một nhà đầu nhỏ. Các bạn mới tập tành trong thị trường tài chính nên đọc để rút ra được những kinh nghiệm cho bản thân</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
 		<integer>1233</integer>
 		<key>name</key>
 		<string>Phương Pháp Đầu Tư Warren Buffett</string>

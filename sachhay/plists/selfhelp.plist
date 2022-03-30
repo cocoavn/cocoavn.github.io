@@ -6,6 +6,24 @@
 		<key>isShow</key>
 		<true/>
 		<key>id</key>
+		<integer>1265</integer>
+		<key>name</key>
+		<string>Lẽ Phải Của Phi Lý Trí</string>
+		<key>author</key>
+		<string>Dan Ariely</string>
+		<key>number_page</key>
+		<integer>692</integer>
+		<key>desc</key>
+		<string>rong cuốn sách nền tảng của mình Phi lý trí, nhà khoa học xã hội Dan Ariely đã đưa ra những ảnh hưởng đa chiều dẫn tới việc con người đưa ra những quyết định thiếu khôn ngoan. Giờ đây, trong cuốn Lẽ phải của phi lý trí, ông hé lộ những ảnh hưởng đầy bất ngờ, cả tích cực lẫn tiêu cực, mà ‘phi lý trí’ có thể tác động đến cuộc sống của chúng ta. Tập trung vào nghiên cứu những hành vi của chúng ta tại nơi làm việc và các mối quan hệ của chúng ta, ông đưa ra những hiểu biết mới và những sự thật đáng ngạc nhiên về những điều đang thôi thúc chúng ta làm việc, cách thức mà một hành động thiếu khôn ngoan có thể trở thành một thói quen, cách mà chúng ta học để yêu thương những người mà chúng ta sống cùng, và còn nhiều hơn thế nữa.
+Sử dụng những phương pháp thí nghiệm giống như những gì đã khiến cuốn sách Phi lý trí trở thành một trong những cuốn sách được bàn luận tới nhiều nhất trong vài năm trở lại đây, Ariely sử dụng dữ liệu từ những thí nghiệm thú vị và độc đáo để đưa ra những kết luận hấp dẫn về cách thức - và nguyên nhân tại sao - chúng ta hành động như vậy. Từ những thái độ tại nơi làm việc của chúng ta, cho tới những mối quan hệ lãng mạn, tới việc chúng ta luôn tìm kiếm mục đích cuộc đời mình, Ariely lý giải cách thức phá vỡ những khuôn mẫu bi quan trong suy nghĩ và hành vi của chúng ta để đưa ra những quyết định tốt hơn. Lẽ phải của phi lý trí sẽ thay đổi cách thức chúng ta nhận thức bản thân trong công việc và trong gia đình – và soi xét các hành vi phi lý trí của chúng ta dưới một thứ sắc thái ánh sáng hoàn toàn mới mẻ.
+Nguồn: dtv-ebook.com</string>
+		<key>read_count</key>
+		<string>15663</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
 		<integer>1264</integer>
 		<key>name</key>
 		<string>Dám Khác Biệt Hay Là Chết</string>

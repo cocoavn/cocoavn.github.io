@@ -6,6 +6,28 @@
 		<key>isShow</key>
 		<true/>
 		<key>id</key>
+		<integer>1277</integer>
+		<key>name</key>
+		<string>Tôi Là Zlatan Ibrahimovic</string>
+		<key>author</key>
+		<string>Trần Minh</string>
+		<key>number_page</key>
+		<integer>692</integer>
+		<key>desc</key>
+		<string>Trở lại Malmö bao giờ cũng mang đến một cảm giác đặc biệt. Malmö từng là mái ấm của tôi, đấy là nơi những ký ức luôn tìm được đường về… Mọi người xếp hàng, bất chấp trời mưa, với hy vọng có được tấm vé. Trong cuốn sách này, cũng như trong nhiều năm đã qua, tôi luôn nói những điều rác rưởi về Malmö. Tôi không thể quên những gì Hasse Borg và Bengt Madsen đã làm với mình, nhưng tôi yêu câu lạc bộ này và mãi không thể quên những bước chập chững đầu tiên cùng nó.
+Bây giờ, Malmö lại lần nữa chào đón bước chân tôi. Mọi người nhảy nhót và la hét khi thấy tôi, có người đã chờ nhiều tiếng đồng hồ chỉ để thấy tôi. Tôi đã bước chân đến nhiều nơi, nhiều sân vận động có các cổ động viên gào thét tên mình, nhưng cảm giác chưa bao giờ đặc biệt như lần trở lại Malmö này.
+…Tôi chợt nghĩ: giấc mơ là đây, là hiện thực này. Và đây là Rosengård, nơi tôi đã khởi đầu cho tất cả. Đường hầm phía trước, từ xa tôi nghe tiếng một chiếc xe lửa chuẩn bị vượt qua, ai đó đang chỉ vào tôi. Một người phụ nữ. Cô ấy muốn chụp chung một tấm hình. Rồi mọi người dần kéo đến đông hơn, vây quanh lấy tôi.
+Đấy là câu chuyện thần tiên của tôi, và tôi là Zlatan Ibrahimović!”
+Cuốn sách của Zlatan sẽ là một cuốn sách kinh điển của Thụy Điển trong tương lai. Cuốn sách sẽ làm thay đổi Thụy Điển. Nó quá xuất sắc. Một bức tranh kinh điển về tuổi thơ. Lasse Anrell, Aftonbladet
+Đây là một cuốn sách mô tả hay nhất về tầng lớp lao động Thụy Điển từ góc nhìn của những người ngoại ô. Gunnar Bolin, Kulturnytt
+Nguồn: DTV-ebook</string>
+		<key>read_count</key>
+		<string>15663</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
 		<integer>1276</integer>
 		<key>name</key>
 		<string>Thiên Tài Bên Trái, Kẻ Điên Bên Phải</string>

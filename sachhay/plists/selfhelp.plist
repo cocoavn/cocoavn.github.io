@@ -6,6 +6,27 @@
 		<key>isShow</key>
 		<true/>
 		<key>id</key>
+		<integer>1272</integer>
+		<key>name</key>
+		<string>Người Thông Minh Không Làm Việc Một Mình</string>
+		<key>author</key>
+		<string> Rodd Wagner - Gale Muller</string>
+		<key>number_page</key>
+		<integer>692</integer>
+		<key>desc</key>
+		<string>Rất nhiều người đã viết nên các cuốn sách tuyệt vời tựa tuyệt vời cùng hợp tác làm việc với người khác. Tuy nhiên, trong khi một số mối quan hệ hợp tác gặt hái thành công vượt bậc thì số khác lại không thể.
+Vậy tại sao một số người có thể phối hợp ăn ý mà số khác lại bất hòa, xung đột?
+Một cặp ăn ý cần có điềm gì chung? 
+Sự cộng tác tốt đẹp mang đến cho bạn điều gì trong công việc và cuộc sống riêng?
+Dựa vào nghiên cứu đột phá của viện Gallup, hai tác giả Rodd Wagner và Gals Muller sẽ chia cùng bạn bí mật của sự cộng tác thành công.
+Nguồn: DTV-ebook</string>
+		<key>read_count</key>
+		<string>15663</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
 		<integer>1277</integer>
 		<key>name</key>
 		<string>Tôi Là Zlatan Ibrahimovic</string>

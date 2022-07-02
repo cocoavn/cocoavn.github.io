@@ -9,8 +9,8 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư phía trước có vạch kẻ đường dành cho người đi bộ , bất chợt gặp người đi bộ băng cắt qua đường chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 10 đến giây thứ 12 trong videos.",
         "explain": "Khi di chuyển trong khu vực đông dân cư, bất chợt gặp người đi bộ băng cắt qua đường chúng ta cần đạp chân phanh để xe chạy chậm lại, thậm chí cần phải dừng lại một chút đề nhường đường cho người đi bộ băng cắt qua đường. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển.",
-        "passFrom": 10,
-        "passTo": 12,
+        "passFrom": 100,
+        "passTo": 120,
         "videoUrl": "",
         "duration": 198
       },

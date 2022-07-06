@@ -12,7 +12,7 @@
         "passFrom": 100,
         "passTo": 120,
         "videoUrl": "",
-        "duration": 198
+        "duration": 197
       },
       {
         "id": 2,
@@ -23,7 +23,7 @@
         "passFrom": 14,
         "passTo": 15,
         "videoUrl": "",
-        "duration": 20
+        "duration": 263
       },
       {
         "id": 3,
@@ -34,7 +34,7 @@
         "passFrom": 14,
         "passTo": 16,
         "videoUrl": "",
-        "duration": 20
+        "duration": 267
       },
       {
         "id": 4,
@@ -45,7 +45,7 @@
         "passFrom": 11,
         "passTo": 14,
         "videoUrl": "",
-        "duration": 20
+        "duration": 272
       },
       {
         "id": 5,
@@ -56,7 +56,7 @@
         "passFrom": 5,
         "passTo": 7,
         "videoUrl": "",
-        "duration": 20
+        "duration": 214
       },
       {
         "id": 6,
@@ -67,7 +67,7 @@
         "passFrom": 13,
         "passTo": 15,
         "videoUrl": "",
-        "duration": 20
+        "duration": 235
       },
       {
         "id": 7,
@@ -78,7 +78,7 @@
         "passFrom": 10,
         "passTo": 12,
         "videoUrl": "",
-        "duration": 20
+        "duration": 257
       },
       {
         "id": 8,
@@ -89,7 +89,7 @@
         "passFrom": 10,
         "passTo": 12,
         "videoUrl": "",
-        "duration": 20
+        "duration": 268
       },
       {
         "id": 9,
@@ -100,7 +100,7 @@
         "passFrom": 8,
         "passTo": 10,
         "videoUrl": "",
-        "duration": 20
+        "duration": 161
       },
       {
         "id": 10,
@@ -111,7 +111,7 @@
         "passFrom": 12,
         "passTo": 14,
         "videoUrl": "",
-        "duration": 20
+        "duration": 240
       },
       {
         "id": 11,
@@ -122,7 +122,7 @@
         "passFrom": 11,
         "passTo": 13,
         "videoUrl": "",
-        "duration": 20
+        "duration": 253
       },
       {
         "id": 12,
@@ -133,7 +133,7 @@
         "passFrom": 19,
         "passTo": 21,
         "videoUrl": "",
-        "duration": 20
+        "duration": 274
       },
       {
         "id": 13,
@@ -143,7 +143,8 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe đạp phía trước có chiều hướng băng qua đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 10,
         "passTo": 12,
-        "videoUrl": ""
+        "videoUrl": "",
+        "duration": 220
       },
       {
         "id": 14,
@@ -154,7 +155,7 @@
         "passFrom": 14,
         "passTo": 16,
         "videoUrl": "",
-        "duration": 20
+        "duration": 268
       },
       {
         "id": 15,
@@ -165,7 +166,7 @@
         "passFrom": 12,
         "passTo": 14,
         "videoUrl": "",
-        "duration": 20
+        "duration": 259
       },
       {
         "id": 16,
@@ -176,7 +177,7 @@
         "passFrom": 10,
         "passTo": 12,
         "videoUrl": "",
-        "duration": 20
+        "duration": 229
       },
       {
         "id": 17,
@@ -187,7 +188,7 @@
         "passFrom": 9,
         "passTo": 11,
         "videoUrl": "",
-        "duration": 20
+        "duration": 318
       },
       {
         "id": 18,
@@ -198,7 +199,7 @@
         "passFrom": 11,
         "passTo": 13,
         "videoUrl": "",
-        "duration": 20
+        "duration": 258
       },
       {
         "id": 19,
@@ -209,7 +210,7 @@
         "passFrom": 12,
         "passTo": 14,
         "videoUrl": "",
-        "duration": 20
+        "duration": 216
       },
       {
         "id": 20,
@@ -220,7 +221,7 @@
         "passFrom": 15,
         "passTo": 17,
         "videoUrl": "",
-        "duration": 20
+        "duration": 245
       }
     ]
   }

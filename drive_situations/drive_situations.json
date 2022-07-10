@@ -11,8 +11,8 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư, bất chợt gặp người đi bộ băng cắt qua đường chúng ta cần đạp chân phanh để xe chạy chậm lại, thậm chí cần phải dừng lại một chút đề nhường đường cho người đi bộ băng cắt qua đường. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển.",
         "passFrom": 100,
         "passTo": 125,
-        "videoUrl": "",
-        "duration": "19"
+        "videoUrl": "https://taplai.com/videos/1.mp4",
+        "duration": 197
       },
       {
         "id": 2,
@@ -22,7 +22,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư phía trước có xe ô tô đang di chuyển, 2 bên đều có xe đỗ lề đường. Xe đang di chuyển đến giao lộ có tín hiệu đèn xanh đèn đỏ, hiện đèn tín hiệu vẫn đang có màu xanh tuy nhiên phát hiện thấy có người đi bộ băng cắt qua đường thì chúng ta cần đạp chân phanh để xe chạy chậm lại, thậm chí cần phải dừng lại một chút đề nhường đường cho người đi bộ băng cắt qua đường. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển.",
         "passFrom": 14,
         "passTo": 15,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/2.mp4"
       },
       {
         "id": 3,
@@ -32,7 +32,7 @@
         "explain": " Khi di chuyển trong khu vực đông dân cư phía trước có xe ô tô đang di chuyển thì bất ngờ xe phía trước phanh gấp thì chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển.",
         "passFrom": 14,
         "passTo": 16,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/3.mp4"
       },
       {
         "id": 4,
@@ -42,7 +42,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư và trong điều kiện thời tiết có mưa đường trơn trượt, khi qua ngã ba phát hiện thấy xe ở đường khác tiến hành nhập làn trước chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển",
         "passFrom": 11,
         "passTo": 14,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/4.mp4"
       },
       {
         "id": 5,
@@ -52,7 +52,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư khi đến khu vực ngã ba phát hiện xe Bus ở hướng đối diện có ý định vượt phải chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển.",
         "passFrom": 5,
         "passTo": 7,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/5.mp4"
       },
       {
         "id": 6,
@@ -62,7 +62,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư khi đến khu vực ngã ba phát hiện xe Bus ở hướng đối diện có ý định vượt phải chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển",
         "passFrom": 13,
         "passTo": 15,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/6.mp4"
       },
       {
         "id": 7,
@@ -72,7 +72,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư khi đến khu vực giao lộ, trước mắt là đèn xanh tuy nhiên đang có người đi bộ băng cắt qua đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 10,
         "passTo": 12,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/7.mp4"
       },
       {
         "id": 8,
@@ -82,7 +82,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư khi đến khu vực giao lộ, bỗng có xe đạp phía bên trái băng qua giao lộ chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 10,
         "passTo": 12,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/8.mp4"
       },
       {
         "id": 9,
@@ -92,7 +92,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư đường đôi có dải phân cách bỗng chợt phía đối diện có xe ô tô lấn làn vượt ẩu chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 8,
         "passTo": 10,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/9.mp4"
       },
       {
         "id": 10,
@@ -102,7 +102,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư đến ngã ba thì phát hiện bên phía tay trái có xe ô tô vào giao lộ trước chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 12,
         "passTo": 14,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/10.mp4"
       },
       {
         "id": 11,
@@ -112,7 +112,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe bồn có tín hiệu xin vượt ở hướng ngược lại chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 11,
         "passTo": 13,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/11.mp4"
       },
       {
         "id": 12,
@@ -122,7 +122,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở chiều ngược lại có tín hiệu đèn xin rẽ trái chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 19,
         "passTo": 21,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/12.mp4"
       },
       {
         "id": 13,
@@ -132,7 +132,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe đạp phía trước có chiều hướng băng qua đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 10,
         "passTo": 12,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/13.mp4"
       },
       {
         "id": 14,
@@ -142,7 +142,7 @@
         "explain": "Khi di chuyển trong khu vực thành thị, khu đông dân cư phía trước là hầm đường bộ và có biển báo đường hẹp, ngay khi phát hiện ô tô tải phía đường ngược lại trước cửa hầm chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 14,
         "passTo": 16,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/14.mp3"
       },
       {
         "id": 15,
@@ -152,7 +152,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô tải phía trước bất ngờ dừng lại có tín hiệu đèn đỏ ở phía sau xe chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển",
         "passFrom": 12,
         "passTo": 14,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/15.mp4"
       },
       {
         "id": 16,
@@ -162,7 +162,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở phía tay trái có khả năng vượt ẩu chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 10,
         "passTo": 12,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/16.mp4"
       },
       {
         "id": 17,
@@ -172,7 +172,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô BUS ở chiều ngược có dấu hiệu lấn làn vượt ẩu chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 9,
         "passTo": 11,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/17.mp4"
       },
       {
         "id": 18,
@@ -182,7 +182,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô tải phía trước có động thái vượt ẩu chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 11,
         "passTo": 13,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/18.mp4"
       },
       {
         "id": 19,
@@ -192,7 +192,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô cùng chiều bật tín hiệu đèn cảnh báo nguy hiểm chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 12,
         "passTo": 14,
-        "videoUrl": ""
+        "videoUrl": "19.mp4"
       },
       {
         "id": 20,
@@ -202,7 +202,7 @@
         "explain": " Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở cùng chiều có tín hiệu xi nhan xin nhập làn chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 15,
         "passTo": 17,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/20.mp4"
       },
       {
         "id": 21,
@@ -212,7 +212,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô phía trước có tín hiệu dừng xe chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 13,
         "passTo": 15,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/21.mp4"
       },
       {
         "id": 22,
@@ -222,7 +222,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở đường nhánh vào giao lộ trước và có chiều hướng rẽ trái chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển",
         "passFrom": 12,
         "passTo": 14,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/22.mp4"
       },
       {
         "id": 23,
@@ -232,7 +232,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở chiều ngược lại có dấu hiệu lấn làn vượt chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 15,
         "passTo": 17,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/23.mp4"
       },
       {
         "id": 24,
@@ -242,7 +242,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô tải ở chiều ngược lại dấu hiệu lấn làn vượt chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 13,
         "passTo": 15,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/24.mp4"
       },
       {
         "id": 25,
@@ -252,7 +252,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô BUS màu đỏ ở chiều ngược lại có tín hiệu đèn xin vượt chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 10,
         "passTo": 12,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/25.mp4"
       },
       {
         "id": 26,
@@ -262,7 +262,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện phía trước có đường đang sửa chữa chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 13,
         "passTo": 15,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/26.mp4"
       },
       {
         "id": 27,
@@ -272,7 +272,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư đến giao lộ đèn phía trước đang từ đỏ chuyển sang xanh tuy nhiên xe phía trước bật cảnh báo nguy hiểm và chưa có chiều hướng di chuyển chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 19,
         "passTo": 21,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/27.mp4"
       },
       {
         "id": 28,
@@ -282,7 +282,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô phía trước bất chợt dừng đột ngột chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 11,
         "passTo": 13,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/28.mp4"
       },
       {
         "id": 29,
@@ -292,7 +292,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô phía trước bất chợt dừng đột ngột chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 11,
         "passTo": 13,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/29.mp4"
       }
     ]
   },
@@ -308,7 +308,7 @@
         "explain": "Khi di chuyển trong khu vực ngoại thành phát hiện phía trước có gia súc tràn ra đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 10,
         "passTo": 12,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/30.mp4"
       },
       {
         "id": 31,
@@ -318,7 +318,7 @@
         "explain": "Khi di chuyển trong khu vực ngoại thành phát hiện phía trước có di chuyển sang đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 14,
         "passTo": 16,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/31.mp4"
       },
       {
         "id": 32,
@@ -328,7 +328,7 @@
         "explain": "Khi di chuyển trong khu vực ngoại thành đường tối tại gần khúc cua phát hiện phía trước có người di chuyển sang đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 11,
         "passTo": 13,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/32.mp4"
       },
       {
         "id": 33,
@@ -338,7 +338,7 @@
         "explain": "Khi di chuyển trong khu vực ngoại thành đường tối tại gần khúc cua phát hiện phía trước có người di chuyển phía trước chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 12,
         "passTo": 15,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/33.mp4"
       },
       {
         "id": 34,
@@ -348,7 +348,7 @@
         "explain": "Khi di chuyển trong khu vực ngoại thành tại gần khúc cua phát hiện phía trước có xe khách đang vượt xe tải ở chiều ngược lại chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 7,
         "passTo": 9,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/34.mp4"
       },
       {
         "id": 35,
@@ -358,7 +358,7 @@
         "explain": "Khi di chuyển trong khu vực ngoại thành tại gần khúc cua phát hiện phía trước có xe khách có tín hiệu giảm tốc chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 6,
         "passTo": 8,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/35.mp4"
       },
       {
         "id": 36,
@@ -368,7 +368,7 @@
         "explain": "Khi di chuyển trong khu vực ngoại thành khi di chuyển tới gần khu vực ngã ba có phương tiện di chuyển qua lại chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 19,
         "passTo": 21,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/36.mp4"
       },
       {
         "id": 37,
@@ -378,7 +378,7 @@
         "explain": "Khi di chuyển trong khu vực ngoại thành khi di chuyển tới gần khu vực ngã ba có phương tiện di chuyển qua lại chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 19,
         "passTo": 21,
-        "videoUrl": ""
+        "videoUrl": "https://taplai.com/videos/37.mp4"
       },
       {
         "id": 38,
@@ -388,7 +388,7 @@
         "explain": "Khi di chuyển trong khu vực ngoại thành trời tối tại khúc cua, phía trước có xe máy đi tốc độ thấp chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 10,
         "passTo": 12,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/38.mp4",
         "duration": ""
       },
       {
@@ -399,7 +399,7 @@
         "explain": "",
         "passFrom": 110,
         "passTo": 130,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/39.mp4",
         "duration": 218
       },
       {
@@ -409,7 +409,7 @@
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe mô tô màu đỏ chạy người chiều vừa xuất hiện sau đuôi xe ô tô",
         "explain": "",
         "passFrom": 90,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/40.mp4",
         "duration": 276,
         "passTo": 122
       },
@@ -421,7 +421,7 @@
         "explain": "",
         "passFrom": 121,
         "passTo": 138,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/41.mp4",
         "Duration": 263
       },
       {
@@ -431,7 +431,7 @@
         "explain": "",
         "passFrom": 113,
         "passTo": 127,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/42.mp4",
         "Duration": 248
       },
       {
@@ -442,7 +442,7 @@
         "explain": "",
         "passFrom": 100,
         "passTo": 135,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/43.mp4",
         "duration": 284
       }
     ]
@@ -459,7 +459,7 @@
         "explain": "",
         "passFrom": 106,
         "passTo": 126,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/44.mp4",
         "duration": 209
       },
       {
@@ -470,6 +470,7 @@
         "explain": "",
         "passFrom": 126,
         "passTo": 153,
+        "videoUrl": "https://taplai.com/videos/45.mp4",
         "duration": 220
       },
       {
@@ -480,7 +481,7 @@
         "explain": "",
         "passFrom": 203,
         "passTo": 235,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/46.mp4",
         "duration": 298
       },
       {
@@ -491,7 +492,7 @@
         "explain": "",
         "passFrom": 115,
         "passTo": 231,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/47.mp4",
         "duration": 289
       },
       {
@@ -502,7 +503,7 @@
         "explain": "",
         "passFrom": 76,
         "passTo": 101,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/48.mp4",
         "duration": 266
       },
       {
@@ -513,7 +514,7 @@
         "explain": "",
         "passFrom": 107,
         "passTo": 147,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/49.mp4",
         "duration": 260
       },
       {
@@ -524,7 +525,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/50.mp4",
         "duration": 283
       },
       {
@@ -535,7 +536,7 @@
         "explain": "",
         "passFrom": 132,
         "passTo": 171,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/51.mp4",
         "duration": 291
       },
       {
@@ -546,7 +547,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/52.mp4",
         "duration": 283
       },
       {
@@ -557,7 +558,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/53.mp4",
         "duration": 283
       },
       {
@@ -568,7 +569,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/54.mp4",
         "duration": 283
       },
       {
@@ -579,7 +580,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/55.mp4",
         "duration": 283
       },
       {
@@ -590,7 +591,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/56.mp4",
         "duration": 283
       },
       {
@@ -601,7 +602,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/57.mp4",
         "duration": 283
       },
       {
@@ -612,7 +613,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/58.mp4",
         "duration": 283
       },
       {
@@ -623,7 +624,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/59.mp4",
         "duration": 283
       },
       {
@@ -634,7 +635,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/60.mp4",
         "duration": 283
       },
       {
@@ -645,7 +646,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/61.mp4",
         "duration": 283
       },
       {
@@ -656,7 +657,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/62.mp4",
         "duration": 283
       },
       {
@@ -667,14 +668,14 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/63.mp4",
         "duration": 283
       }
     ]
   },
   {
     "id": 3,
-    "name": "Giao thông trên đường \rnúi",
+    "name": "Giao thông trên đường núi",
     "situations": [
       {
         "id": 64,
@@ -684,7 +685,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/64.mp4",
         "duration": 283
       },
       {
@@ -695,7 +696,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/65.mp4",
         "duration": 283
       },
       {
@@ -706,7 +707,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/66.mp4",
         "duration": 283
       },
       {
@@ -717,7 +718,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/67.mp4",
         "duration": 283
       },
       {
@@ -728,7 +729,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/68.mp4",
         "duration": 283
       },
       {
@@ -739,7 +740,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/69.mp4",
         "duration": 283
       },
       {
@@ -750,7 +751,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/70.mp4",
         "duration": 283
       },
       {
@@ -761,7 +762,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/71.mp4",
         "duration": 283
       },
       {
@@ -772,7 +773,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/72.mp4",
         "duration": 283
       },
       {
@@ -783,13 +784,13 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/73.mp4",
         "duration": 283
       }
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Giao thông trên đường quốc lộ",
     "situations": [
       {
@@ -800,7 +801,7 @@
         "howPass": "Ấn phím cách (Space) tại thời điểm tín hiệu đèn phanh của xe tải sáng lên",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/74.mp4",
         "duration": 283
       },
       {
@@ -811,7 +812,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/75.mp4",
         "duration": 283
       },
       {
@@ -822,7 +823,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/76.mp4",
         "duration": 283
       },
       {
@@ -833,7 +834,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/77.mp4",
         "duration": 283
       },
       {
@@ -844,7 +845,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/78.mp4",
         "duration": 283
       },
       {
@@ -855,7 +856,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/79.mp4",
         "duration": 283
       },
       {
@@ -866,7 +867,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/80.mp4",
         "duration": 283
       },
       {
@@ -877,7 +878,7 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/81.mp4",
         "duration": 283
       },
       {
@@ -888,14 +889,14 @@
         "explain": "",
         "passFrom": 125,
         "passTo": 162,
-        "videoUrl": "",
+        "videoUrl": "https://taplai.com/videos/82.mp4",
         "duration": 283
       },
       {}
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Tình huống gây ra tai nạn giao thông thực tế",
     "situations": []
   }

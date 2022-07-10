@@ -7,12 +7,12 @@
         "id": 1,
         "desc": "Người đi bộ sang đường khuất sau xe tải",
         "ask": "Khi di chuyển trong khu vực đông dân cư phía trước có vạch kẻ đường dành cho người đi bộ , bất chợt gặp người đi bộ băng cắt qua đường chúng ta cần phải làm gì ?",
-        "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 10 đến giây thứ 12 trong videos.",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện người đi bộ trên vạch người đi bộ qua đường khuất sau đuôi xe tải xuất hiện",
         "explain": "Khi di chuyển trong khu vực đông dân cư, bất chợt gặp người đi bộ băng cắt qua đường chúng ta cần đạp chân phanh để xe chạy chậm lại, thậm chí cần phải dừng lại một chút đề nhường đường cho người đi bộ băng cắt qua đường. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển.",
         "passFrom": 100,
-        "passTo": 120,
-        "videoUrl": "https://taplai.com/videos/1.mp4",
-        "duration": 197
+        "passTo": 125,
+        "videoUrl": "",
+        "duration": "19"
       },
       {
         "id": 2,
@@ -22,8 +22,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư phía trước có xe ô tô đang di chuyển, 2 bên đều có xe đỗ lề đường. Xe đang di chuyển đến giao lộ có tín hiệu đèn xanh đèn đỏ, hiện đèn tín hiệu vẫn đang có màu xanh tuy nhiên phát hiện thấy có người đi bộ băng cắt qua đường thì chúng ta cần đạp chân phanh để xe chạy chậm lại, thậm chí cần phải dừng lại một chút đề nhường đường cho người đi bộ băng cắt qua đường. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển.",
         "passFrom": 14,
         "passTo": 15,
-        "videoUrl": "https://taplai.com/videos/2.mp4",
-        "duration": 263
+        "videoUrl": ""
       },
       {
         "id": 3,
@@ -33,8 +32,7 @@
         "explain": " Khi di chuyển trong khu vực đông dân cư phía trước có xe ô tô đang di chuyển thì bất ngờ xe phía trước phanh gấp thì chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển.",
         "passFrom": 14,
         "passTo": 16,
-        "videoUrl": "https://taplai.com/videos/3.mp4",
-        "duration": 267
+        "videoUrl": ""
       },
       {
         "id": 4,
@@ -44,8 +42,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư và trong điều kiện thời tiết có mưa đường trơn trượt, khi qua ngã ba phát hiện thấy xe ở đường khác tiến hành nhập làn trước chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển",
         "passFrom": 11,
         "passTo": 14,
-        "videoUrl": "https://taplai.com/videos/4.mp4",
-        "duration": 272
+        "videoUrl": ""
       },
       {
         "id": 5,
@@ -55,8 +52,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư khi đến khu vực ngã ba phát hiện xe Bus ở hướng đối diện có ý định vượt phải chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển.",
         "passFrom": 5,
         "passTo": 7,
-        "videoUrl": "https://taplai.com/videos/5.mp4",
-        "duration": 214
+        "videoUrl": ""
       },
       {
         "id": 6,
@@ -66,8 +62,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư khi đến khu vực ngã ba phát hiện xe Bus ở hướng đối diện có ý định vượt phải chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển",
         "passFrom": 13,
         "passTo": 15,
-        "videoUrl": "https://taplai.com/videos/6.mp4",
-        "duration": 235
+        "videoUrl": ""
       },
       {
         "id": 7,
@@ -77,8 +72,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư khi đến khu vực giao lộ, trước mắt là đèn xanh tuy nhiên đang có người đi bộ băng cắt qua đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 10,
         "passTo": 12,
-        "videoUrl": "https://taplai.com/videos/7.mp4",
-        "duration": 257
+        "videoUrl": ""
       },
       {
         "id": 8,
@@ -88,8 +82,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư khi đến khu vực giao lộ, bỗng có xe đạp phía bên trái băng qua giao lộ chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 10,
         "passTo": 12,
-        "videoUrl": "https://taplai.com/videos/8.mp4",
-        "duration": 268
+        "videoUrl": ""
       },
       {
         "id": 9,
@@ -99,8 +92,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư đường đôi có dải phân cách bỗng chợt phía đối diện có xe ô tô lấn làn vượt ẩu chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 8,
         "passTo": 10,
-        "videoUrl": "https://taplai.com/videos/9.mp4",
-        "duration": 161
+        "videoUrl": ""
       },
       {
         "id": 10,
@@ -110,8 +102,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư đến ngã ba thì phát hiện bên phía tay trái có xe ô tô vào giao lộ trước chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 12,
         "passTo": 14,
-        "videoUrl": "https://taplai.com/videos/10.mp4",
-        "duration": 240
+        "videoUrl": ""
       },
       {
         "id": 11,
@@ -121,8 +112,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe bồn có tín hiệu xin vượt ở hướng ngược lại chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 11,
         "passTo": 13,
-        "videoUrl": "https://taplai.com/videos/11.mp4",
-        "duration": 253
+        "videoUrl": ""
       },
       {
         "id": 12,
@@ -132,8 +122,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở chiều ngược lại có tín hiệu đèn xin rẽ trái chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 19,
         "passTo": 21,
-        "videoUrl": "https://taplai.com/videos/12.mp4",
-        "duration": 274
+        "videoUrl": ""
       },
       {
         "id": 13,
@@ -143,8 +132,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe đạp phía trước có chiều hướng băng qua đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 10,
         "passTo": 12,
-        "videoUrl": "https://taplai.com/videos/13.mp4",
-        "duration": 220
+        "videoUrl": ""
       },
       {
         "id": 14,
@@ -154,8 +142,7 @@
         "explain": "Khi di chuyển trong khu vực thành thị, khu đông dân cư phía trước là hầm đường bộ và có biển báo đường hẹp, ngay khi phát hiện ô tô tải phía đường ngược lại trước cửa hầm chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 14,
         "passTo": 16,
-        "videoUrl": "https://taplai.com/videos/14.mp4",
-        "duration": 268
+        "videoUrl": ""
       },
       {
         "id": 15,
@@ -165,8 +152,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô tải phía trước bất ngờ dừng lại có tín hiệu đèn đỏ ở phía sau xe chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển",
         "passFrom": 12,
         "passTo": 14,
-        "videoUrl": "https://taplai.com/videos/15.mp4",
-        "duration": 259
+        "videoUrl": ""
       },
       {
         "id": 16,
@@ -176,8 +162,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở phía tay trái có khả năng vượt ẩu chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 10,
         "passTo": 12,
-        "videoUrl": "https://taplai.com/videos/16.mp4",
-        "duration": 229
+        "videoUrl": ""
       },
       {
         "id": 17,
@@ -187,8 +172,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô BUS ở chiều ngược có dấu hiệu lấn làn vượt ẩu chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 9,
         "passTo": 11,
-        "videoUrl": "https://taplai.com/videos/17.mp4",
-        "duration": 318
+        "videoUrl": ""
       },
       {
         "id": 18,
@@ -198,8 +182,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô tải phía trước có động thái vượt ẩu chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 11,
         "passTo": 13,
-        "videoUrl": "https://taplai.com/videos/18.mp4",
-        "duration": 258
+        "videoUrl": ""
       },
       {
         "id": 19,
@@ -209,8 +192,7 @@
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô cùng chiều bật tín hiệu đèn cảnh báo nguy hiểm chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 12,
         "passTo": 14,
-        "videoUrl": "https://taplai.com/videos/19.mp4",
-        "duration": 216
+        "videoUrl": ""
       },
       {
         "id": 20,
@@ -220,9 +202,701 @@
         "explain": " Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở cùng chiều có tín hiệu xi nhan xin nhập làn chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
         "passFrom": 15,
         "passTo": 17,
-        "videoUrl": "https://taplai.com/videos/20.mp4",
-        "duration": 245
+        "videoUrl": ""
+      },
+      {
+        "id": 21,
+        "desc": "Xe ô tô phía trước có tín hiệu dừng xe",
+        "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô phía trước có tín hiệu dừng xe chúng ta cần phải làm gì ?",
+        "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 13 đến giây thứ 15 trong videos.",
+        "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô phía trước có tín hiệu dừng xe chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 13,
+        "passTo": 15,
+        "videoUrl": ""
+      },
+      {
+        "id": 22,
+        "desc": "Phát hiện xe ô tô đường nhánh đang vào giao lộ",
+        "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở đường nhánh vào giao lộ trước và có chiều hướng rẽ trái chúng ta cần phải làm gì ?",
+        "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 12 đến giây thứ 14 trong videos.",
+        "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở đường nhánh vào giao lộ trước và có chiều hướng rẽ trái chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển",
+        "passFrom": 12,
+        "passTo": 14,
+        "videoUrl": ""
+      },
+      {
+        "id": 23,
+        "desc": "Xe ô tô vượt ẩu",
+        "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở chiều ngược lại có dấu hiệu lấn làn vượt chúng ta cần phải làm gì ?",
+        "howPass": " Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 15 đến giây thứ 17 trong videos.",
+        "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở chiều ngược lại có dấu hiệu lấn làn vượt chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 15,
+        "passTo": 17,
+        "videoUrl": ""
+      },
+      {
+        "id": 24,
+        "desc": "Xe tải lấn làn vượt",
+        "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô tải ở chiều ngược lại dấu hiệu lấn làn vượt chúng ta cần phải làm gì ?",
+        "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 13 đến giây thứ 15 trong videos.",
+        "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô tải ở chiều ngược lại dấu hiệu lấn làn vượt chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 13,
+        "passTo": 15,
+        "videoUrl": ""
+      },
+      {
+        "id": 25,
+        "desc": "Xe Bus đỏ lấn làn vượt ẩu",
+        "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô BUS màu đỏ ở chiều ngược lại có tín hiệu đèn xin vượt chúng ta cần phải làm gì ?",
+        "howPass": " Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 10 đến giây thứ 12 trong videos.",
+        "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô BUS màu đỏ ở chiều ngược lại có tín hiệu đèn xin vượt chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 10,
+        "passTo": 12,
+        "videoUrl": ""
+      },
+      {
+        "id": 26,
+        "desc": "Phía trước có đường đang sửa chữa",
+        "ask": " Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện phía trước có đường đang sửa chữa chúng ta cần phải làm gì ?",
+        "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 13 đến giây thứ 15 trong videos.",
+        "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện phía trước có đường đang sửa chữa chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 13,
+        "passTo": 15,
+        "videoUrl": ""
+      },
+      {
+        "id": 27,
+        "desc": "Đèn xanh nhưng xe phía trước vẫn chưa di chuyển",
+        "ask": "Khi di chuyển trong khu vực đông dân cư đến giao lộ đèn phía trước đang từ đỏ chuyển sang xanh tuy nhiên xe phía trước bật cảnh báo nguy hiểm và chưa có chiều hướng di chuyển chúng ta cần phải làm gì ?",
+        "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 19 đến giây thứ 21 trong videos.",
+        "explain": "Khi di chuyển trong khu vực đông dân cư đến giao lộ đèn phía trước đang từ đỏ chuyển sang xanh tuy nhiên xe phía trước bật cảnh báo nguy hiểm và chưa có chiều hướng di chuyển chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 19,
+        "passTo": 21,
+        "videoUrl": ""
+      },
+      {
+        "id": 28,
+        "desc": "Xe phía trước bất chợt dừng",
+        "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô phía trước bất chợt dừng đột ngột chúng ta cần phải làm gì ?",
+        "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 11 đến giây thứ 13 trong videos.",
+        "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô phía trước bất chợt dừng đột ngột chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 11,
+        "passTo": 13,
+        "videoUrl": ""
+      },
+      {
+        "id": 29,
+        "desc": "Xe phía trước bất chợt dừng\r\n",
+        "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô phía trước bất chợt dừng đột ngột chúng ta cần phải làm gì ?",
+        "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 11 đến giây thứ 13 trong videos.",
+        "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô phía trước bất chợt dừng đột ngột chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 11,
+        "passTo": 13,
+        "videoUrl": ""
       }
     ]
+  },
+  {
+    "id": 1,
+    "name": "Giao thông trên đường ở nông thôn",
+    "situations": [
+      {
+        "id": 30,
+        "desc": "Phương tiện đi trên đường đê xuất hiện gia súc giữa đường",
+        "ask": "Khi di chuyển trong khu vực ngoại thành phát hiện phía trước có gia súc tràn ra đường chúng ta cần phải làm gì ?",
+        "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 10 đến giây thứ 12 trong videos.",
+        "explain": "Khi di chuyển trong khu vực ngoại thành phát hiện phía trước có gia súc tràn ra đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 10,
+        "passTo": 12,
+        "videoUrl": ""
+      },
+      {
+        "id": 31,
+        "desc": "Gia súc di chuyển sang đường",
+        "ask": "Khi di chuyển trong khu vực ngoại thành phát hiện phía trước có di chuyển sang đường chúng ta cần phải làm gì ?",
+        "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 14 đến giây thứ 16 trong videos.",
+        "explain": "Khi di chuyển trong khu vực ngoại thành phát hiện phía trước có di chuyển sang đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 14,
+        "passTo": 16,
+        "videoUrl": ""
+      },
+      {
+        "id": 32,
+        "desc": "Phương tiện đang đi thẳng người đi bộ có xu hướng chạy cắt qua sau đó lùi lại\r\n",
+        "ask": "Khi di chuyển trong khu vực ngoại thành đường tối tại gần khúc cua phát hiện phía trước có người di chuyển sang đường chúng ta cần phải làm gì ?",
+        "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 11 đến giây thứ 13 trong videos.",
+        "explain": "Khi di chuyển trong khu vực ngoại thành đường tối tại gần khúc cua phát hiện phía trước có người di chuyển sang đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 11,
+        "passTo": 13,
+        "videoUrl": ""
+      },
+      {
+        "id": 33,
+        "desc": "Phương tiện đang đi thẳng xuất hiện trẻ em phía trước",
+        "ask": "Khi di chuyển trong khu vực ngoại thành đường tối tại gần khúc cua phát hiện phía trước có người di chuyển phía trước chúng ta cần phải làm gì ?",
+        "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 12 đến giây thứ 15 trong videos.",
+        "explain": "Khi di chuyển trong khu vực ngoại thành đường tối tại gần khúc cua phát hiện phía trước có người di chuyển phía trước chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 12,
+        "passTo": 15,
+        "videoUrl": ""
+      },
+      {
+        "id": 34,
+        "desc": "Phương tiện đang đi chỗ đoạn đường cong phía trước có xe khách đang vượt xe đạp",
+        "ask": "Khi di chuyển trong khu vực ngoại thành tại gần khúc cua phát hiện phía trước có xe khách đang vượt xe tải ở chiều ngược lại chúng ta cần phải làm gì ?",
+        "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 7 đến giây thứ 9 trong videos.",
+        "explain": "Khi di chuyển trong khu vực ngoại thành tại gần khúc cua phát hiện phía trước có xe khách đang vượt xe tải ở chiều ngược lại chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 7,
+        "passTo": 9,
+        "videoUrl": ""
+      },
+      {
+        "id": 35,
+        "desc": "Xe khách phía trước có tín hiệu giảm tốc",
+        "ask": "Khi di chuyển trong khu vực ngoại thành tại gần khúc cua phát hiện phía trước có xe khách có tín hiệu giảm tốc chúng ta cần phải làm gì ?",
+        "howPass": " Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 6 đến giây thứ 8 trong videos.",
+        "explain": "Khi di chuyển trong khu vực ngoại thành tại gần khúc cua phát hiện phía trước có xe khách có tín hiệu giảm tốc chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 6,
+        "passTo": 8,
+        "videoUrl": ""
+      },
+      {
+        "id": 36,
+        "desc": "Phương tiện đang đi qua đoạn đường có nhiều giao cắt bất ngờ xuất hiện xe máy từ ngõ ra",
+        "ask": "Khi di chuyển trong khu vực ngoại thành khi di chuyển tới gần khu vực ngã ba có phương tiện di chuyển qua lại chúng ta cần phải làm gì ?",
+        "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 19 đến giây thứ 21 trong videos.",
+        "explain": "Khi di chuyển trong khu vực ngoại thành khi di chuyển tới gần khu vực ngã ba có phương tiện di chuyển qua lại chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 19,
+        "passTo": 21,
+        "videoUrl": ""
+      },
+      {
+        "id": 37,
+        "desc": "Phương tiện đang đi thẳng qua nhiều ngõ bất ngờ xe đạp lao nhanh ra",
+        "ask": "Khi di chuyển trong khu vực ngoại thành khi di chuyển tới gần khu vực ngã ba có phương tiện di chuyển qua lại chúng ta cần phải làm gì ?",
+        "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 19 đến giây thứ 21 trong videos.",
+        "explain": "Khi di chuyển trong khu vực ngoại thành khi di chuyển tới gần khu vực ngã ba có phương tiện di chuyển qua lại chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 19,
+        "passTo": 21,
+        "videoUrl": ""
+      },
+      {
+        "id": 38,
+        "desc": "Vượt xe tại khúc cua",
+        "ask": "Khi di chuyển trong khu vực ngoại thành trời tối tại khúc cua, phía trước có xe máy đi tốc độ thấp chúng ta cần phải làm gì ?",
+        "howPass": "Ấn phím thông báo phát hiện tình huống nguy hiểm ngay ở giây thứ 10 đến giây thứ 12 trong videos.",
+        "explain": "Khi di chuyển trong khu vực ngoại thành trời tối tại khúc cua, phía trước có xe máy đi tốc độ thấp chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
+        "passFrom": 10,
+        "passTo": 12,
+        "videoUrl": "",
+        "duration": ""
+      },
+      {
+        "id": 39,
+        "desc": "Xe tải nhập làn hẳn vào phía trong",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm bóng xe ô tô chạm vạch đứt dưới đường (xe ô tô chuyển làn tới giữa làn số 3)",
+        "explain": "",
+        "passFrom": 110,
+        "passTo": 130,
+        "videoUrl": "",
+        "duration": 218
+      },
+      {
+        "id": 40,
+        "desc": "Xe phía trước bật đèn cảnh báo, xe mô tô lấn làn vượt lên",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe mô tô màu đỏ chạy người chiều vừa xuất hiện sau đuôi xe ô tô",
+        "explain": "",
+        "passFrom": 90,
+        "videoUrl": "",
+        "duration": 276,
+        "passTo": 122
+      },
+      {
+        "id": 41,
+        "desc": "Xe con phía trước di chuyển với tốc độ cao bất ngời rẽ trái",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm bánh ô tô đè vạch người qua đường và phát tín hiệu xi nhan xe con sáng lên",
+        "explain": "",
+        "passFrom": 121,
+        "passTo": 138,
+        "videoUrl": "",
+        "Duration": 263
+      },
+      {
+        "id": 42,
+        "desc": "Xe mô tô vượt đèn đỏ bất ngờ cắt ngang xe",
+        "ask": "Ấn phím cách (Space) tại thời điểm phát hiện xe mô tô màu đỏ chạy ngược chiều bắt đầu xi nhan trái",
+        "explain": "",
+        "passFrom": 113,
+        "passTo": 127,
+        "videoUrl": "",
+        "Duration": 248
+      },
+      {
+        "id": 43,
+        "desc": "Xe tải chuyển làn tránh chướng ngại vật",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe tải bắt đầu xi nhan (đèn xe tải sáng lần thứ 2)",
+        "explain": "",
+        "passFrom": 100,
+        "passTo": 135,
+        "videoUrl": "",
+        "duration": 284
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Giao thông trên đường cao tốc",
+    "situations": [
+      {
+        "id": 44,
+        "desc": "Xe con màu trắng chuyển làn cắt ngang đầu xe",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện toàn bộ xe con màu trắng xuất hiện phía bên phải (đèn xi nhan sáng lần 1 vừa tắt) Nếu vừa thấy có ánh sáng đèn xin nhan đã bấm dễ bị vào khoảng ngoài khoảng có điểm",
+        "explain": "",
+        "passFrom": 106,
+        "passTo": 126,
+        "videoUrl": "",
+        "duration": 209
+      },
+      {
+        "id": 45,
+        "desc": "Xe tải chuyển làn cắt ngang xe con phía trước",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe tải bắt đầu lấn làn và vừa khuất qua đầu xe con phía trước (đèn xi nhan xe tải vừa bị che khuất)",
+        "explain": "",
+        "passFrom": 126,
+        "passTo": 153,
+        "duration": 220
+      },
+      {
+        "id": 46,
+        "desc": "Xe con vượt lên cắt ngang đầu xe",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm nhìn thấy toàn bộ xe con màu trắng qua cửa kính chắn gió phía trước ô tô",
+        "explain": "",
+        "passFrom": 203,
+        "passTo": 235,
+        "videoUrl": "",
+        "duration": 298
+      },
+      {
+        "id": 47,
+        "desc": "Nhường đường xe ưu tiên phía sau",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe cấp cứu bật xi nhan xin đường qua gương chiếu hậu trái.",
+        "explain": "",
+        "passFrom": 115,
+        "passTo": 231,
+        "videoUrl": "",
+        "duration": 289
+      },
+      {
+        "id": 48,
+        "desc": "Xe chạy sau từ chối khi bạn xin chuyển làn",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm xe của bạn bật đèn xi nhan trái 2 lần",
+        "explain": "",
+        "passFrom": 76,
+        "passTo": 101,
+        "videoUrl": "",
+        "duration": 266
+      },
+      {
+        "id": 49,
+        "desc": "Chướng ngại vật phía trước, xe tải chuyển làn",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm xe tải bắt đầu xi nhan chuyển làn bên phải. (đèn xe tải khuất tai gương).",
+        "explain": "",
+        "passFrom": 107,
+        "passTo": 147,
+        "videoUrl": "",
+        "duration": 260
+      },
+      {
+        "id": 50,
+        "desc": "Xe tải chuyển làn bên trái",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm đèn xi nhan trái của xe tải sáng lần thứ 2 vừa tắt",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 51,
+        "desc": "Xe tải chạy ngược chiều trên cao tốc",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm toàn bộ xe ô tô tải đi ra khỏi đường rẽ (bánh ô tô đỏ quan sát qua gương chạm vạch trắng dưới đường)",
+        "explain": "",
+        "passFrom": 132,
+        "passTo": 171,
+        "videoUrl": "",
+        "duration": 291
+      },
+      {
+        "id": 52,
+        "desc": "Xe đậu trên làn dừng đỗ khẩn cấp",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm xe ô tô con nhìn qua gương khuất 1/2 đầu xe",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 53,
+        "desc": "Xe chạy ngược chiều đang dừng trên làn đường dừng đỗ khẩn cấp",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện 2 đèn xe tải dừng ngược chiều",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 54,
+        "desc": "Xe tải nhập làn trên cao tốc",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe tải vừa vượt qua cây bên đường nhập làn (nếu bấm dựa vào đèn xi nhan rất dễ bị vào ngoài vùng có điểm)",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 55,
+        "desc": "Xe tải bị hư trên cao tốc không có làn dừng đỗ khẩn cấp",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe tải phía trước vừa bật đèn xi nhan trái",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 56,
+        "desc": "Xe con xin ra từ làn khẩn cấp",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện ô tô trắng phía trước di chuyển chạm vạch liền trên đường",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 57,
+        "desc": "Chướng ngại vật phía trước trên cao tốc",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện cả 2 đèn cảnh báo phát sáng (phía bên phải xe đỏ)",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 58,
+        "desc": "Làn đường xe chạy gặp chướng ngại vật",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe ô tô đỏ phía trước bắt đầu phát tín hiệu phanh xe (sáng đèn phanh)",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 59,
+        "desc": "Xe tải chuyển làn",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đèn xi nhan xe tải sáng lần thứ 2 (vầng sáng trên kính ô tô xuất hiện lần 2)",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 60,
+        "desc": "Xe 16 chỗ đi ra từ làn khẩn cấp",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm xe 16 chỗ đang dừng bắt đầu di chuyển sang làn bên trái, bánh xe sau xe cán lên vạch trắng.",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 61,
+        "desc": "Xe phía trước nhập làn liên tục",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm xe con màu đen chạm vạch đứt sang làn xe trong cùng mà xe của bạn đang chạy",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 62,
+        "desc": "Xe đi ngược chiều trên cao tốc",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe đi ngược chiều bên phía trái bắt đầu nháy đèn",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 63,
+        "desc": "Gia xúc qua đường trên cao tốc",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện con bò bắt đầu đi vào đường xe chạy, chạm chân vào vạch kẻ trắng",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Giao thông trên đường \rnúi",
+    "situations": [
+      {
+        "id": 64,
+        "desc": "Xe khách phía trước giảm tốc độ trên đoạn đường cong",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện tín hiệu phanh của chiếc xe khách sáng lên và vừa vượt qua biển cảnh báo nguy hiểm bên phía trái",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 65,
+        "desc": "Xe khách đi ngược chiều phía trước vượt xe tải trên cung đường đèo dốc",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm ô tô của bạn vừa vượt qua biểm báo khúc cua nguy hiểm và phát hiện đèn xe của xe chạy ngược chiều sáng lên",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 66,
+        "desc": "Xe ben phía trước vận chuyển hàng rời thiếu an toàn",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe máy khuất 80% ô tô tải phía trước",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 67,
+        "desc": "Gia xúc xuất hiện bên đường",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm xe con phía trước bắt đầu phanh (đèn sau ô tô xanh sáng) đồng thời xuất hiện con vật ven đường",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 68,
+        "desc": "Khung đường đồi núi sương mù che khuất tầm nhìn",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm áp sát gương cầu lồi và phát hiện xe ô tô đi ngược chiều bật đèn",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 69,
+        "desc": "Xe đổ đèo phía trước va chạm",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm xe chạy ngược chiều phía đằng xa",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 70,
+        "desc": "Xe khách chạy ngược chiều vượt container tại khúc đường cong",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đầu xe container ló khỏi vách núi",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 71,
+        "desc": "Xe con phía trước bất ngờ giảm tốc độ tấp vào lề đường",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm tín hiệu đèn phanh xe phía trước sáng lên",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 72,
+        "desc": "Xe tải chạy ngược chiều có tín hiệu xin vượt trên cung đường đồi núi, xương mù che khuất tầm nhìn",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe tải ngược chiều bật xi nhan xin vượt trong sương mù",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 73,
+        "desc": "Xe con chạy ngược chiều lấn làn vượt xe tải",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện bóng xe con xuất hiện từ đằng xa và chuẩn bị vượt",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Giao thông trên đường quốc lộ",
+    "situations": [
+      {
+        "id": 74,
+        "desc": "Xe đang đi trên đường quốc lộ trời tối xuất hiện đoàn xe đạp",
+        "ask": "",
+        "explain": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm tín hiệu đèn phanh của xe tải sáng lên",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 75,
+        "desc": "Xe đang chạy bất chợt có quả bóng lăn trên đường",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện người đi bộ chạm chân lên mặt đường",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 76,
+        "desc": "Xe đi sau xe chở cồng kềnh có xe sang đường nguy hiểm",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm xuất hiện đứa bé chạy băng qua đường",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 77,
+        "desc": "Xe đang đi thằng bất ngờ phía trước có người chạy băng qua đường",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm đầu xe ô tô đỏ xuất hiện trước ô tô xám",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 78,
+        "desc": "Tình huống vượt xe trên đường",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm đèn tín hiệu vừa chuyển xanh",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 79,
+        "desc": "Xe bạn đang đi có xe mô tô từ đường nhánh lao ra",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm thấy 2 chiếc xe máy di chuyển tới đường to, bắt đầu rẽ vào giao lộ",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 80,
+        "desc": "Xe mô tô tránh chướng ngại vật gây nguy hiểm cho xe bạn",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm xe ô tô trắng đi vào vạch sơn giảm tốc màu vàng phía trên (có 2 chuỗi vạch sơn giảm tốc) đồng thời đèn nguy hiểm sáng lên. Hoặc thời điểm thấy xe máy bật đèn xi nhan trái (sẽ được 4 điểm) ",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 81,
+        "desc": "Ô tô quay đầu trước xe bạn",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe bán tải bật xi nhan trái và phần đầu xe bắt đầu chạm biển báo",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {
+        "id": 82,
+        "desc": "Xe đang đi thằng bất ngờ phía trước có người chạy băng qua đường",
+        "ask": "",
+        "howPass": "Ấn phím cách (Space) tại thời điểm xuất hiện đứa bé chạy băng qua đường",
+        "explain": "",
+        "passFrom": 125,
+        "passTo": 162,
+        "videoUrl": "",
+        "duration": 283
+      },
+      {}
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Tình huống gây ra tai nạn giao thông thực tế",
+    "situations": []
   }
 ]

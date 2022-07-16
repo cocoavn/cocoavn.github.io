@@ -334,10 +334,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành phát hiện phía trước có gia súc tràn ra đường chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện gia súc ở đường",
         "explain": "Khi di chuyển trong khu vực ngoại thành phát hiện phía trước có gia súc tràn ra đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 106,
-        "passTo": 155,
+        "passFrom": 1060,
+        "passTo": 1550,
         "videoUrl": "https://taplai.com/videos/30.mp4",
-        "duration": 197
+        "duration": 3246
       },
       {
         "id": 31,
@@ -345,10 +345,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành phát hiện phía trước có di chuyển sang đường chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện gia súc di chuyển sang đường",
         "explain": "Khi di chuyển trong khu vực ngoại thành phát hiện phía trước có di chuyển sang đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 150,
-        "passTo": 191,
+        "passFrom": 1500,
+        "passTo": 1910,
         "videoUrl": "https://taplai.com/videos/31.mp4",
-        "duration": 197
+        "duration": 3390
       },
       {
         "id": 32,
@@ -356,10 +356,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành đường tối tại gần khúc cua phát hiện phía trước có người di chuyển sang đường chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện người đi bộ bước chân sang đường.",
         "explain": "Khi di chuyển trong khu vực ngoại thành đường tối tại gần khúc cua phát hiện phía trước có người di chuyển sang đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 11,
-        "passTo": 13,
+        "passFrom": 110,
+        "passTo": 130,
         "videoUrl": "https://taplai.com/videos/32.mp4",
-        "duration": 197
+        "duration": 2498
       },
       {
         "id": 33,
@@ -367,10 +367,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành đường tối tại gần khúc cua phát hiện phía trước có người di chuyển phía trước chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện người đi bộ đi tới cột màu xanh, trái đường",
         "explain": "Khi di chuyển trong khu vực ngoại thành đường tối tại gần khúc cua phát hiện phía trước có người di chuyển phía trước chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 133,
-        "passTo": 164,
+        "passFrom": 1330,
+        "passTo": 1640,
         "videoUrl": "https://taplai.com/videos/33.mp4",
-        "duration": 197
+        "duration": 2878
       },
       {
         "id": 34,
@@ -378,10 +378,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành tại gần khúc cua phát hiện phía trước có xe khách đang vượt xe tải ở chiều ngược lại chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đầu xe khách xuất hiện vừa che khuất người đi xe đạp.",
         "explain": "Khi di chuyển trong khu vực ngoại thành tại gần khúc cua phát hiện phía trước có xe khách đang vượt xe tải ở chiều ngược lại chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 92,
-        "passTo": 134,
+        "passFrom": 920,
+        "passTo": 1340,
         "videoUrl": "https://taplai.com/videos/34.mp4",
-        "duration": 197
+        "duration": 2150
       },
       {
         "id": 35,
@@ -389,10 +389,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành tại gần khúc cua phát hiện phía trước có xe khách có tín hiệu giảm tốc chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đèn phanh xe khách phía trước sáng lên.",
         "explain": "Khi di chuyển trong khu vực ngoại thành tại gần khúc cua phát hiện phía trước có xe khách có tín hiệu giảm tốc chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 81,
-        "passTo": 107,
+        "passFrom": 810,
+        "passTo": 1070,
         "videoUrl": "https://taplai.com/videos/35.mp4",
-        "duration": 197
+        "duration": 2470
       },
       {
         "id": 36,
@@ -400,10 +400,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành khi di chuyển tới gần khu vực ngã ba có phương tiện di chuyển qua lại chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm khi người phụ nữ sau bức tường đội mũ tím xuất hiện.",
         "explain": "Khi di chuyển trong khu vực ngoại thành khi di chuyển tới gần khu vực ngã ba có phương tiện di chuyển qua lại chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 224,
-        "passTo": 246,
+        "passFrom": 2240,
+        "passTo": 2460,
         "videoUrl": "https://taplai.com/videos/36.mp4",
-        "duration": 197
+        "duration": 3534
       },
       {
         "id": 37,
@@ -411,10 +411,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành khi di chuyển tới gần khu vực ngã ba có phương tiện di chuyển qua lại chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm khi người đi xe máy nam vừa khuất khỏi bờ tường",
         "explain": "Khi di chuyển trong khu vực ngoại thành khi di chuyển tới gần khu vực ngã ba có phương tiện di chuyển qua lại chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 205,
-        "passTo": 233,
+        "passFrom": 2050,
+        "passTo": 2330,
         "videoUrl": "https://taplai.com/videos/37.mp4",
-        "duration": 197
+        "duration": 3354
       },
       {
         "id": 38,
@@ -422,10 +422,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành trời tối tại khúc cua, phía trước có xe máy đi tốc độ thấp chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đèn phanh của 2 xe mô tô sáng lên",
         "explain": "Khi di chuyển trong khu vực ngoại thành trời tối tại khúc cua, phía trước có xe máy đi tốc độ thấp chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 128,
-        "passTo": 157,
+        "passFrom": 1280,
+        "passTo": 1570,
         "videoUrl": "https://taplai.com/videos/38.mp4",
-        "duration": 197
+        "duration": 2770
       },
       {
         "id": 39,
@@ -433,10 +433,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm bóng xe ô tô chạm vạch đứt dưới đường (xe ô tô chuyển làn tới giữa làn số 3)",
         "explain": "",
-        "passFrom": 120,
-        "passTo": 141,
+        "passFrom": 1200,
+        "passTo": 1410,
         "videoUrl": "https://taplai.com/videos/39.mp4",
-        "duration": 218
+        "duration": 2346
       },
       {
         "id": 40,
@@ -444,10 +444,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe mô tô màu đỏ chạy người chiều vừa xuất hiện sau đuôi xe ô tô",
         "explain": "",
-        "passFrom": 107,
-        "passTo": 144,
+        "passFrom": 1070,
+        "passTo": 1440,
         "videoUrl": "https://taplai.com/videos/40.mp4",
-        "duration": 276
+        "duration": 3034
       },
       {
         "id": 41,
@@ -458,7 +458,7 @@
         "passFrom": 140,
         "passTo": 153,
         "videoUrl": "https://taplai.com/videos/41.mp4",
-        "Duration": 263
+        "duration": 263
       },
       {
         "id": 42,
@@ -468,7 +468,7 @@
         "passFrom": 128,
         "passTo": 140,
         "videoUrl": "https://taplai.com/videos/42.mp4",
-        "Duration": 248
+        "duration": 248
       },
       {
         "id": 43,

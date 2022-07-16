@@ -9,10 +9,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư phía trước có vạch kẻ đường dành cho người đi bộ , bất chợt gặp người đi bộ băng cắt qua đường chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện người đi bộ trên vạch người đi bộ qua đường khuất sau đuôi xe tải xuất hiện",
         "explain": "Khi di chuyển trong khu vực đông dân cư, bất chợt gặp người đi bộ băng cắt qua đường chúng ta cần đạp chân phanh để xe chạy chậm lại, thậm chí cần phải dừng lại một chút đề nhường đường cho người đi bộ băng cắt qua đường. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển.",
-        "passFrom": 1120,
-        "passTo": 1410,
+        "passFrom": 112,
+        "passTo": 141,
         "videoUrl": "https://taplai.com/videos/1.mp4",
-        "duration": 2202
+        "duration": 220
       },
       {
         "id": 2,
@@ -20,10 +20,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư phía trước có xe ô tô đang di chuyển, 2 bên đều có xe đỗ lề đường. Xe đang di chuyển đến giao lộ có tín hiệu đèn xanh đèn đỏ, hiện đèn tín hiệu vẫn đang có màu xanh tuy nhiên phát hiện thấy có người đi bộ băng cắt qua đường thì chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm người đi bộ qua đường vừa đặt chân lên dải phân cách",
         "explain": "Khi di chuyển trong khu vực đông dân cư phía trước có xe ô tô đang di chuyển, 2 bên đều có xe đỗ lề đường. Xe đang di chuyển đến giao lộ có tín hiệu đèn xanh đèn đỏ, hiện đèn tín hiệu vẫn đang có màu xanh tuy nhiên phát hiện thấy có người đi bộ băng cắt qua đường thì chúng ta cần đạp chân phanh để xe chạy chậm lại, thậm chí cần phải dừng lại một chút đề nhường đường cho người đi bộ băng cắt qua đường. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển.",
-        "passFrom": 1600,
-        "passTo": 1770,
+        "passFrom": 160,
+        "passTo": 177,
         "videoUrl": "https://taplai.com/videos/2.mp4",
-        "duration": 2838
+        "duration": 283
       },
       {
         "id": 3,
@@ -31,10 +31,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư phía trước có xe ô tô đang di chuyển thì bất ngờ xe phía trước phanh gấp thì chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đèn phanh của xe phía trước sáng lên",
         "explain": " Khi di chuyển trong khu vực đông dân cư phía trước có xe ô tô đang di chuyển thì bất ngờ xe phía trước phanh gấp thì chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển.",
-        "passFrom": 1550,
-        "passTo": 1810,
+        "passFrom": 155,
+        "passTo": 181,
         "videoUrl": "https://taplai.com/videos/3.mp4",
-        "duration": 2834
+        "duration": 283
       },
       {
         "id": 4,
@@ -42,10 +42,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư và trong điều kiện thời tiết có mưa đường trơn trượt, khi qua ngã ba phát hiện thấy xe ở đường khác tiến hành nhập làn trước, chúng ta cần phải làm gì?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe ô tô đen bên ngã rẽ phải (2/3 xe)",
         "explain": "Khi di chuyển trong khu vực đông dân cư và trong điều kiện thời tiết có mưa đường trơn trượt, khi qua ngã ba phát hiện thấy xe ở đường khác tiến hành nhập làn trước chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển",
-        "passFrom": 1510,
-        "passTo": 1830,
+        "passFrom": 151,
+        "passTo": 183,
         "videoUrl": "https://taplai.com/videos/4.mp4",
-        "duration": 3130
+        "duration": 313
       },
       {
         "id": 5,
@@ -53,10 +53,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bất chợt có xe máy chuyển làn ẩu không xi nhan bạn cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện chiếc xe máy phía trên ô tô đỏ bắt đầu rẽ trái chuyển làn bất ngờ",
         "explain": "Khi di chuyển trong khu vực đông dân cư khi đến khu vực ngã ba phát hiện xe Bus ở hướng đối diện có ý định vượt phải chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển.",
-        "passFrom": 740,
-        "passTo": 950,
+        "passFrom": 74,
+        "passTo": 95,
         "videoUrl": "https://taplai.com/videos/5.mp4",
-        "duration": 2386
+        "duration": 238
       },
       {
         "id": 6,
@@ -64,10 +64,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư khi đến khu vực ngã ba phát hiện xe Bus ở hướng đối diện có ý định vượt phải chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện chiếc xe bus đánh đầu xe ra để né xe con màu đỏ dừng đỗ bên đường.",
         "explain": "Khi di chuyển trong khu vực đông dân cư khi đến khu vực ngã ba phát hiện xe Bus ở hướng đối diện có ý định vượt phải chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển",
-        "passFrom": 1430,
-        "passTo": 1720,
+        "passFrom": 143,
+        "passTo": 172,
         "videoUrl": "https://taplai.com/videos/6.mp4",
-        "duration": 2606
+        "duration": 260
       },
       {
         "id": 7,
@@ -75,10 +75,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư khi đến khu vực giao lộ, trước mắt là đèn xanh tuy nhiên đang có người đi bộ băng cắt qua đường chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện chiếc xe trắng phía trước sáng đèn xe để tránh người đi bộ",
         "explain": "Khi di chuyển trong khu vực đông dân cư khi đến khu vực giao lộ, trước mắt là đèn xanh tuy nhiên đang có người đi bộ băng cắt qua đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1160,
-        "passTo": 1610,
+        "passFrom": 116,
+        "passTo": 161,
         "videoUrl": "https://taplai.com/videos/7.mp4",
-        "duration": 2851
+        "duration": 285
       },
       {
         "id": 8,
@@ -86,10 +86,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư khi đến khu vực giao lộ, bỗng có xe đạp phía bên trái băng qua giao lộ chúng ta cần làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện người đi xe đạp xuất hiện trong tầm nhìn",
         "explain": "Khi di chuyển trong khu vực đông dân cư khi đến khu vực giao lộ, bỗng có xe đạp phía bên trái băng qua giao lộ chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1240,
-        "passTo": 1530,
+        "passFrom": 124,
+        "passTo": 153,
         "videoUrl": "https://taplai.com/videos/8.mp4",
-        "duration": 3126
+        "duration": 312
       },
       {
         "id": 9,
@@ -97,10 +97,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư đường đôi có dải phân cách bỗng chợt phía đối diện có xe ô tô lấn làn vượt ẩu chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đầu xe con bắt đầu đánh lái lấn lên vạch kẻ đường",
         "explain": "Khi di chuyển trong khu vực đông dân cư đường đôi có dải phân cách bỗng chợt phía đối diện có xe ô tô lấn làn vượt ẩu chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 970,
-        "passTo": 1230,
+        "passFrom": 97,
+        "passTo": 123,
         "videoUrl": "https://taplai.com/videos/9.mp4",
-        "duration": 1930
+        "duration": 193
       },
       {
         "id": 10,
@@ -108,10 +108,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư đến ngã ba thì phát hiện bên phía tay trái có xe ô tô vào giao lộ trước chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện gần hết chiếc ô tô con từ đường nhánh đi ra",
         "explain": "Khi di chuyển trong khu vực đông dân cư đến ngã ba thì phát hiện bên phía tay trái có xe ô tô vào giao lộ trước chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1350,
-        "passTo": 1770,
+        "passFrom": 135,
+        "passTo": 177,
         "videoUrl": "https://taplai.com/videos/10.mp4",
-        "duration": 2682
+        "duration": 268
       },
       {
         "id": 11,
@@ -119,10 +119,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe bồn có tín hiệu xin vượt ở hướng ngược lại chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm đầu xe bồn bắt đầu xuất hiện",
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe bồn có tín hiệu xin vượt ở hướng ngược lại chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1430,
-        "passTo": 2070,
+        "passFrom": 143,
+        "passTo": 207,
         "videoUrl": "https://taplai.com/videos/11.mp4",
-        "duration": 2994
+        "duration": 299
       },
       {
         "id": 12,
@@ -130,10 +130,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở chiều ngược lại có tín hiệu đèn xin rẽ trái chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe con bắt đầu rẽ trái (sau khi bật xi nhan)",
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở chiều ngược lại có tín hiệu đèn xin rẽ trái chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 2030,
-        "passTo": 2370,
+        "passFrom": 203,
+        "passTo": 237,
         "videoUrl": "https://taplai.com/videos/12.mp4",
-        "duration": 2962
+        "duration": 296
       },
       {
         "id": 13,
@@ -141,10 +141,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe đạp phía trước có chiều hướng băng qua đường chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe đạp bắt đầu xuống lòng đường (vừa thấy người tới vạch kẻ đường)",
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe đạp phía trước có chiều hướng băng qua đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1230,
-        "passTo": 1440,
+        "passFrom": 123,
+        "passTo": 144,
         "videoUrl": "https://taplai.com/videos/13.mp4",
-        "duration": 2528
+        "duration": 253
       },
       {
         "id": 14,
@@ -152,10 +152,10 @@
         "ask": "Khi di chuyển trong khu vực thành thị, khu đông dân cư phía trước là hầm đường bộ và có biển báo đường hẹp, ngay khi phát hiện ô tô tải phía đường ngược lại trước cửa hầm chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm đầu xe tải xuất hiện từ xa",
         "explain": "Khi di chuyển trong khu vực thành thị, khu đông dân cư phía trước là hầm đường bộ và có biển báo đường hẹp, ngay khi phát hiện ô tô tải phía đường ngược lại trước cửa hầm chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1570,
-        "passTo": 1920,
+        "passFrom": 157,
+        "passTo": 192,
         "videoUrl": "https://taplai.com/videos/14.mp4",
-        "duration": 2946
+        "duration": 294
       },
       {
         "id": 15,
@@ -163,10 +163,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô tải phía trước bất ngờ dừng lại có tín hiệu đèn đỏ ở phía sau xe chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm thấy tín hiệu đèn phanh của xe tải sáng lên",
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô tải phía trước bất ngờ dừng lại có tín hiệu đèn đỏ ở phía sau xe chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển",
-        "passFrom": 1370,
-        "passTo": 1630,
+        "passFrom": 137,
+        "passTo": 163,
         "videoUrl": "https://taplai.com/videos/15.mp4",
-        "duration": 2854
+        "duration": 285
       },
       {
         "id": 16,
@@ -174,10 +174,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở phía tay trái có khả năng vượt ẩu chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện trong tầm nhìn bên phía trái xe con màu xám đi ra từ đường nhánh (xuất hiện 1/2 xe)",
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở phía tay trái có khả năng vượt ẩu chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1260,
-        "passTo": 1500,
+        "passFrom": 126,
+        "passTo": 150,
         "videoUrl": "https://taplai.com/videos/16.mp4",
-        "duration": 2522
+        "duration": 252
       },
       {
         "id": 17,
@@ -185,10 +185,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô BUS ở chiều ngược có dấu hiệu lấn làn vượt ẩu chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm thấy hết đầu xe bus (hoặc thấy người đi xe máy cùng chiều phía trước mặt dừng xe lại).",
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô BUS ở chiều ngược có dấu hiệu lấn làn vượt ẩu chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1060,
-        "passTo": 1360,
+        "passFrom": 106,
+        "passTo": 136,
         "videoUrl": "https://taplai.com/videos/17.mp4",
-        "duration": 3274
+        "duration": 327
       },
       {
         "id": 18,
@@ -196,10 +196,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô tải phía trước có động thái vượt ẩu chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện vạch đứt màu trắng ở giữa xe tải phía trước và đuôi ô tô tải và ô tô con màu trắng ngang nhau.",
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô tải phía trước có động thái vượt ẩu chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1400,
-        "passTo": 1740,
+        "passFrom": 140,
+        "passTo": 174,
         "videoUrl": "https://taplai.com/videos/18.mp4",
-        "duration": 2966
+        "duration": 296
       },
       {
         "id": 19,
@@ -207,10 +207,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô cùng chiều bật tín hiệu đèn cảnh báo nguy hiểm chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm xe ô tô đỏ ngược chiều phía trước đá đèn lần 2",
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô cùng chiều bật tín hiệu đèn cảnh báo nguy hiểm chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1420,
-        "passTo": 1640,
+        "passFrom": 142,
+        "passTo": 164,
         "videoUrl": "https://taplai.com/videos/19.mp4",
-        "duration": 2490
+        "duration": 249
       },
       {
         "id": 20,
@@ -218,10 +218,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở cùng chiều có tín hiệu xi nhan xin nhập làn chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đèn xi nhan của xe phía trước sáng lên",
         "explain": " Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở cùng chiều có tín hiệu xi nhan xin nhập làn chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1640,
-        "passTo": 1860,
+        "passFrom": 164,
+        "passTo": 186,
         "videoUrl": "https://taplai.com/videos/20.mp4",
-        "duration": 2670
+        "duration": 267
       },
       {
         "id": 21,
@@ -229,10 +229,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô phía trước có tín hiệu dừng xe chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đèn đuôi xe trắng phía trước bật sáng lên",
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô phía trước có tín hiệu dừng xe chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1630,
-        "passTo": 1930,
+        "passFrom": 163,
+        "passTo": 193,
         "videoUrl": "https://taplai.com/videos/21.mp4",
-        "duration": 3582
+        "duration": 358
       },
       {
         "id": 22,
@@ -240,10 +240,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở đường nhánh vào giao lộ trước và có chiều hướng rẽ trái chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đầu xe phía trước xuất hiện",
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở đường nhánh vào giao lộ trước và có chiều hướng rẽ trái chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển",
-        "passFrom": 1400,
-        "passTo": 1670,
+        "passFrom": 140,
+        "passTo": 167,
         "videoUrl": "https://taplai.com/videos/22.mp4",
-        "duration": 2750
+        "duration": 275
       },
       {
         "id": 23,
@@ -251,10 +251,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở chiều ngược lại có dấu hiệu lấn làn vượt chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe ngược chiều phía trước đè lên vạch đứt trắng",
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô ở chiều ngược lại có dấu hiệu lấn làn vượt chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1630,
-        "passTo": 2000,
+        "passFrom": 163,
+        "passTo": 200,
         "videoUrl": "https://taplai.com/videos/23.mp4",
-        "duration": 2894
+        "duration": 289
       },
       {
         "id": 24,
@@ -262,10 +262,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô tải ở chiều ngược lại dấu hiệu lấn làn vượt chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe tải bắt đầu đè vạch đứt vàng (vạch tim đường)",
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô tải ở chiều ngược lại dấu hiệu lấn làn vượt chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1560,
-        "passTo": 1820,
+        "passFrom": 156,
+        "passTo": 182,
         "videoUrl": "https://taplai.com/videos/24.mp4",
-        "duration": 2982
+        "duration": 298
       },
       {
         "id": 25,
@@ -273,10 +273,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô BUS màu đỏ ở chiều ngược lại có tín hiệu đèn xin vượt chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe khách bắt đầu bật xi nhan trái và rẽ trái",
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô BUS màu đỏ ở chiều ngược lại có tín hiệu đèn xin vượt chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1150,
-        "passTo": 2000,
+        "passFrom": 115,
+        "passTo": 200,
         "videoUrl": "https://taplai.com/videos/25.mp4",
-        "duration": 4062
+        "duration": 406
       },
       {
         "id": 26,
@@ -284,10 +284,10 @@
         "ask": " Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện phía trước có đường đang sửa chữa chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đầu xe con màu trắng xuất hiện",
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện phía trước có đường đang sửa chữa chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1470,
-        "passTo": 1870,
+        "passFrom": 147,
+        "passTo": 187,
         "videoUrl": "https://taplai.com/videos/26.mp4",
-        "duration": 3834
+        "duration": 383
       },
       {
         "id": 27,
@@ -295,10 +295,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư đến giao lộ đèn phía trước đang từ đỏ chuyển sang xanh tuy nhiên xe phía trước bật cảnh báo nguy hiểm và chưa có chiều hướng di chuyển chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đèn bắt đầu chuyển xanh",
         "explain": "Khi di chuyển trong khu vực đông dân cư đến giao lộ đèn phía trước đang từ đỏ chuyển sang xanh tuy nhiên xe phía trước bật cảnh báo nguy hiểm và chưa có chiều hướng di chuyển chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1510,
-        "passTo": 1710,
+        "passFrom": 151,
+        "passTo": 171,
         "videoUrl": "https://taplai.com/videos/27.mp4",
-        "duration": 2914
+        "duration": 291
       },
       {
         "id": 28,
@@ -306,10 +306,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô phía trước bất chợt dừng đột ngột chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đèn phanh xe phía trước bật sáng lên",
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô phía trước bất chợt dừng đột ngột chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1360,
-        "passTo": 1650,
+        "passFrom": 136,
+        "passTo": 165,
         "videoUrl": "https://taplai.com/videos/28.mp4",
-        "duration": 3126
+        "duration": 312
       },
       {
         "id": 29,
@@ -317,10 +317,10 @@
         "ask": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô phía trước bất chợt dừng đột ngột chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đèn phanh xe phía trước sáng lên",
         "explain": "Khi di chuyển trong khu vực đông dân cư bỗng chợt phát hiện xe ô tô phía trước bất chợt dừng đột ngột chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1360,
-        "passTo": 1650,
+        "passFrom": 136,
+        "passTo": 165,
         "videoUrl": "https://taplai.com/videos/29.mp4",
-        "duration": 2974
+        "duration": 297
       }
     ]
   },
@@ -334,10 +334,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành phát hiện phía trước có gia súc tràn ra đường chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện gia súc ở đường",
         "explain": "Khi di chuyển trong khu vực ngoại thành phát hiện phía trước có gia súc tràn ra đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1060,
-        "passTo": 1550,
+        "passFrom": 106,
+        "passTo": 155,
         "videoUrl": "https://taplai.com/videos/30.mp4",
-        "duration": 3246
+        "duration": 324
       },
       {
         "id": 31,
@@ -345,10 +345,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành phát hiện phía trước có di chuyển sang đường chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện gia súc di chuyển sang đường",
         "explain": "Khi di chuyển trong khu vực ngoại thành phát hiện phía trước có di chuyển sang đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1500,
-        "passTo": 1910,
+        "passFrom": 150,
+        "passTo": 191,
         "videoUrl": "https://taplai.com/videos/31.mp4",
-        "duration": 3390
+        "duration": 339
       },
       {
         "id": 32,
@@ -356,10 +356,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành đường tối tại gần khúc cua phát hiện phía trước có người di chuyển sang đường chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện người đi bộ bước chân sang đường.",
         "explain": "Khi di chuyển trong khu vực ngoại thành đường tối tại gần khúc cua phát hiện phía trước có người di chuyển sang đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1100,
-        "passTo": 1300,
+        "passFrom": 110,
+        "passTo": 130,
         "videoUrl": "https://taplai.com/videos/32.mp4",
-        "duration": 3100
+        "duration": 310
       },
       {
         "id": 33,
@@ -367,10 +367,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành đường tối tại gần khúc cua phát hiện phía trước có người di chuyển phía trước chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện người đi bộ đi tới cột màu xanh, trái đường",
         "explain": "Khi di chuyển trong khu vực ngoại thành đường tối tại gần khúc cua phát hiện phía trước có người di chuyển phía trước chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1330,
-        "passTo": 1640,
+        "passFrom": 133,
+        "passTo": 164,
         "videoUrl": "https://taplai.com/videos/33.mp4",
-        "duration": 2878
+        "duration": 288
       },
       {
         "id": 34,
@@ -378,10 +378,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành tại gần khúc cua phát hiện phía trước có xe khách đang vượt xe tải ở chiều ngược lại chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đầu xe khách xuất hiện vừa che khuất người đi xe đạp.",
         "explain": "Khi di chuyển trong khu vực ngoại thành tại gần khúc cua phát hiện phía trước có xe khách đang vượt xe tải ở chiều ngược lại chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 920,
-        "passTo": 1340,
+        "passFrom": 92,
+        "passTo": 134,
         "videoUrl": "https://taplai.com/videos/34.mp4",
-        "duration": 2150
+        "duration": 215
       },
       {
         "id": 35,
@@ -389,10 +389,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành tại gần khúc cua phát hiện phía trước có xe khách có tín hiệu giảm tốc chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đèn phanh xe khách phía trước sáng lên.",
         "explain": "Khi di chuyển trong khu vực ngoại thành tại gần khúc cua phát hiện phía trước có xe khách có tín hiệu giảm tốc chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 810,
-        "passTo": 1070,
+        "passFrom": 81,
+        "passTo": 107,
         "videoUrl": "https://taplai.com/videos/35.mp4",
-        "duration": 2470
+        "duration": 247
       },
       {
         "id": 36,
@@ -400,10 +400,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành khi di chuyển tới gần khu vực ngã ba có phương tiện di chuyển qua lại chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm khi người phụ nữ sau bức tường đội mũ tím xuất hiện.",
         "explain": "Khi di chuyển trong khu vực ngoại thành khi di chuyển tới gần khu vực ngã ba có phương tiện di chuyển qua lại chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 2240,
-        "passTo": 2460,
+        "passFrom": 224,
+        "passTo": 246,
         "videoUrl": "https://taplai.com/videos/36.mp4",
-        "duration": 3534
+        "duration": 353
       },
       {
         "id": 37,
@@ -411,10 +411,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành khi di chuyển tới gần khu vực ngã ba có phương tiện di chuyển qua lại chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm khi người đi xe máy nam vừa khuất khỏi bờ tường",
         "explain": "Khi di chuyển trong khu vực ngoại thành khi di chuyển tới gần khu vực ngã ba có phương tiện di chuyển qua lại chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 2050,
-        "passTo": 2330,
+        "passFrom": 205,
+        "passTo": 233,
         "videoUrl": "https://taplai.com/videos/37.mp4",
-        "duration": 3354
+        "duration": 335
       },
       {
         "id": 38,
@@ -422,10 +422,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành trời tối tại khúc cua, phía trước có xe máy đi tốc độ thấp chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đèn phanh của 2 xe mô tô sáng lên",
         "explain": "Khi di chuyển trong khu vực ngoại thành trời tối tại khúc cua, phía trước có xe máy đi tốc độ thấp chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 1280,
-        "passTo": 1570,
+        "passFrom": 128,
+        "passTo": 157,
         "videoUrl": "https://taplai.com/videos/38.mp4",
-        "duration": 2770
+        "duration": 277
       },
       {
         "id": 39,
@@ -433,10 +433,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm bóng xe ô tô chạm vạch đứt dưới đường (xe ô tô chuyển làn tới giữa làn số 3)",
         "explain": "",
-        "passFrom": 1200,
-        "passTo": 1410,
+        "passFrom": 120,
+        "passTo": 141,
         "videoUrl": "https://taplai.com/videos/39.mp4",
-        "duration": 2346
+        "duration": 234
       },
       {
         "id": 40,
@@ -444,10 +444,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe mô tô màu đỏ chạy người chiều vừa xuất hiện sau đuôi xe ô tô",
         "explain": "",
-        "passFrom": 1070,
-        "passTo": 1440,
+        "passFrom": 107,
+        "passTo": 144,
         "videoUrl": "https://taplai.com/videos/40.mp4",
-        "duration": 3034
+        "duration": 303
       },
       {
         "id": 41,
@@ -455,20 +455,20 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm bánh ô tô đè vạch người qua đường và phát tín hiệu xi nhan xe con sáng lên",
         "explain": "",
-        "passFrom": 1400,
-        "passTo": 1530,
+        "passFrom": 140,
+        "passTo": 153,
         "videoUrl": "https://taplai.com/videos/41.mp4",
-        "duration": 2902
+        "duration": 290
       },
       {
         "id": 42,
         "desc": "Xe mô tô vượt đèn đỏ bất ngờ cắt ngang xe",
         "ask": "Ấn phím cách (Space) tại thời điểm phát hiện xe mô tô màu đỏ chạy ngược chiều bắt đầu xi nhan trái",
         "explain": "",
-        "passFrom": 1280,
-        "passTo": 1400,
+        "passFrom": 128,
+        "passTo": 140,
         "videoUrl": "https://taplai.com/videos/42.mp4",
-        "duration": 2650
+        "duration": 265
       },
       {
         "id": 43,
@@ -476,10 +476,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe tải bắt đầu xi nhan (đèn xe tải sáng lần thứ 2)",
         "explain": "",
-        "passFrom": 1250,
-        "passTo": 1600,
+        "passFrom": 125,
+        "passTo": 160,
         "videoUrl": "https://taplai.com/videos/43.mp4",
-        "duration": 3102
+        "duration": 310
       }
     ]
   },
@@ -493,10 +493,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện toàn bộ xe con màu trắng xuất hiện phía bên phải (đèn xi nhan sáng lần 1 vừa tắt) Nếu vừa thấy có ánh sáng đèn xin nhan đã bấm dễ bị vào khoảng ngoài khoảng có điểm",
         "explain": "",
-        "passFrom": 1210,
-        "passTo": 1400,
+        "passFrom": 121,
+        "passTo": 140,
         "videoUrl": "https://taplai.com/videos/44.mp4",
-        "duration": 2246
+        "duration": 224
       },
       {
         "id": 45,
@@ -504,10 +504,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe tải bắt đầu lấn làn và vừa khuất qua đầu xe con phía trước (đèn xi nhan xe tải vừa bị che khuất)",
         "explain": "",
-        "passFrom": 1550,
-        "passTo": 1800,
+        "passFrom": 155,
+        "passTo": 180,
         "videoUrl": "https://taplai.com/videos/45.mp4",
-        "duration": 2770
+        "duration": 277
       },
       {
         "id": 46,
@@ -515,10 +515,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm nhìn thấy toàn bộ xe con màu trắng qua cửa kính chắn gió phía trước ô tô",
         "explain": "",
-        "passFrom": 2160,
-        "passTo": 2500,
+        "passFrom": 216,
+        "passTo": 250,
         "videoUrl": "https://taplai.com/videos/46.mp4",
-        "duration": 3158
+        "duration": 316
       },
       {
         "id": 47,
@@ -526,10 +526,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe cấp cứu bật xi nhan xin đường qua gương chiếu hậu trái.",
         "explain": "",
-        "passFrom": 1300,
-        "passTo": 2530,
+        "passFrom": 130,
+        "passTo": 253,
         "videoUrl": "https://taplai.com/videos/47.mp4",
-        "duration": 3066
+        "duration": 306
       },
       {
         "id": 48,
@@ -537,10 +537,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm xe của bạn bật đèn xi nhan trái 2 lần",
         "explain": "",
-        "passFrom": 910,
-        "passTo": 1150,
+        "passFrom": 91,
+        "passTo": 115,
         "videoUrl": "https://taplai.com/videos/48.mp4",
-        "duration": 2850
+        "duration": 285
       },
       {
         "id": 49,
@@ -548,10 +548,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm xe tải bắt đầu xi nhan chuyển làn bên phải. (đèn xe tải khuất tai gương).",
         "explain": "",
-        "passFrom": 1240,
-        "passTo": 1630,
+        "passFrom": 124,
+        "passTo": 163,
         "videoUrl": "https://taplai.com/videos/49.mp4",
-        "duration": 2814
+        "duration": 281
       },
       {
         "id": 50,
@@ -559,10 +559,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm đèn xi nhan trái của xe tải sáng lần thứ 2 vừa tắt",
         "explain": "",
-        "passFrom": 1380,
-        "passTo": 1740,
+        "passFrom": 138,
+        "passTo": 174,
         "videoUrl": "https://taplai.com/videos/50.mp4",
-        "duration": 2966
+        "duration": 296
       },
       {
         "id": 51,
@@ -570,10 +570,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm toàn bộ xe ô tô tải đi ra khỏi đường rẽ (bánh ô tô đỏ quan sát qua gương chạm vạch trắng dưới đường)",
         "explain": "",
-        "passFrom": 1440,
-        "passTo": 1820,
+        "passFrom": 144,
+        "passTo": 182,
         "videoUrl": "https://taplai.com/videos/51.mp4",
-        "duration": 3082
+        "duration": 308
       },
       {
         "id": 52,
@@ -581,10 +581,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm xe ô tô con nhìn qua gương khuất 1/2 đầu xe",
         "explain": "",
-        "passFrom": 1660,
-        "passTo": 1510,
+        "passFrom": 166,
+        "passTo": 151,
         "videoUrl": "https://taplai.com/videos/52.mp4",
-        "duration": 2942
+        "duration": 294
       },
       {
         "id": 53,
@@ -592,10 +592,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện 2 đèn xe tải dừng ngược chiều",
         "explain": "",
-        "passFrom": 1610,
-        "passTo": 2120,
+        "passFrom": 161,
+        "passTo": 212,
         "videoUrl": "https://taplai.com/videos/53.mp4",
-        "duration": 3122
+        "duration": 312
       },
       {
         "id": 54,
@@ -603,10 +603,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe tải vừa vượt qua cây bên đường nhập làn (nếu bấm dựa vào đèn xi nhan rất dễ bị vào ngoài vùng có điểm)",
         "explain": "",
-        "passFrom": 1550,
-        "passTo": 1870,
+        "passFrom": 155,
+        "passTo": 187,
         "videoUrl": "https://taplai.com/videos/54.mp4",
-        "duration": 2618
+        "duration": 262
       },
       {
         "id": 55,
@@ -614,10 +614,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe tải phía trước vừa bật đèn xi nhan trái",
         "explain": "",
-        "passFrom": 730,
-        "passTo": 1010,
+        "passFrom": 73,
+        "passTo": 101,
         "videoUrl": "https://taplai.com/videos/55.mp4",
-        "duration": 3190
+        "duration": 319
       },
       {
         "id": 56,
@@ -625,10 +625,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện ô tô trắng phía trước di chuyển chạm vạch liền trên đường",
         "explain": "",
-        "passFrom": 1280,
-        "passTo": 1450,
+        "passFrom": 128,
+        "passTo": 145,
         "videoUrl": "https://taplai.com/videos/56.mp4",
-        "duration": 2226
+        "duration": 222
       },
       {
         "id": 57,
@@ -636,10 +636,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện cả 2 đèn cảnh báo phát sáng (phía bên phải xe đỏ)",
         "explain": "",
-        "passFrom": 2620,
-        "passTo": 3220,
+        "passFrom": 262,
+        "passTo": 322,
         "videoUrl": "https://taplai.com/videos/57.mp4",
-        "duration": 5482
+        "duration": 548
       },
       {
         "id": 58,
@@ -647,10 +647,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe ô tô đỏ phía trước bắt đầu phát tín hiệu phanh xe (sáng đèn phanh)",
         "explain": "",
-        "passFrom": 2350,
-        "passTo": 2800,
+        "passFrom": 235,
+        "passTo": 280,
         "videoUrl": "https://taplai.com/videos/58.mp4",
-        "duration": 5322
+        "duration": 532
       },
       {
         "id": 59,
@@ -658,10 +658,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đèn xi nhan xe tải sáng lần thứ 2 (vầng sáng trên kính ô tô xuất hiện lần 2)",
         "explain": "",
-        "passFrom": 2450,
-        "passTo": 2740,
+        "passFrom": 245,
+        "passTo": 274,
         "videoUrl": "https://taplai.com/videos/59.mp4",
-        "duration": 3674
+        "duration": 367
       },
       {
         "id": 60,
@@ -669,10 +669,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm xe 16 chỗ đang dừng bắt đầu di chuyển sang làn bên trái, bánh xe sau xe cán lên vạch trắng.",
         "explain": "",
-        "passFrom": 980,
-        "passTo": 1200,
+        "passFrom": 98,
+        "passTo": 120,
         "videoUrl": "https://taplai.com/videos/60.mp4",
-        "duration": 3214
+        "duration": 321
       },
       {
         "id": 61,
@@ -680,10 +680,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm xe con màu đen chạm vạch đứt sang làn xe trong cùng mà xe của bạn đang chạy",
         "explain": "",
-        "passFrom": 1740,
-        "passTo": 2030,
+        "passFrom": 174,
+        "passTo": 203,
         "videoUrl": "https://taplai.com/videos/61.mp4",
-        "duration": 2498
+        "duration": 250
       },
       {
         "id": 62,
@@ -691,10 +691,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe đi ngược chiều bên phía trái bắt đầu nháy đèn",
         "explain": "",
-        "passFrom": 1900,
-        "passTo": 2340,
+        "passFrom": 190,
+        "passTo": 234,
         "videoUrl": "https://taplai.com/videos/62.mp4",
-        "duration": 3118
+        "duration": 312
       },
       {
         "id": 63,
@@ -702,10 +702,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện con bò bắt đầu đi vào đường xe chạy, chạm chân vào vạch kẻ trắng",
         "explain": "",
-        "passFrom": 1060,
-        "passTo": 1360,
+        "passFrom": 106,
+        "passTo": 136,
         "videoUrl": "https://taplai.com/videos/63.mp4",
-        "duration": 2586
+        "duration": 258
       }
     ]
   },
@@ -719,10 +719,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện tín hiệu phanh của chiếc xe khách sáng lên và vừa vượt qua biển cảnh báo nguy hiểm bên phía trái",
         "explain": "",
-        "passFrom": 1550,
-        "passTo": 1860,
+        "passFrom": 155,
+        "passTo": 186,
         "videoUrl": "https://taplai.com/videos/64.mp4",
-        "duration": 2870
+        "duration": 287
       },
       {
         "id": 65,
@@ -730,10 +730,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm ô tô của bạn vừa vượt qua biểm báo khúc cua nguy hiểm và phát hiện đèn xe của xe chạy ngược chiều sáng lên",
         "explain": "",
-        "passFrom": 2150,
-        "passTo": 2520,
+        "passFrom": 215,
+        "passTo": 252,
         "videoUrl": "https://taplai.com/videos/65.mp4",
-        "duration": 3670
+        "duration": 367
       },
       {
         "id": 66,
@@ -741,10 +741,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe máy khuất 80% ô tô tải phía trước",
         "explain": "",
-        "passFrom": 1130,
-        "passTo": 1830,
+        "passFrom": 113,
+        "passTo": 183,
         "videoUrl": "https://taplai.com/videos/66.mp4",
-        "duration": 2498
+        "duration": 250
       },
       {
         "id": 67,
@@ -752,10 +752,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm xe con phía trước bắt đầu phanh (đèn sau ô tô xanh sáng) đồng thời xuất hiện con vật ven đường",
         "explain": "",
-        "passFrom": 1700,
-        "passTo": 2080,
+        "passFrom": 170,
+        "passTo": 208,
         "videoUrl": "https://taplai.com/videos/67.mp4",
-        "duration": 3330
+        "duration": 333
       },
       {
         "id": 68,
@@ -763,10 +763,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm áp sát gương cầu lồi và phát hiện xe ô tô đi ngược chiều bật đèn",
         "explain": "",
-        "passFrom": 1400,
-        "passTo": 1950,
+        "passFrom": 140,
+        "passTo": 195,
         "videoUrl": "https://taplai.com/videos/68.mp4",
-        "duration": 3190
+        "duration": 319
       },
       {
         "id": 69,
@@ -774,10 +774,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm xe chạy ngược chiều phía đằng xa",
         "explain": "",
-        "passFrom": 940,
-        "passTo": 1520,
+        "passFrom": 94,
+        "passTo": 152,
         "videoUrl": "https://taplai.com/videos/69.mp4",
-        "duration": 3050
+        "duration": 305
       },
       {
         "id": 70,
@@ -785,10 +785,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đầu xe container ló khỏi vách núi",
         "explain": "",
-        "passFrom": 2960,
-        "passTo": 3240,
+        "passFrom": 296,
+        "passTo": 324,
         "videoUrl": "https://taplai.com/videos/70.mp4",
-        "duration": 4794
+        "duration": 480
       },
       {
         "id": 71,
@@ -796,10 +796,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm tín hiệu đèn phanh xe phía trước sáng lên",
         "explain": "",
-        "passFrom": 1640,
-        "passTo": 2080,
+        "passFrom": 164,
+        "passTo": 208,
         "videoUrl": "https://taplai.com/videos/71.mp4",
-        "duration": 3086
+        "duration": 308
       },
       {
         "id": 72,
@@ -807,10 +807,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe tải ngược chiều bật xi nhan xin vượt trong sương mù",
         "explain": "",
-        "passFrom": 2090,
-        "passTo": 2370,
+        "passFrom": 209,
+        "passTo": 237,
         "videoUrl": "https://taplai.com/videos/72.mp4",
-        "duration": 3430
+        "duration": 343
       },
       {
         "id": 73,
@@ -818,10 +818,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện bóng xe con xuất hiện từ đằng xa và chuẩn bị vượt",
         "explain": "",
-        "passFrom": 1910,
-        "passTo": 2120,
+        "passFrom": 191,
+        "passTo": 212,
         "videoUrl": "https://taplai.com/videos/73.mp4",
-        "duration": 3186
+        "duration": 318
       }
     ]
   },
@@ -835,10 +835,10 @@
         "ask": "",
         "explain": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm tín hiệu đèn phanh của xe tải sáng lên",
-        "passFrom": 1550,
-        "passTo": 1950,
+        "passFrom": 155,
+        "passTo": 195,
         "videoUrl": "https://taplai.com/videos/74.mp4",
-        "duration": 3334
+        "duration": 333
       },
       {
         "id": 75,
@@ -846,10 +846,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện người đi bộ chạm chân lên mặt đường",
         "explain": "",
-        "passFrom": 1210,
-        "passTo": 1450,
+        "passFrom": 121,
+        "passTo": 145,
         "videoUrl": "https://taplai.com/videos/75.mp4",
-        "duration": 2318
+        "duration": 232
       },
       {
         "id": 76,
@@ -857,10 +857,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm xuất hiện đứa bé chạy băng qua đường",
         "explain": "",
-        "passFrom": 730,
-        "passTo": 1040,
+        "passFrom": 73,
+        "passTo": 104,
         "videoUrl": "https://taplai.com/videos/76.mp4",
-        "duration": 6430
+        "duration": 643
       },
       {
         "id": 77,
@@ -868,10 +868,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm đầu xe ô tô đỏ xuất hiện trước ô tô xám",
         "explain": "",
-        "passFrom": 3010,
-        "passTo": 3380,
+        "passFrom": 301,
+        "passTo": 338,
         "videoUrl": "https://taplai.com/videos/77.mp4",
-        "duration": 5606
+        "duration": 560
       },
       {
         "id": 78,
@@ -879,10 +879,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm đèn tín hiệu vừa chuyển xanh",
         "explain": "",
-        "passFrom": 1330,
-        "passTo": 1590,
+        "passFrom": 133,
+        "passTo": 159,
         "videoUrl": "https://taplai.com/videos/78.mp4",
-        "duration": 2506
+        "duration": 250
       },
       {
         "id": 79,
@@ -890,10 +890,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm thấy 2 chiếc xe máy di chuyển tới đường to, bắt đầu rẽ vào giao lộ",
         "explain": "",
-        "passFrom": 1440,
-        "passTo": 1640,
+        "passFrom": 144,
+        "passTo": 164,
         "videoUrl": "https://taplai.com/videos/79.mp4",
-        "duration": 2902
+        "duration": 290
       },
       {
         "id": 80,
@@ -901,10 +901,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm xe ô tô trắng đi vào vạch sơn giảm tốc màu vàng phía trên (có 2 chuỗi vạch sơn giảm tốc) đồng thời đèn nguy hiểm sáng lên. Hoặc thời điểm thấy xe máy bật đèn xi nhan trái (sẽ được 4 điểm) ",
         "explain": "",
-        "passFrom": 1090,
-        "passTo": 1240,
+        "passFrom": 109,
+        "passTo": 124,
         "videoUrl": "https://taplai.com/videos/80.mp4",
-        "duration": 2078
+        "duration": 208
       },
       {
         "id": 81,
@@ -912,10 +912,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe bán tải bật xi nhan trái và phần đầu xe bắt đầu chạm biển báo",
         "explain": "",
-        "passFrom": 1940,
-        "passTo": 2230,
+        "passFrom": 194,
+        "passTo": 223,
         "videoUrl": "https://taplai.com/videos/81.mp4",
-        "duration": 2834
+        "duration": 283
       },
       {
         "id": 82,
@@ -923,10 +923,10 @@
         "ask": "Tình huống mô phỏng lại khi tham gia giao thông di chuyển trên ngoại ô. Phía bên đường là xe Bus ngay khi phát hiện xe tải sau xe Bus vượt ẩu. Bạn cần phải làm gì",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện nửa đầu xe tải đang có ý định vượt",
         "explain": "Khi tham gia giao thông di chuyển trên ngoại ô. Phía bên đường là xe Bus ngay khi phát hiện xe tải sau xe Bus vượt ẩu. Phải đạp chân phanh từ giây từ 7-12 trong video để giảm tốc độ lại, giữ khoảng cách an toàn quan sát kỹ khi thấy an toàn rồi tiếp tục di chuyển. Bởi nếu tiếp tục đi lên với tốc độ hiện tại có khả năng va chạm giao thông là rất cao.",
-        "passFrom": 1770,
-        "passTo": 2160,
+        "passFrom": 177,
+        "passTo": 216,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 3562
+        "duration": 356
       },
       {
         "id": 83,
@@ -934,10 +934,10 @@
         "ask": "Tình huống mô phỏng lại khi tham gia giao thông di chuyển trên ngoại ô. Ngay khi phát hiện đàn gia xúc có thể vươn ra đường. Bạn cần phải làm gì?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện con bò bắt đầu di chuyển vào phần đường xe chạy",
         "explain": "Khi tham gia giao thông di chuyển trên ngoại ô. Ngay khi phát hiện đàn gia xúc có thể vươn ra đường, bạn cần phải đạp nhẹ chân phanh từ giây thứ 5-12 trong videos để giảm tốc độ lại, giữ khoảng cách an toàn quan sát kỹ khi thấy an toàn rồi tiếp tuc di chuyển. Bởi nếu cứ tiếp tục di chuyển có thể va chạm với đàn gia súc.",
-        "passFrom": 1140,
-        "passTo": 1430,
+        "passFrom": 114,
+        "passTo": 143,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2482
+        "duration": 248
       },
       {
         "id": 84,
@@ -945,10 +945,10 @@
         "ask": "Tình huống mô phỏng lại khi tham gia giao thông di chuyển trên ngoại ô. Ngay khi phát hiện phía trước có xe bật đèn cảnh báo nguy hiểm, bạn định chuyển làn tuy nhiên phía sau đang có xe đi tới. Bạn cần phải làm gì?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện tín hiệu đèn xe con bắt đầu sáng lên",
         "explain": "Khi tham gia giao thông di chuyển trên ngoại ô. Ngay khi phát hiện phía trước có xe bật đèn cảnh báo nguy hiểm, bạn định chuyển làn tuy nhiên phía sau đang có xe đi tới. Bạn cần phải ra nhẹ chân ga từ giây thứ 5-12 trong video để giảm tốc độ lại, giữ khoảng cách an toàn quan sát kỹ khi thấy an toàn rồi tiếp tục di chuyển và thực hiện chuyển làn. Nếu cố tình chuyển làn có thể gây ra tính huống va chạm nguy hiểm.",
-        "passFrom": 1460,
-        "passTo": 1700,
+        "passFrom": 146,
+        "passTo": 170,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2594
+        "duration": 259
       },
       {
         "id": 85,
@@ -956,10 +956,10 @@
         "ask": "Tình huống mô phỏng lại khi tham gia giao thông di chuyển trên ngoại ô. Ngay khi phát hiện xe phía trước chở gỗ và có cây gỗ sắp tụt ra ngoài rất nguy hiểm. Bạn cần phải làm gì?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe phía trước phanh (đèn phanh xe bật sáng)",
         "explain": "Khi tham gia giao thông di chuyển trên ngoại ô. Ngay khi phát hiện xe phía trước chở gỗ và có cây gỗ sắp tụt ra ngoài rất nguy hiểm, thì bạn cần phải đạp phanh giảm tốc độ lại, nếu cần thiết dừng hẳn lại để quan sát khi nào thật sự an toàn mới tiếp tục di chuyển",
-        "passFrom": 2010,
-        "passTo": 2240,
+        "passFrom": 201,
+        "passTo": 224,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 3374
+        "duration": 337
       },
       {
         "id": 86,
@@ -967,10 +967,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe ô tô con phía trước bắt đầu chuyển hướng, bánh xe trước sắp chạm vạch liền",
         "explain": "",
-        "passFrom": 780,
-        "passTo": 1180,
+        "passFrom": 78,
+        "passTo": 118,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2466
+        "duration": 246
       },
       {
         "id": 87,
@@ -978,10 +978,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm thấy rõ gờ giảm tốc màu vàng",
         "explain": "",
-        "passFrom": 740,
-        "passTo": 1190,
+        "passFrom": 74,
+        "passTo": 119,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2846
+        "duration": 284
       },
       {
         "id": 88,
@@ -989,10 +989,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe máy bật tín hiệu xi nhan bắt đầu rẽ trái.",
         "explain": "",
-        "passFrom": 1380,
-        "passTo": 1590,
+        "passFrom": 138,
+        "passTo": 159,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2314
+        "duration": 231
       },
       {
         "id": 89,
@@ -1000,10 +1000,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe đạp bắt đầu sang phần đường của mình",
         "explain": "",
-        "passFrom": 1340,
-        "passTo": 1620,
+        "passFrom": 134,
+        "passTo": 162,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2490
+        "duration": 249
       },
       {
         "id": 90,
@@ -1011,10 +1011,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện xe bán tải phía trước bật xi nhan phải để tránh mô tô đi người chiều phía trước",
         "explain": "",
-        "passFrom": 1100,
-        "passTo": 1430,
+        "passFrom": 110,
+        "passTo": 143,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2346
+        "duration": 234
       }
     ]
   },
@@ -1028,10 +1028,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm có xe đang bật đèn cảnh báo. (Biểm báo 50M vừa khuất tầm nhìn - ngay phía trước biển báo là đường rẽ)",
         "explain": "",
-        "passFrom": 980,
-        "passTo": 1420,
+        "passFrom": 98,
+        "passTo": 142,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2626
+        "duration": 262
       },
       {
         "id": 92,
@@ -1039,10 +1039,10 @@
         "ask": "Tình huống mô phỏng lại khi tham gia giao thông trên đường. Ngay khi định sang đường thì bắt gặp xe tải đang đi hướng ngược. Bạn phải làm gì?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đầu xe khách ngược chiều xuất hiện (xe máy đi song song với xe tải)",
         "explain": "Đây là tình huống dẫn đến va chạm giao thông rất nguy hiểm, các bạn đặc biệt lưu ý khi sang đường quan sát trước sau khi nào thấy thực sự an toàn thì mới sang đường.",
-        "passFrom": 2660,
-        "passTo": 2950,
+        "passFrom": 266,
+        "passTo": 295,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 4322
+        "duration": 432
       },
       {
         "id": 93,
@@ -1050,10 +1050,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm xe taxi trắng xi nhan chuyển làn sang phải",
         "explain": "",
-        "passFrom": 910,
-        "passTo": 1260,
+        "passFrom": 91,
+        "passTo": 126,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2418
+        "duration": 242
       },
       {
         "id": 94,
@@ -1061,10 +1061,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm xe đỗ phía trước cùng làn nháy đèn",
         "explain": "",
-        "passFrom": 1250,
-        "passTo": 2550,
+        "passFrom": 125,
+        "passTo": 255,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 3562
+        "duration": 356
       },
       {
         "id": 95,
@@ -1072,10 +1072,10 @@
         "ask": "Tình huống mô tả khi tham gia giao thông trên đường, xe khách vượt ẩu mất lái đâm và người tham gia giao thông. Bạn phải làm gì?",
         "howPass": "Ấn phím cách (Space) tại thời điểm khi thấy thanh chắn cảnh báo phía trước sáng đèn.",
         "explain": "Hành vi vượt ẩu khi tham gia giao thông này bị nghiêm cấm, nếu gặp tình huống tương tự các bạn vui lòng phanh lại giữ khoảng cách an toàn",
-        "passFrom": 980,
-        "passTo": 1460,
+        "passFrom": 98,
+        "passTo": 146,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2334
+        "duration": 233
       },
       {
         "id": 96,
@@ -1083,10 +1083,10 @@
         "ask": "Khi tham gia giao thông bạn phát hiện xe phía trước có biểu hiện chết máy ở giữa đường, bạn cần phải làm gì?",
         "howPass": "Ấn phím cách (Space) tại thời điểm đèn sau xe con ở làn giữa sáng đèn",
         "explain": "",
-        "passFrom": 1960,
-        "passTo": 2280,
+        "passFrom": 196,
+        "passTo": 228,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2574
+        "duration": 257
       },
       {
         "id": 97,
@@ -1094,10 +1094,10 @@
         "ask": "Khi tham gia giao thông ở các khu vực đường cong, đường vòng khuất tầm nhìn. Bạn cần phải làm gì?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đầu xe khách xuất hiện",
         "explain": "Như tình huống trên tài xế xe khách đã lấn làn khi không có đủ tầm nhìn gây tai nạn nguy hiểm",
-        "passFrom": 1750,
-        "passTo": 1920,
+        "passFrom": 175,
+        "passTo": 192,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2970
+        "duration": 297
       },
       {
         "id": 98,
@@ -1105,10 +1105,10 @@
         "ask": "Khi lái xe khách trên đường đèo phía trước gặp chướng ngại vật và bên đường đang có rất nhiều xe lưu thông. Bạn cần phải làm gì?",
         "howPass": "Ấn phím cách (Space) tại thời điểm xuất hiện rõ đụn đất và các biển cảnh báo công trường, đồng thời là lúc bạn thấy đầu xe khách",
         "explain": "Ở tình huống này xe khách đã cố tình vượt ẩu dẫn đến tai nạn giao thông",
-        "passFrom": 1850,
-        "passTo": 2150,
+        "passFrom": 185,
+        "passTo": 215,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 3418
+        "duration": 342
       },
       {
         "id": 99,
@@ -1116,10 +1116,10 @@
         "ask": "Khi tham gia giao thông trong hầm ngay khi phát hiện xe kéo rơ móoc có hành vi vượt ẩu, bạn phải làm gì",
         "howPass": "Ấn phím cách (Space) tại thời điểm 2 xe ngược chiều cùng lúc sáng đèn (4 đèn xe xuất hiện cùng lúc)",
         "explain": "Như tình huống này xe khách không giảm tốc độ và giữ khoảng cách an toàn nên không tránh kịp dẫn tới xảy ra tai nạn giao thông.",
-        "passFrom": 2000,
-        "passTo": 2350,
+        "passFrom": 200,
+        "passTo": 235,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 3174
+        "duration": 317
       },
       {
         "id": 100,
@@ -1127,10 +1127,10 @@
         "ask": "Khi tham gia giao thông băng qua đường giao cắt với đường sắt, khi phát hiện phía trước có tàu hỏa đang đi qua. Bạn phải làm gì?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện tàu hỏa xuất hiện",
         "explain": "Ở tình huống này xe khách đã cố tình vượt nên đã gây ra tai nạn giao thông nghiêm trọng",
-        "passFrom": 1200,
-        "passTo": 1500,
+        "passFrom": 120,
+        "passTo": 150,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2514
+        "duration": 251
       },
       {
         "id": 101,
@@ -1138,10 +1138,10 @@
         "ask": "Khi tham gia giao thông băng qua đường giao cắt với đường sắt, khi phát hiện phía trước có tàu hỏa đang đi qua. Bạn cần phải làm gì?",
         "howPass": "Ấn phím cách (Space) tại thời điểm khi đến ngã rẽ và bạn thấy đèn đỏ cảnh báo phía bên trái",
         "explain": "Ở tình huống này xe khách đã cố tình vượt ẩu dẫn đến tai nạn giao thông",
-        "passFrom": 1580,
-        "passTo": 1810,
+        "passFrom": 158,
+        "passTo": 181,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 3086
+        "duration": 308
       },
       {
         "id": 102,
@@ -1149,10 +1149,10 @@
         "ask": "Khi tham gia giao thông bắt gặp xe cứu hỏa đi ngược chiều",
         "howPass": "Ấn phím cách (Space) tại thời điểm ngay khi thấy xe cứu hỏa đi hết đoạn cua ngược chiều",
         "explain": "Vì xe cứu hỏa là xe ưu tiên đang làm nhiệm vụ cấp bách nên bạn cần phải nhường đường ở tình huống này. Xe khách không nhường nên đã gây tai nạn nghiêm trọng",
-        "passFrom": 1560,
-        "passTo": 1920,
+        "passFrom": 156,
+        "passTo": 192,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2730
+        "duration": 273
       },
       {
         "id": 103,
@@ -1160,10 +1160,10 @@
         "ask": "Khi tham gia giao thông ngay khi phát hiện xe con hướng đối diện vượt ẩu, bạn cần phải làm gì?",
         "howPass": "Ấn phím cách (Space) tại thời điểm xe ô tô con màu đỏ chuyển hướng",
         "explain": "Ở tính huống này nếu không giữ khoảng cách an toàn sẽ ngay lập tức có sự van chạm giao thông xảy ra",
-        "passFrom": 1930,
-        "passTo": 2230,
+        "passFrom": 193,
+        "passTo": 223,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 3002
+        "duration": 300
       },
       {
         "id": 104,
@@ -1171,10 +1171,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện đuôi xe con màu đen phía trước sáng đèn và khi gương chiếu hậu xuất hiện xe máy",
         "explain": "",
-        "passFrom": 1910,
-        "passTo": 2210,
+        "passFrom": 191,
+        "passTo": 221,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2798
+        "duration": 280
       },
       {
         "id": 105,
@@ -1182,10 +1182,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm khi xe tải ngườc chiều xuất hiện sau 2 giây (sau 2 giây từ lúc nhìn thấy đèn xe tải sáng). Nếu không áng được chính xác bạn có thể bấm khi thấy sẽ tải đang hướng thẳng đến xe bạn từ xa",
         "explain": "",
-        "passFrom": 1500,
-        "passTo": 1730,
+        "passFrom": 150,
+        "passTo": 173,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2546
+        "duration": 254
       },
       {
         "id": 106,
@@ -1193,10 +1193,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm thấy biển công trường đang thi công.",
         "explain": "",
-        "passFrom": 2080,
-        "passTo": 2270,
+        "passFrom": 208,
+        "passTo": 227,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 3434
+        "duration": 343
       },
       {
         "id": 107,
@@ -1204,10 +1204,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm khi thấy đèn xi nhan trái (trên màn điều khiển) sáng",
         "explain": "",
-        "passFrom": 1200,
-        "passTo": 1390,
+        "passFrom": 120,
+        "passTo": 139,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2734
+        "duration": 273
       },
       {
         "id": 108,
@@ -1215,10 +1215,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm đầu xe tải màu đỏ cam ngược chiều xuất hiện",
         "explain": "",
-        "passFrom": 2030,
-        "passTo": 2190,
+        "passFrom": 203,
+        "passTo": 219,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2662
+        "duration": 266
       },
       {
         "id": 109,
@@ -1226,10 +1226,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm khi thấy ô tô 16 chỗ trong ngõ thông qua khoảng trống (chú ý, bấm trc khi xe đến ngã ba)",
         "explain": "",
-        "passFrom": 1320,
-        "passTo": 1640,
+        "passFrom": 132,
+        "passTo": 164,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2562
+        "duration": 256
       },
       {
         "id": 110,
@@ -1237,10 +1237,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm tầm nhìn biển \"Giao nhau với đường không ưu tiên\" phía bên phải sắp khuất",
         "explain": "",
-        "passFrom": 1320,
-        "passTo": 1620,
+        "passFrom": 132,
+        "passTo": 162,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2742
+        "duration": 274
       },
       {
         "id": 111,
@@ -1248,10 +1248,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm khi thấy xe ngược chiều màu đỏ xuất hiện, đầu xe đỏ chạm vạch làn bên cạnh",
         "explain": "",
-        "passFrom": 1350,
-        "passTo": 1640,
+        "passFrom": 135,
+        "passTo": 164,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2030
+        "duration": 203
       },
       {
         "id": 112,
@@ -1259,10 +1259,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm khi xe ngược chiều ở xa xuất hiện đồng thời bụi cỏ dưới lòng đường vừa khuất tầm nhìn",
         "explain": "",
-        "passFrom": 960,
-        "passTo": 1570,
+        "passFrom": 96,
+        "passTo": 157,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2622
+        "duration": 262
       },
       {
         "id": 113,
@@ -1270,10 +1270,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm xe bắt đầu di chuyển khi đèn tín hiệu chuyển xanh và đầu xe ô tô con bên trái xuất hiện",
         "explain": "",
-        "passFrom": 1360,
-        "passTo": 1540,
+        "passFrom": 136,
+        "passTo": 154,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2014
+        "duration": 201
       },
       {
         "id": 114,
@@ -1281,10 +1281,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm khi xe vừa đi qua cổng cầu, qua 2 thanh trụ đầu tiên.",
         "explain": "",
-        "passFrom": 1360,
-        "passTo": 1800,
+        "passFrom": 136,
+        "passTo": 180,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 3230
+        "duration": 323
       },
       {
         "id": 115,
@@ -1292,10 +1292,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm phần đầu xe máy khuất qua đầu xe con phía trước",
         "explain": "",
-        "passFrom": 1160,
-        "passTo": 1300,
+        "passFrom": 116,
+        "passTo": 130,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2026
+        "duration": 202
       },
       {
         "id": 116,
@@ -1303,10 +1303,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm khi đi qua biển báo khoảng 1s",
         "explain": "",
-        "passFrom": 1890,
-        "passTo": 2130,
+        "passFrom": 189,
+        "passTo": 213,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2701
+        "duration": 270
       },
       {
         "id": 117,
@@ -1314,10 +1314,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm khuất biển ngã tư nguy hiểm và thấy ô tô che hết xe máy phía trước.(hoặc ô tô sáng đèn)",
         "explain": "",
-        "passFrom": 1210,
-        "passTo": 1460,
+        "passFrom": 121,
+        "passTo": 146,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2046
+        "duration": 204
       },
       {
         "id": 118,
@@ -1325,10 +1325,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm xe bắt đầu vào ngã rẽ và tắt đèn xi nhan",
         "explain": "",
-        "passFrom": 1400,
-        "passTo": 1710,
+        "passFrom": 140,
+        "passTo": 171,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2482
+        "duration": 248
       },
       {
         "id": 119,
@@ -1336,10 +1336,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm xe tải phía trước có đèn tín hiệu xi nhan trái.",
         "explain": "",
-        "passFrom": 1030,
-        "passTo": 1300,
+        "passFrom": 103,
+        "passTo": 130,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2538
+        "duration": 254
       },
       {
         "id": 120,
@@ -1347,10 +1347,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm ngay khi phanh xe của xe tải phía trước sáng đèn",
         "explain": "",
-        "passFrom": 1240,
-        "passTo": 1450,
+        "passFrom": 124,
+        "passTo": 145,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 2914
+        "duration": 291
       }
     ]
   }

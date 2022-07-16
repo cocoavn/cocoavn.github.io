@@ -356,10 +356,10 @@
         "ask": "Khi di chuyển trong khu vực ngoại thành đường tối tại gần khúc cua phát hiện phía trước có người di chuyển sang đường chúng ta cần phải làm gì ?",
         "howPass": "Ấn phím cách (Space) tại thời điểm phát hiện người đi bộ bước chân sang đường.",
         "explain": "Khi di chuyển trong khu vực ngoại thành đường tối tại gần khúc cua phát hiện phía trước có người di chuyển sang đường chúng ta cần đạp phanh ngay để giữ khoảng cách an toàn. Khi cảm thấy an toàn thì chúng ta tiếp tục đạp chân ga để di chuyển. ",
-        "passFrom": 110,
-        "passTo": 130,
+        "passFrom": 1100,
+        "passTo": 1300,
         "videoUrl": "https://taplai.com/videos/32.mp4",
-        "duration": 2498
+        "duration": 3100
       },
       {
         "id": 33,
@@ -537,10 +537,10 @@
         "ask": "",
         "howPass": "Ấn phím cách (Space) tại thời điểm xe của bạn bật đèn xi nhan trái 2 lần",
         "explain": "",
-        "passFrom": 91,
-        "passTo": 115,
+        "passFrom": 910,
+        "passTo": 1150,
         "videoUrl": "https://taplai.com/videos/48.mp4",
-        "duration": 266
+        "duration": 2850
       },
       {
         "id": 49,
@@ -551,7 +551,7 @@
         "passFrom": 1240,
         "passTo": 1630,
         "videoUrl": "https://taplai.com/videos/49.mp4",
-        "duration": 2850
+        "duration": 2814
       },
       {
         "id": 50,
@@ -1163,7 +1163,7 @@
         "passFrom": 1930,
         "passTo": 2230,
         "videoUrl": "https://taplai.com/videos/82.mp4",
-        "duration": 3202
+        "duration": 3002
       },
       {
         "id": 104,

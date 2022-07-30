@@ -6,6 +6,52 @@
 		<key>isShow</key>
 		<true/>
 		<key>id</key>
+		<integer>1282</integer>
+		<key>name</key>
+		<string>Đám Đông Cô Đơn </string>
+		<key>author</key>
+		<string>David Riesman</string>
+		<key>number_page</key>
+		<integer>1832</integer>
+		<key>desc</key>
+		<string>Nguồn: tve-4u.org
+Đám đông cô đơn (The Lonely Crowd) là tác phẩm xã hội học nổi tiếng của nhà nghiên cứu không bằng cấp David Riesman (người Mỹ) cùng hai cộng sự Nathan Glazer và Revel Denney. Đây cũng là một trong những cuốn sách có ảnh hưởng nhất thế kỷ 20.
+Hơn 60 năm qua, Đám đông cô đơn chưa hề mất đi khả năng bao quát vấn đề chúng ta đang sống như thế nào. Chúng ta là những người “nội tại định hướng” - từ thuở bé đã bản chất hóa những mục tiêu mà người lớn “cấy cho”, hay người “ngoại tại định hướng” - luôn quá nhạy cảm trước những kỳ vọng và ý thích của người khác? Chúng ta có tự do và hạnh phúc hay không?</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1281</integer>
+		<key>name</key>
+		<string>Đức Phật Trong Ba Lô</string>
+		<key>author</key>
+		<string>Daisaku Ikeda</string>
+		<key>number_page</key>
+		<integer>1832</integer>
+		<key>desc</key>
+		<string>Ai trong chúng ta cũng có lúc gặp phải những chuyện buồn, không được như ý. Đó là những lúc chúng ta dễ dàng gục ngã, nổi giận, hoặc tự nghi vấn về lý do tồn tại của chính mình. Daisaku Ikeda, vị thầy và nhà cải cách Phật Giáo Nhật Bản mang tấm lòng nhân văn sâu sắc, đã viết lên quyển sách “Đức Phật trong ba lô” để giúp các bạn trẻ tìm lại được sự bình yên thực sự cho tầm hồn và cuộc sống.</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1280</integer>
+		<key>name</key>
+		<string>Bàn Tay Cũng Là Hoa </string>
+		<key>author</key>
+		<string>Thích Nhất Hạnh</string>
+		<key>number_page</key>
+		<integer>1832</integer>
+		<key>desc</key>
+		<string>Trong đời sống xã hội, làm thơ và tổ chức bình thơ là tập quán và thú vui bổ ích đối với những người yêu thích thơ văn, đặc biệt là thơ, nhất là vào các dịp lễ trọng của nhân dân ta. Thích Nhất Hạnh - vị thiền sư ở hải ngoại lâu năm là người say sưa với công việc rất tao nhã này.
+Tác phẩm Bàn Tay Cũng Là Hoa giới thiệu và bình giảng các bài thơ của những nhà thơ tên tuổi nước nhà: Nguyễn Bính, Thế Lữ, Tản Đà, Lưu Trọng Lư, Xuân Diệu, Vũ Hoàng Chương và của chính tác giả, vào các đêm giao thừa Tết nguyên đán của dân tộc.
+Tác giả chủ yếu vận dụng quan điểm Phật giáo vào bình giảng các bài thơ, đồng thời có đề cập đến các vấn đề chính trị và chiến tranh... Có thể do ở ngoài ngàn dặm thời gian dài, chưa nắm bắt cặn kẽ tinh hình trong nước và cách nhìn nhận của bản thân nên tác giả có sự nhận định và một số luận điểm không xác đáng, không phù hợp với thực tế, nhất là giữa những người xuất gia và người đi làm cách mạng, cũng như một vài vấn đề khác. Nhưng nhìn chung cả tác phẩm, tác giả cũng góp phần nhất định, theo quan điểm Phật giáo, trong việc nghiên cứu văn học nói chung và thơ ca nói riêng của nước nhà.</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
 		<integer>1256</integer>
 		<key>name</key>
 		<string>Từng Bước Nở Hoa Sen</string>

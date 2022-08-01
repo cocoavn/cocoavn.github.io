@@ -6,6 +6,23 @@
 		<key>isShow</key>
 		<true/>
 		<key>id</key>
+		<integer>1292</integer>
+		<key>name</key>
+		<string>Tìm Mình Trong Thế Giới Hậu Tuổi Thơ</string>
+		<key>author</key>
+		<string>Đặng Hoàng Giang</string>
+		<key>number_page</key>
+		<integer>692</integer>
+		<key>desc</key>
+		<string>Tìm mình trong thế giới hậu tuổi thơ dẫn người đọc vào thế giới của người trẻ trên dưới hai mươi tuổi, lứa tuổi không còn trẻ con, nhưng cũng chưa thực sự là người lớn. Trong thế giới đó có những run rẩy của va chạm thân thể lần đầu, có lấp lánh của tình yêu, có những đêm dài, những chuyến đi xa, những hoang mang và băn khoăn hiện sinh. Nhưng bao trùm lên tất cả, như một tấm màn lớn, là nỗi đau. Nỗi đau từ sự cô đơn của đứa con vẫn được xã hội khen là “trưởng thành” và “ngoan,” từ sự trống rỗng nội tâm của đứa trẻ lớn lên trong một gia đình lạnh lẽo, từ sự tuyệt vọng của người trẻ bị giam cầm trong nhà tù mang tên tình yêu cha mẹ.
+Vang lên như những bài hát khi buồn đau khi dữ dội, những chân dung trong cuốn sách cùng các phân tích tâm lý học của tác giả sẽ khiến cha mẹ, thầy cô và tất cả những ai có người trẻ trong cuộc sống của mình phải thức tỉnh, phải ngồi xuống lắng nghe con em mình và suy ngẫm về bản thân, để học cách chữa lành và yêu thương đích thực.</string>
+		<key>read_count</key>
+		<string>15663</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
 		<integer>1291</integer>
 		<key>name</key>
 		<string>Thương Lượng Không Nhân Nhượng</string>

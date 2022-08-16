@@ -6,6 +6,22 @@
 		<key>isShow</key>
 		<true/>
 		<key>id</key>
+		<integer>1301</integer>
+		<key>name</key>
+		<string>Trở Về Từ Cõi Sáng</string>
+		<key>author</key>
+		<string>Nguyên Phong dịch</string>
+		<key>number_page</key>
+		<integer>692</integer>
+		<key>desc</key>
+		<string>Trong quyển sách này, tác giả Nguyên Phong đã tận tâm tổng hợp và trích dịch từ các sách rất nổi tiếng về trải nghiệm cận tử và người chết sống lại, gồm: To Those Who Mourn, Embraced By the Light, Life After Life, ... Đó là những trường hợp người chết sống lại kể về hành trình trải nghiệm thế giới bên kia rõ ràng nhất, đã được chứng minh là có thật. Ngoài ra, ông cũng hé lộ những bí mật từ cuốn Tibetan Book of the Dead bằng những lời bình d6an và dẫn chứng sâu sắc. </string>
+		<key>read_count</key>
+		<string>15663</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
 		<integer>1292</integer>
 		<key>name</key>
 		<string>Tìm Mình Trong Thế Giới Hậu Tuổi Thơ</string>

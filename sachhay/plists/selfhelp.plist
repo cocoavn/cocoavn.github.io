@@ -33,6 +33,26 @@ Không phải chương nào cũng hay và logic, theo mình nên chọn đọc m
 		<key>isShow</key>
 		<true/>
 		<key>id</key>
+		<integer>1303</integer>
+		<key>name</key>
+		<string>Định Vị Bản Thân - Bí Quyết Xây Dựng Thương Hiệu Cá Nhân Trên MẠNG XÃ HỘI</string>
+		<key>author</key>
+		<string>Anh Tuan Le</string>
+		<key>number_page</key>
+		<integer>692</integer>
+		<key>desc</key>
+		<string>Nguồn: DTV
+“Đừng theo đuổi mục tiêu của người khác, hãy theo đuổi mục tiêu của chính mình. 
+Khi nghĩ về tương lai, đừng nghĩ về công việc bạn sẽ làm có tên là gì, hãy nghĩ xem bạn đang theo đuổi giá trị gì, điều gì khiến bạn vui, điều gì bạn có thể làm để đóng góp cho xã hội.
+Một thương hiệu cá nhân tốt xuất phát từ việc bạn hiểu rõ chính mình, không xuất phát từ việc bắt chước ai đó.”</string>
+		<key>read_count</key>
+		<string>15663</string>
+	</dict>
+	
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
 		<integer>1304</integer>
 		<key>name</key>
 		<string>Tại Sao Các Quốc Gia Thất Bại</string>

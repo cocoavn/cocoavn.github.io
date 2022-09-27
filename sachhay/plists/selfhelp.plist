@@ -6,6 +6,51 @@
 		<key>isShow</key>
 		<true/>
 		<key>id</key>
+		<integer>1305</integer>
+		<key>name</key>
+		<string>Tâm Lý Học Về Tiền</string>
+		<key>author</key>
+		<string>Morgan Housel</string>
+		<key>number_page</key>
+		<integer>692</integer>
+		<key>desc</key>
+		<string>Nguồn: tve-4u.org
+Đối với mình đây không phải cuốn sách tâm lý học về tiền, mà là giải thích quyền lực của tiền, cách tiền vận hành và một phần lý giải thái độ của con người.
+Một số luận điểm mình vô cùng thích như:
+Quyền lực lớn nhất của tiền là đem lại sự tự do
+Cách phân biệt rich và wealthy
+Lý do tại sao bạn nên tiết kiệm không vì mục đích cụ thể
+Tại sao người Mỹ lại nợ nhiều
+Lí do thành công của Warren Buffet và sức mạnh của sự bền bỉ
+Làm giàu và giữ cho mình giàu có là hai chuyện khác hoàn toàn
+Mình nghĩ đây là cuốn sách đáng đọc, nhất là chương freedom, weath is what you don’t see. Do người viết là một nhà đầu tư nên có nhiều phần liên quan đến chứng khoán hơi khó hiểu.
+Không phải chương nào cũng hay và logic, theo mình nên chọn đọc một vài chương tiêu biểu.
+“Wealth is the nice cars not purchased. The diamonds not bought. The watches not worn, the clothes forgone and the first-class upgrade decline”.</string>
+		<key>read_count</key>
+		<string>15663</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
+		<integer>1304</integer>
+		<key>name</key>
+		<string>Tại Sao Các Quốc Gia Thất Bại</string>
+		<key>author</key>
+		<string>Daron Acemoglu, James A. Robinson</string>
+		<key>number_page</key>
+		<integer>692</integer>
+		<key>desc</key>
+		<string>Sử dụng lịch sử Đông-Tây kim-cổ đã diễn ra trên tất cả các châu lục của trái đất này, hai tác giả lập luận rằng những quốc gia thất bại là những đất nước bị cai trị bởi một nhóm quyền thế tập trung, và những nhóm này đã tổ chức xã hội để phục vụ cho quyền lợi riêng của họ trong khi đại đa số quần chúng nhân dân phải trả giá. Thế lực chính trị bị tập trung trong một nhóm nhỏ, được sử dụng để tạo ra tài sản khổng lồ cho những người nắm giữ quyền lực.
+Trong khi đó, những nước trở nên giàu có là vì người dân nước đó lật đổ giới quyền thế, những người kiểm soát quyền lực, và tạo ra một xã hội trong đó các quyền chính trị được phân phối rộng rãi, trong đó chính phủ có trách nhiệm giải trình và phải đáp ứng trước công dân, và trong đó đại đa số quần chúng có thể tranh thủ các cơ hội kinh tế.
+Tóm lại, điều cuốn sách muốn nhắm đến là thể chế nào có những điều chỉnh, cải cách để dung hợp được các lợi ích kinh tế-chính trị và tạo điều kiện cho người dân làm ăn sinh sống được tốt nhất sẽ thành công. Như sách đã chỉ ra, ngay như Trung Quốc, khi họ giải quyết được phần nào đó sự dung hợp này, họ đã có sự tăng trưởng thần kỳ. Và giờ đây họ vẫn tiếp tục giải quyết bài toán thể chế dung hợp của họ.</string>
+		<key>read_count</key>
+		<string>15663</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
 		<integer>1301</integer>
 		<key>name</key>
 		<string>Trở Về Từ Cõi Sáng</string>

@@ -4,6 +4,89 @@
 <array>
 	<dict>
 		<key>id</key>
+		<integer>116</integer>
+		<key>name</key>
+		<string>Cánh đồng bất tận</string>
+		<key>author</key>
+		<string>Nguyễn Ngọc Tư</string>
+		<key>number_page</key>
+		<real>3120</real>
+		<key>desc</key>
+		<string>Cánh đồng bất tận bao gồm những truyện hay và mới nhất của nhà văn Nguyễn Ngọc Tư. Đây là tác phẩm đang gây xôn xao trong đời sống văn học, bởi ở đó người ta tìm thấy sự dữ dội, khốc liệt của đời sống thôn dã qua cái nhìn của một cô gái. Bi kịch về nỗi mất mát, sự cô đơn được đẩy lên đến tận cùng, khiến người đọc có lúc cảm thấy nhói tim,...
+Nguồn: isach.info</string>
+		<key>isShow</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>115</integer>
+		<key>name</key>
+		<string>Thương Nhớ Mười Hai</string>
+		<key>author</key>
+		<string>Vũ Bằng</string>
+		<key>number_page</key>
+		<real>3120</real>
+		<key>desc</key>
+		<string>Mười hai ở đây là mười hai tháng trong năm mà theo lời tác giả “mỗi tháng lại có những cái đẹp não nùng riêng, nỗi nhớ nhung riêng…”. Thông qua mười hai tháng ấy, Vũ Bằng đã gởi gắm những hồi ức đẹp đẽ của mình về Hà Nội, nơi chốn xa xôi ông luôn hướng về với những phong tục của người Bắc Việt, những thói quen sinh hoạt, những thú vui ẩm thực giản dị mà đầy tính nghệ thuật và trên tất cả là hình bóng người vợ đảm đang dịu hiền đang còn xa cách…
+Nhân vật tôi ở miền Nam mà lòng luôn nhớ thương miền Bắc. Nỗi lòng ấy da diết và khắc khoải tựa thanh gỗ mục, bề ngoài đẹp đẽ mà bên trong đã rệu nát tự bao giờ. Ông biết thế là bất công nhưng tình yêu mà, đã yêu thì bao giờ người mình yêu cũng là đẹp nhất. Ông còn thầm cảm ơn sự bất công ấy bởi nó đã cho ông nhận ra mình yêu Bắc Việt đến dường nào…mà càng yêu thì lại càng nhớ…</string>
+		<key>isShow</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>114</integer>
+		<key>name</key>
+		<string>Mắt Biếc</string>
+		<key>author</key>
+		<string>Nguyễn Nhật Ánh</string>
+		<key>number_page</key>
+		<real>3120</real>
+		<key>desc</key>
+		<string>“Mắt Biếc” là câu chuyện kể về cuộc đời của nhân vật Ngạn. Sinh ra và lớn lên ở một ngôi làn tên Đo Đo (cũng là nguyên quán của Nguyễn Nhật Ánh – tác giả), Ngạn thầm yêu từ nhỏ cô nàng cùng xóm có đôi mắt tuyệt đẹp – Hà Lan. Tuổi thơ ở nơi làng xóm bình yên giản dị thật là đẹp, nhưng rồi cũng đến lúc kết thúc khi cả hai đều phải lên thành phố tiếp tục việc học, và tấm bi kịch bắt đầu từ đây.
+Lòng thương nhớ của Ngạn đối với Hà Lan vẫn luôn không thay đổi, nhưng cô gái ấy đã không thể chống lại sự cám dỗ của thị thành, cô đã ngã vào lòng một người con trai khác tên Dũng. Cô và Dũng có con, nhưng người đàn ông ấy đã ruồng bỏ cô, khiến cô phải gửi đứa trẻ về quê cho bà ngoại chăm sóc, cô đặt tên nó là Trà Long. Hà Lan vẫn biết Ngạn thầm thương mình bấy lâu, nhưng cô không chấp nhận vì cô biết, cô và Ngạn không cùng một lối sống. Thế nhưng tấm lòng của anh trai làng vẫn không hề thay đổi, anh dành hết tình thương cho con cô. Cô bé Trà Long ấy ngày một lớn và trở thành cô giáo, và tất nhiên, cô rất quý mến Ngạn.
+Liệu, Trà Long có phải là những gì mà Ngạn tìm kiếm ở Hà Lan,người có bù đắp lại những thứ mà Ngạn đã bỏ dở trong cuộc đời anh ấy?…</string>
+		<key>isShow</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>112</integer>
+		<key>name</key>
+		<string>Chị Ơi... Anh Yêu Em</string>
+		<key>author</key>
+		<string>Cusiu</string>
+		<key>number_page</key>
+		<real>3120</real>
+		<key>desc</key>
+		<string>Tác phẩm Chị Ơi... Anh Yêu Em được phát triển từ truyện dài đăng trên vozforums của một thành viên nickname là Cusiu. Với lối viết của dân IT không hoa mỹ và lai láng, lại dễ đọc dễ hiểu, đã thu hút tới hơn 400 ngàn lượt view và hơn 4 ngàn comment trong vòng một tháng, lấy đi không biết bao nhiêu cảm xúc của các thành viên thuộc diễn đàn công nghệ thông tin đa phần là con trai này.
+Một vài nhận xét về cuốn sách
+- &quot;Mẹ nội ơi, đọc tới mấy chap cuối là phải nhấc mông khỏi ghế đi đi lại lại, uống ngụm nước để giữ bình tĩnh. Sao mà lại có truyện hay thế không biết, cũng có phần hơi yếu đuối và bồng bột, nhưng nhờ có thế mới tô điểm cho câu chuyện được thì phải, sống thiên về lí trí thì khô khan quá&quot; - ThisLifeIsSuck.
+- &quot;Thear hay phải nói là quá hay. Quá hâm mộ bác Cusiu viết truyện. Chắc hẳn ai đã yêu đơn phương thì đọc thear này sẻ hiểu&quot; - hoahodieph.
+- Phong.tom - &quot;Hihi em ở Gia Lai 2 tháng trước có đọc truyện này thấy hay và cảm động quá nên đã in ra rất nhiều phát cho các bạn trong trường. Chị Ơi... Anh Yêu Em đã trở thành phong trào ở trường. Lớp nào cũng Cusiu!!! Nhiều bạn đọc trong lớp bị thầy cô bắt, có ngày thứ 2, có 25 bạn đứng cột cờ vì anh Cusiu. Mong anh sớm ra sách&quot;- alex_tam.
+- &quot;Đọc xong cái này và &quot;hình như mình có yêu nhau...&quot; của bác, em chạy đi bới tung Google, Facebook, tất tần tật lên, rất là tò mò không biết mặt bác thế nào, bác ơi chia sẻ thêm tí thông tin đi, làm quả ảnh càng tốt, em cực kì cực kì hâm mộ bác, hic...&quot; - quynh06.</string>
+		<key>isShow</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>111</integer>
+		<key>name</key>
+		<string>Cây Cam Ngọt Của Tôi</string>
+		<key>author</key>
+		<string>José Mauro de Vasconcelos</string>
+		<key>number_page</key>
+		<real>3120</real>
+		<key>desc</key>
+		<string>Theo Booklist: “Vị chua chát của cái nghèo hòa trộn với vị ngọt ngào khi khám phá ra những điều khiến cuộc đời này đáng số một tác phẩm kinh điển của Brazil.”
+Theo The National: “Một cách nhìn cuộc sống gần như hoàn chỉnh từ con mắt trẻ thơ… có sức mạnh sưởi ấm và làm tan nát cõi lòng, dù người đọc ở lứa tuổi nào.”
+Hãy làm quen với Zezé, cậu bé tinh nghịch siêu hạng đồng thời cũng đáng yêu bậc nhất, với ước mơ lớn lên trở thành nhà thơ cổ thắt nơ bướm. Chẳng phải ai cũng công nhận khoản “đáng yêu” kia đâu nhé. Bởi vì, ở cái xóm ngoại ô nghèo ấy, nỗi khắc khổ bủa vây đã che mờ mắt người ta trước trái tim thiện lương cùng trí tưởng tượng tuyệt vời của cậu bé con năm tuổi.
+Có hề gì đâu bao nhiêu là hắt hủi, đánh mắng, vì Zezé đã có một người bạn đặc biệt để trút nỗi lòng: cây cam ngọt nơi vườn sau. Và cả một người bạn nữa, bằng xương bằng thịt, một ngày kia xuất hiện, cho cậu bé nhạy cảm khôn sớm biết thế nào là trìu mến, thế nào là nỗi đau, và mãi mãi thay đổi cuộc đời cậu.
+Mở đầu bằng những thanh âm trong sáng và kết thúc lắng lại trong những nốt trầm hoài niệm, Cây cam ngọt của tôi khiến ta nhận ra vẻ đẹp thực sự của cuộc sống đến từ những điều giản dị như bông hoa trắng của cái cây sau nhà, và rằng cuộc đời thật khốn khổ nếu thiếu đi lòng yêu thương và niềm trắc ẩn. Cuốn sách kinh điển này bởi thế không ngừng khiến trái tim người đọc khắp thế giới thổn thức, kể từ khi ra mắt lần đầu năm 1968 tại Brazi</string>
+		<key>isShow</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>id</key>
 		<integer>1300</integer>
 		<key>name</key>
 		<string>Cho Tôi Xin Một Vé Đi Tuổi Thơ</string>

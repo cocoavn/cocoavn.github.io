@@ -6,6 +6,22 @@
 		<key>isShow</key>
 		<true/>
 		<key>id</key>
+		<integer>1302</integer>
+		<key>name</key>
+		<string>Hoa Sen Trên Tuyết</string>
+		<key>author</key>
+		<string>Nguyên Phong</string>
+		<key>number_page</key>
+		<integer>1832</integer>
+		<key>desc</key>
+		<string>Nguồn: DTV
+Trên nền câu chuyện cuộc đời của nhân vật có thật, triệu phú Alan Havey, Hoa sen trên tuyết gieo vào độc giả nhiều điều phải nghĩ. Xuất thân từ một gia đình nghèo ở Mỹ và hiểu rõ giá trị của đồng tiền.Alan Havey đã nỗ lựcrất nhiều để làm việc, học tập và đạt được những thành công nhất định: biệt thự lộng lẫy bên bờ Michigan, căn nhà nghỉ mát trên núi Mt Vernon, du thuyền, tài khoản kếch xù trong ngân hàng và một cô vợ đẹp như diễn viên điện ảnh…Cuộc sống đầy đủcứ thế diễn ra cho tới khi những biến cố lần lượt đến trong cuộc đời: ông phát hiện bị ung thư; một số khoản đầu tư bị thua lỗ và sự nghiệp của ông có chiều hướng đi xuống. Và, người vợ - cũng là niềm tự hào của ông với mọi người đòi ly hôn để chia tài sản…
+Tại sao ông lại phải gánh chịu những việc như vậy trong khi ông đã dành phần lớn thời gian, công sức của mình để làm việc và nỗ lực? Ông để vợ ông có cuộc sống tốt nhất nhưng cuối cùng ông vẫn bị bỏ rơi với hàng loạt cáobuộc? Thực sự, sống tốt, sống lành là tốt hay không? Câu trả lời rằm ở hành trình ông rời bỏ những bế tắc, theo lời khuyên của một người bạn, để thực hiện một chuyến du lịch “không mục đích” đến Dharamsala - nơi Đức Đạt Lai Lạt Ma và hàng chục nghìn người Tây Tạng đang tị nạn. Cả cuốn sách là những ghi chép tỉ mỉ về hành trình của ông, những người ông gặpđể từ đó, mang đến lời giải đápcho câu hỏi của chung rất nhiều người: “Ý nghĩa của cuộc sống này là gì?”.</string>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>id</key>
 		<integer>1282</integer>
 		<key>name</key>
 		<string>Đám Đông Cô Đơn </string>
